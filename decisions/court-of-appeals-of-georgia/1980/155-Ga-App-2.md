@@ -1,0 +1,32 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "59548"
+decided: "1980-06-17"
+citations: ["155 Ga. App. 2"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Quillian, P. J., and Shulman, J., concur."]
+parties: ["MATTHEWS v. TAYLOR et al."]
+source_url: "https://static.case.law/ga-app/155/cases/0002-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 818337
+cites_cases: ["141 Ga. App. 825", "142 Ga. App. 293", "164 SE2d 832", "184 SE2d 82", "224 Ga. 706", "224 SE2d 921", "228 Ga. 39", "234 SE2d 666", "235 SE2d 560", "236 Ga. 645", "242 Ga. 192", "249 SE2d 552"]
+---
+
+# Matthews v. Taylor
+
+## Majority (Carley, Judge.)
+
+Carley, Judge.
+This is a property damage action arising out of a three-car collision. Plaintiff-appellee Taylor filed suit against defendant-appellant Matthews seeking judgment for property damage rendered to his vehicle. Appellant Matthews answered and filed a counterclaim against appellee Taylor seeking judgment for property damage to his vehicle. Additionally, appellant Matthews filed a third-party complaint against appellee Conn seeking judgment for contribution should appellant be found liable in the original complaint. Appellee Conn answered, as third-party defendant, and filed a counterclaim against appellant Matthews and a cross claim against appellee Taylor. The jury returned a verdict against appellant Matthews in favor of the claims of appellees for property damage to their respective vehicles and against appellant on his claims against appellees. Appellant brings this appeal.
+1. Appellant enumerates as error the trial court’s denial of appellant’s request to introduce into evidence the deposition of a non-party witness. Upon proffer by appellant of the deposition, appellees objected on the basis that the witness was not shown to be unavailable pursuant to Code Ann. § 81A-132 (a) (3). “As a prerequisite to the use of a deposition of a party who is not present, there must be a finding by the court that one of the conditions listed in [81-132(a)(3)J exists.” Building Assoc. v. Crider, 141 Ga. App. 825, 829 (234 SE2d 666) (1977). Although counsel for appellant made a statement to the court in his place as to the unavailability of the witness, counsel for appellees interjected a timely objection thereto and requested further verification of the statement. Morris v. State, 228 Ga. 39, 49 (184 SE2d 82) (1971). Also, the trial court’s attention was directed to that portion of the deposition in which the witness testified that at the time of the taking of the deposition he was a resident of Louisiana. While there is some evidence that the witness was out of the county and that appellant had been unable to procure the attendance of the witness by subpoena, a finding of unavailability is not demanded. Therefore, we cannot conclude that the trial court erred as a matter of law in refusing to permit appellant to introduce the concerned deposition. This enumeration is without merit.
+2. Appellant also enumerates as error the failure of the trial court to charge without request certain statutory provisions pertaining to the uniform rules of the road, those being Code Ann. § 68A-309 (a) and (c) and Code Ann. § 68A-604 (a). The record reveals that appellant neither presented written requests to the trial court on the aforesaid statutes nor objected to the court’s failure to so charge when presented with the opportunity after the conclusion of the charge to the jury. “A party in a civil case cannot complain of the giving or the failure to give an instruction to the jury, unless he objects thereto before the jury returns its verdict. Code Ann. § 70-207(a). The exception to the rule found in Code Ann. § 70-207(c) (harmful as a matter of law) is inapplicable ‘unless it appears that the error contended is “blatantly apparent and prejudicial” [Cit.], and that a “gross miscarriage of justice attributable to it is about to result.” [Cit.]’ ” Sullens v. Sullens, 236 Ga. 645, 646 (224 SE2d 921) (1976); Mathews v. Penley, 242 Ga. 192 (249 SE2d 552) (1978). Considering the charge to the jury as a whole, appellant’s enumeration of error does not meet the criteria set forth in Code Ann. § 70-207(c) and, therefore, we cannot decide whether the trial court erred in failing, during his original charge, to instruct as to the cited statutory provisions.
+Argued March 3, 1980
+Decided June 17, 1980.
+John C. Edwards, John T. McGoldrick, Jr., for appellant.
+Jack C. Daniel, Wallace Miller, III, Robert S. Slocumb, Eric D. Griffin, Jr., for appellees.
+Appellant further urges that even without request and notwithstanding the absence of an objection pursuant to Code Ann. § 70-207, the trial court erred in failing to charge all applicable law, including the above enumerated Code sections, upon receipt of a written question from the jury after it had retired for deliberation. The question was: “Is it legal to stop for a turn in traffic lane when there is a turning lane?” The answer of the court was: “The charge already given is all we can give you on this matter and hope you will exercise your best judgment.” While counsel for appellant did not request the trial court to charge the jury as to the concerned Code sections, he did state: “Well, I still object to your doing that, your Honor, just your not instructing them on the law.”
+Pretermitting the issue of the applicability of the enumerated Code sections, we look to the duty of the trial court when faced with a question from the jury. “ ‘When the jury requests the court to re-charge them on any point, it is the duty of the court to do so.’ [Cits.]” Hubert v. City of Marietta, 224 Ga. 706, 711 (164 SE2d 832) (1968). Furthermore, “[w]hen the jury is confused and in doubt and requests further instructions on a particular point, it is the duty of the court to further instruct them. [Cits.]” Freeman v. State, 142 Ga. App. 293, 294 (235 SE2d 560) (1977). On the basis of the above cited authority, we conclude that the obligation of the court to clarify any confusion of the jury as to the applicable law extends to any questions posed by the jury on issues raised by the evidence during trial. The trial court committed reversible error in merely instructing the jury to consider the instructions previously given.
+Judgment reversed.
+Quillian, P. J., and Shulman, J., concur.
