@@ -1,0 +1,31 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "31013"
+decided: "1945-10-04"
+citations: ["73 Ga. App. 16"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Felton and Parleer, JJ., concur."]
+parties: ["AULT v. WHITTEMORE."]
+source_url: "https://static.case.law/ga-app/73/cases/0016-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1530376
+cites_cases: ["199 S. E. 771", "58 Ga. App. 729"]
+---
+
+# Ault v. Whittemore
+
+## Majority (Sutton, P. J.)
+
+Sutton, P. J.
+This Was a suit by Mrs. Iris Whittemore against Lake Ault, in Whitfield superior court, for damages for personal injuries. Mrs. Whittemore, the wife of B. B. Whittemore, was riding with him in his automobile when the collision occurred between his ear and the automobile of Lake Ault, on June 6, 1944, on the bridge on the public highway across Chickamauga creek. The allegations of the petition in this case, charging negligence, are the same as the allegations of -negligence in the petition of the plaintiff in the case of Whittemore v. Ault, ante, and it is not necessary to set them out here. Mrs. Whittemore alleged that she sustained certain injuries to her left foot, left ankle, and right leg, and lacerations of her forehead from the collision of the two automobiles, caused by the alleged negligence of the defendant Ault; that she was confined to her home for ten weeks, during which time she suffered excruciating pain, and she still suffers pain and will continue to suffer in the future; that she is the owner and operator of a beauty parlor in the City of Dalton, and earned $500. per month in the operation of the beauty parlor, but, on account of said personal injuries, caused by the negligence of the defendant, she has not been able to carry on her work as she did prior to said injuries, it being necessary for her to be upon her feet while performing the duties of her profession; that her earning capacity has been permanently reduced at least 25 percent; that she was 28 years of age at the time she sustained said injuries, was in good health, and had a reasonable life expectancy of 35.69 years. She sued for damages in the sum of $10,000, for lost time, pain and suffering, past, present, and future, for permanent reduction in her earning capacity, and for doctor’s bills, and alleged that her husband had waived any right that he might have to her said earnings by reason of being her husband.
+The defendant in his answer denied all the material allegations of the petition, and alleged that he was in the exercise of proper care in the operation of his automobile on the occasion in question, and that the driver of the automobile in which the plaintiff was riding failed to exercise ordinary care for his safety and the safety of the plaintiff, thus causing injuries to the plaintiff without any fault of the defendant.
+This case and that of B. B. Whittemore v. Ault were tried together, and the evidence as to the negligence causing the collision of the two automobiles was the same in each case. There was evidence tending to support the other allegations of the petition. The jury returned a verdict in favor of the plaintiff for $1500. The defendant moved for a new trial, amended his motion by adding three special grounds, and excepted to the judgment overruling the motion.
+1. Special ground 1 assigns error on the following charge of the court: “As to the case of Mrs. Iris Whittemore against Lake Ault, I charge you that, if you find from the evidence in this case that both her husband, B. B. Whittemore, and Lake Ault were negligent, and you further find that the latter was negligent in one or more of the ways alleged in her petition, and you further find that the concurrent negligence of these two constituted the direct and proximate cause of her injuries, if any, she would be entitled to recover from the defendant, Lake Ault, subject to the other rules I have heretofore and will hereafter give you in charge, and in such case the negligence of the husband is not imputable to her.” It is contended that this charge was erroneous and unsound as an abstract principle of law; and that it was misleading and confusing to the jury, in that it instructed them that they might under the evidence return a verdict for the plaintiff, although they should find that the negligence of the defendant was not the proximate cause of the plaintiff’s injury, and was not the preponderating and controlling cause of the injury.
+It was ruled by this court in Allyn & Bacon Book Publishers v. Nicholson, 58 Ga. App. 729 (199 S. E. 771), that “the proximate cause of an injury may result from two distinct, concurrent, negligent acts.” The plaintiff charged in her petition that her injuries were caused by the negligence of the defendant. The evidence supported her contention, and there was also evidence on the part of the defendant to the effect that the collision of the two automobiles was caused by the negligence of B. B. Whittemore. The plaintiff was riding as a guest in her husband’s automobile at the time of the collision and, under the facts, any negligence on his part was not imputable to her. The charge complained of was adjusted to the pleadings and the evidence, and was not error for any reason assigned.
+2. Special ground 2 excepts to the same portion of the charge on the measure of damages as was excepted to in ground 3 of the amended motion in the case of Whittemore v. Ault, ante, and the ruling in division 3 of the opinion in that case is applicable and controlling here. No error harmful to the plaintiff in error is shown by this ground of the motion.
+3. It is contended in special ground 3 that the court erred in refusing to give in charge to the jury the same written request which is set out and complained of in ground 4 of the amended motion in Whittemore v. Ault, ante. The theory of accident was not involved in this case, and the court did not err in failing to give the requested charge. The ruling made in division 4 of the opinion in the case just stated is applicable and controlling here.
+4. The verdict was authorized by the evidence, no reversible error of law appears, and the court did not err in overruling the motion for a new trial.
+Judgment affirmed.
+Felton and Parleer, JJ., concur.
