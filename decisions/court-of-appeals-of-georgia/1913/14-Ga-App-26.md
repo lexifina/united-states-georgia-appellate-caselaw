@@ -1,0 +1,24 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "5260"
+decided: "1913-11-25"
+citations: ["14 Ga. App. 26"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RASTE v. THE STATE."]
+source_url: "https://static.case.law/ga-app/14/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1284627
+cites_cases: ["11 S. E. 133", "84 Ga. 188"]
+---
+
+# Raste v. State
+
+## Majority (Russell, C. J.)
+
+Russell, C. J.
+At the October term, 1910, of Tattnall superior court the defendant was convicted of the offense of burglary, and was sentenced by the judge. He made a motion for a new trial. At some time not disclosed by the record the motion for a new trial was denied, and on February 20, 1913, a bill of exceptions was certified. At the July term, 1913, of Tattnall superior court, upon a showing by the solicitor-general that no bill of exceptions had been filed in the Court of Appeals, and that no bill of exceptions was- of file in the office of the clerk of the superior court of Tattnall county, and that no supersedeas of the sentence had been obtained, the court granted an order directing the sheriff to arrest the defendant, and that the sentence previously pronounced be enforced. This order was entered July 15, 1913, and on July 17, 1913, the defendant filed objections to the enforcement of the sentence, setting up that service of the bill of exceptions had been acknowledged by the solicitor-general, and that it had then'been filed with the deputy clerk of the superior court and a supersedeas bond given, and that the defendant was in nowise responsible for the failure of the clerk to send the case to the Court of Appeals. It further appeared from the objections that the bill of exceptions had,not been transmitted to the Court of Appeals. It is stated in the present bill of exceptions that the objections were filed during the term at which the order to enforce the sentence was granted, but the only assignment of error is upon the grant of the order to enforce the sentence, which, as we have stated above, preceded the objections, which were brought to the attention of the judge for the first time! when this bill of exceptions was presented. We assume that the' trial judge refused to consider the objections (for he could not have dealt with them when presented), 'and, inasmuch as there was no motion to open or set aside the prior judgment ordering the enforcement of the sentence, the court did not err in refusing to consider these subsequent objections. The court’s judgment ordering the enforcement of the sentence could not, after its rendition, be attacked by objections such as were filed; and even if the objections be treated as a motion to vacate, filed during the term at which the judgment was rendered, the court did not err in overruling them,. It appears to be undisputed that nearly five months hád elapsed between the certification of the bill of exceptions and the order directing the enforcement of the sentence; and while it appears from the objections that the bill of exceptions was duly filed with the deputy clerk of the superior court, and that it was his duty, and not that of counsel for the plaintiff in error, to transmit the bill of exceptions and transcript of record to this court, still we are of the opinion that, in the exercise of ordinary diligence, counsel for the plaintiff in error could have ascertained and should have known, before the order directing the enforcement of the-' sentence was granted, that the bill of exceptions had not in fact been transmitted, and should have taken appropriate steps to require it to be transmitted.
+While the case does not fall within the rulings in cases such as that of Farrar v. Oglesby, 84 Ga. 188 (11 S. E. 133), in which the writ of error was dismissed because the delay of the clerk of the superior court was due to the active interposition of counsel for' the’ plaintiff in error, still it would seem to be the duty of a party eon-victed of a crime, who believes he is entitled to a reversal of the judgment of conviction, to take sufficient interest in his case to ascertain whether necessary steps to that end are being taken. It would seem'that in a period so long as five months even ordinary curiosity would have prompted an inquiry which would have revealed, before the assembling of the -court, the true condition of affairs, and have prevented the order of which complaint is now made. •
+We think the judge was 'authorized, upon the showing made, to treat the bill of exceptions, if filed, as having been abandoned; but we are not required to rule upon this point, for the reason that there was no motion to set aside the judgment previously rendered, and the objections to the rendition of the judgment came too late.
+Judgment affirmed.
