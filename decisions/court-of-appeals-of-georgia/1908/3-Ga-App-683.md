@@ -1,0 +1,24 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "433"
+decided: "1908-02-24"
+citations: ["3 Ga. App. 683"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GRIGGS v. THE STATE."]
+source_url: "https://static.case.law/ga-app/3/cases/0683-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1258606
+---
+
+# Griggs v. State
+
+## Majority (Bussell, J.)
+
+Bussell, J.
+The -plaintiff in error was found guilty of running a freight-train on the Sabbath day. His case was tried upon an agreed statement of facts before the judge of the superior court. The running of the freight-train was admitted. The defendant relied, for his defense, on the exemption provided by the amendment to §420 of the Penal Code, passed in 1899 (Acts of 1899, p. 99). The judge of the superior court placed his judgment, finding the defendant guilty, upon the ground that the act •of 1899 was unconstitutional and therefore afforded Griggs no defense.
+This court, by the express terms of the constitutional amendment creating it, is without jurisdiction to pass upon the constitutionality of legislative enactments. While the original constitution declares it to be the duty of the court to declare unconstitutional all legislation which is in fact violative of its provisions, still the amendment submitted by the act of 1906 and adopted by the people created an exception, so far as the Court of Appeals is concerned. This court, having certified the case to the Supreme ■Court, as provided by section 3 of that act (which section amended section 2 of article 6 of the constitution by the addition of the '9th paragraph), and the Supreme Court being unable to consider the question of the constitutionality of the act of 1899, for the reason that such question is held by the Supreme Court not to be property presented for its consideration, the case is again before us for final decision. The principle to which the Supreme Court refers in its decision in this case has been several times recognized by this court, and was not overlooked at the time the case was certified and the question submitted; but as this court was without jurisdiction to declare a law unconstitutional, we felt it to be our duty to submit the question to the Supreme Court, following the well-settled general rule that an act is to be presumed to be constitutional, until it has been declared to be unconstitutional. The act of 1899 must by us be considered as valid, until otherwise ■declared by the Supreme Court upon the proper presentation of the question. Holding this act to be presumptively constitutional, it affords an absolute defense to the defendant in this case, under the agreed statement of facts; and for that reason the lower court •erred in overruling the motion of the defendant for a new trial.
+The superior court having jurisdiction to declare an act uncon••stitutional, and this court having no such jurisdiction, and the Supreme Court not having declared the act to be constitutional, or, in other words, not having decided contrary to the judge of the superior court, we should be inclined to affirm the judgment in this case. But the Supreme Court, in this case, upon certification to it, held that the question of the constitutionality of the act was not made in the court below nor passed upon by the trial .judge. This decision is conclusive.
+The judgment of the trial judge was as follows: “It is considered and adjudged by the court that the defendant, A. Griggs, is guilty, as charged, because of the unconstitutionality of the act of 1899 (Acts 1899, pp. 88, 89), approved December 14, 1899. And the court adjudges said act to be unconstitutional, and adjudges the defendant guilty.” The only logical effect of the decision of the Supreme Court in the present case is to hold that the judge of the superior court does not have the power to declare a legislative enactment unconstitutional, unless there is specified some particular provision of the fundamental law which is violated. And where an act is so held to be unconstitutional, without any reference to the provision of the constitution offended, an appellate court, considering the judgment upon review, must, in the ' absence of any specification or direction as to how and wherein and for what reason the act in question is unconstitutional, give superior weight to the general presumption to which reference has heretofore been made. In the absence of any special reason showing why a specific legislative enactment is unconstitutional, and unless it is also shown what particular provision of the fundamental law the act in question violates or offends, every law as passed by the General Assembly of this State must be presumed to be constitutional. It must be so held in this case.
+Judgment reversed.
