@@ -1,0 +1,28 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "24381"
+decided: "1935-03-26"
+citations: ["51 Ga. App. 24"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Broyles, O. J., and Guerry, J., concur."]
+parties: ["HOWARD v. THE STATE."]
+source_url: "https://static.case.law/ga-app/51/cases/0024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1471231
+---
+
+# Howard v. State
+
+## Majority (MacIntyre, J.)
+
+MacIntyre, J.
+Fred Howard was charged with committing murder by driving an automobile, “then and there held and driven by the said Fred .Howard,” against one Jim Frazier. The jury found the defendant guilty of “involuntary manslaughter in the commission of an unlawful act,” and his motion for a new trial, based solely upon the usual general grounds, was overruled, and he excepted.
+It appears from the evidence that a short while after' dark on a certain night, a wagon overloaded with negroes broke down near the approach of a bridge on a road in Worth county; that while Jim Frazier was at the rear of the wagon, trying to repair it, an automobile with six persons in it struck him and the rear end of the wagon, killing him and completely wrecking both the automobile and the wagon; that the wagon had no lights on it, but that the headlights of the automobile were burning; and that there was ample room in the road for the automobile to have passed to the left of the wagon without striking it.
+The State introduced evidence to the effect that two of the occupants of the wagon went back a short distance and signalled the automobile to stop, but that it never slackened its speed of sixty miles or more per hour, and that there was nothing to prevent the driver of the automobile from seeing the wagon in ample time to have avoided the collision. The occupants of the automobile claimed that when the two negroes signalled them, the negroes were so acting that they, the occupants of the automobile, thought that they were about to be held up, and were afraid to stop; that the automobile was traveling at a moderate rate of speed, to wit twenty-five or thirty miles per hour; and that the wagon was not visible until the automobile was close upon it.
+Without more, we will state that we are satisfied that the jury were warranted in concluding that some one committed the offense of “involuntary manslaughter in the commission of an unlawful act.” But able counsel for the plaintiff in error strenuously contends that the conviction can not stand, for the reason that the evidence shows that the defendant’s son, and not the defendant, was driving the automobile at the time of the collision. If counsel’s premise be correct, his conclusion is sound, for the indictment charges that Frazier was killed by an automobile “then and there held and driven by . : Fred Howard,” and the evidence that the defendant’s wife owned and controlled the automobile is uncontradicted. The defendant stated to the jury, in effect, that when the car stopped several miles from the place where the collision occurred, he procured whisky and got drunk, and that when he got back in the car and got under the wheel, his wife refused to allow him to drive further, and had his son do the driving from that time on, and that when the collision occurred his son was driving. This statement was supported by the testimony of the defendant’s wife, his son, and the other two occupants of the automobile, as well as by the testimony of two other persons, who said that they were in automobiles that passed the one in which the defendant was riding shortly before the collision.
+For the State, J. N. Sumner, the sheriff of Worth county, testified in part as follows: “We went out there and found Jim Frazier killed. . 1 Fred [the defendant] was there all the time. . . I asked him why in the world he didn’t stop when he saw the wreck, and he said: 'When I saw it, I put to vanish around it, and I just run into the wagon.’ I said 'Why didn’t you stop when you were approaching the wrecked wagon?’ He mumbled around there and finally told me he was coming on there down a piece, he said he was standing on his brakes with all his power, but they didn’t stop it. I asked him what distance he was before he saw it, and he said something like forty or fifty yards before he hit it. Fred was under the influence of whisky. I smelled whisky on him, and he had a cigar which he took up most of his time trying to light . . while we were investigating. . . Fred was pretty well loaded that night with whisky—so full he wanted to do all the talking, and his wife told him several times to shut up and let the white folks do the talking. . . I noticed the defendant’s condition, and I said he was intoxicated. Basing my opinion on his condition then and there, I believe he had sufficient mental ability to have driven a car to that place from Warwick safety. I have seen plenty of people realty drunker than he was driving a car.” In his statement to the jury the defendant said: “I said I was sorry we had the wreck, but I would have to have the responsibility, and I comes to jail.”
+Under the facts of this case, it was peculiarly the province of the jury to assess the probative value of the defendant’s admission that he was the driver of the car. They accepted that admission as the truth, rather than the contrary version supported by the testimony of numerous witnesses, and this court can not say that the jury were wrong. We hold that the evidence supports the verdict, and that the court did not err in overruling the motion for a new trial.
+Judgment affirmed.
+Broyles, O. J., and Guerry, J., concur.
