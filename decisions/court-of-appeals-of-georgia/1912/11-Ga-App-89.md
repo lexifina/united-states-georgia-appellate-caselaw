@@ -1,0 +1,25 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "4064"
+decided: "1912-04-16"
+citations: ["11 Ga. App. 89"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SMITH v. THE STATE."]
+source_url: "https://static.case.law/ga-app/11/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1275246
+cites_cases: ["108 Ga. 554", "115 Ga. 346", "29 Ga. 36", "33 S. E. 1013", "4 Ga. App. 859", "41 S. E. 636", "5 Ga. App. 3", "6 Ga. App. 248", "62 S. E. 574", "62 S. E. 577", "64 S. E. 713", "70 S. E. 141", "8 Ga. App. 660"]
+---
+
+# Smith v. State
+
+## Majority (Pottle, J.)
+
+Pottle, J.
+The accused was convicted of having and keeping on hand intoxicating liquors at his place of business, and excepts to the overruling of his motion for a new trial. The chief contention of counsel for the plaintiff in error is that the evidence demanded a verdict of not guilty. Taking the evidence most strongly for the State, as it must be taken in this court, the facts were as follows : The accused was in possession of four rooms, all under one roof and referred to in the evidence as rooms A, B, C, and D. A was a front room, in which the accused conducted a grocery business. In the rear of A was a door leading into B. C was entered by means of a door from B, and another door connected C with D, which was a small room, about four and a half by eight feet. A restaurant had been conducted by the accused in one of the rear rooms of these apartments, but was not in operation when the arrest was made, though a cook-stove, a little table, and some chairs were in the room. Several dozen bottles of “Magnolia beer” .were found in an ice-box in room C, and in D were found fifteen bottles of rye whisky, six bottles of corn, and one of gin. Some of the whisky was in a satchel, and some between the mattress and springs of a cot. The mattress was old and dirty, and there were no sheets, pillows, or bedding of any sort. The accused resided across the block from his store. He admitted ownership of the liquor, but claimed that he bought it for a personal use, and that he did not keep it at his place of business, but kept it in a room used by him as a place to sleep, and where he did sleep occasionally, so as to be near his business.
+We can not agree with counsel for the accused that the conviction was not authorized. Manifestly rooms B, C, and D were convenient adjuncts to room A, wherein the grocery business was being conducted. Certainly the place was not his residence, for he lived elsewhere. It is immaterial that the beer may not have been shown to be intoxicating. There was too much liquor that would produce drunkenness; the circumstances were too suspicious; the cot and dirty mattress were but a flimsy pretext; the stove, chairs, and table all indicate that the rooms B and C and D were maintained as a part of the establishment, and as a convenient place in which to keep intoxicating liquors for unlawful use.
+In this connection we reaffirm the decision in Jenkins v. State, 4 Ga. App. 859 (62 S. E. 574), which is controlling here. See, also, Bashinski v. State, 5 Ga. App. 3 (62 S. E. 577). The judge properly gave in charge the excerpt from the Jenkins case, quoted in the 9th headnote of this decision. It is not so much the kind of j)lace as the use to which it is put that determines whether it is a “place of business” within the meaning of the prohibition law. Lyons v. State, 6 Ga. App. 248 (64 S. E. 713). No definite rule can be laid down as applicable to all cases, but the safe course is not to have, “in” or “at” or “near” or “around” one’s place of business intoxicating liquors of .any description. This court is not disposed to indulge in refinements of logic or subtleties of definition, to aid in evasion of the prohibition law. One charged with a violation of this act, like every other person charged with crime, is entitled to a fair and impartial trial, and it is the bounden duty of the trial court and this court to see that he gets it. But the declared policy of the State, as announced in the statute, should meet with the vigorous and hearty co-operation of the judicial department. With the wisdom of the law we have, as judges, no concern. Rigid enforcement of the law is in accord with the settled policy of the State, and this court will lend its aid by giving such an interpretation to the act as will effectuate its declared purpose.
+The conviction in this case was fully authorized. There are numerous assignments of error. Such of them as require special notice 'are dealt with in the headnotes, which do not need elaboration. The case was not. one in which the court was bound to charge without request the rules of law relating to circumstantial evidence, even if the conviction can be properly said to rest even in part upon this character of evidence. Harvey v. State, 8 Ga. App. 660 (70 S. E. 141). The trial was free from prejudicial error.
+Judgment affirmed.
