@@ -1,0 +1,24 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "2204"
+decided: "1910-04-19"
+citations: ["7 Ga. App. 642"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BROWN v. MASSACHUSETTS MILLS IN GEORGIA."]
+source_url: "https://static.case.law/ga-app/7/cases/0642-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 613792
+cites_cases: ["10 L. R. A. (N. S.) 772", "110 Ga. 1", "110 Ga. 192", "111 Ga. 427", "127 Ga. 610", "3 Ga. App. 50", "35 S. E. 297", "35 S. E. 365", "36 S. E. 804", "4 Ga. App. 462", "5 Ga. App. 128", "56 S. E. 839", "59 S. E. 338", "61 S. E. 881", "62 S. E. 1008"]
+---
+
+# Brown v. Massachusetts Mills
+
+## Majority (Bussell, J.)
+
+Bussell, J.
+Brown sued the Massachusetts Mills in Georgia for personal injuries. The petition alleged, in substance, that “Walter Maroney, the second boss of petitioner, whose orders petitioner was bound to obey and under whose orders petitioner worked, took petitioner from his regular work and stationed him in the cloth room, to trucking bales of cotton ;” that a few days thereafter “Joel Den-ton, who had the trucking of the bales of cloth in hand, and who was controlling the movements and directions of said trucking, and while petitioner was leaning in a stooping posture near a bale of cotton, for the purpose of putting another bale of cotton on a truck which petitioner was handling, the said Joel Denton, with the knowledge that petitioner was near him and in said stooping posture attempting to adjust said bale of cloth which petitioner was handling, recklessly, negligently, and carelessly let the bale of cloth at which he, the said Joel Denton was loading, fall over on petitioner and injure him.” It was further alleged, that immediately before the casualty, the “second hand” went to Denton and commanded him to work in a hurry, and that “in obedience to said command from, said second hand, said Denton, under the command and supervision of said Maroney, was trucking said cotton cloth with great rapidity, recklessly, and negligently,” and that “the cause of said bale of cloth falling on petitioner was the reckless way and hurried manner in which it was being handled by said Denton under the directions and command of said Maroney;” that “if said Maroney had not hurried said Denton, said bale would not have fallen on petitioner.” The judge dismissed the petition on general demurrer, and the plaintiff excepted.
+1. The allegation that the proximate cause of the plaintiff’s injuries was the order of the “second boss,” Maroney, to Denton, to work in a hurry, when taken in connection with the other allegations of the petition, is a mere legal conclusion, and is not admitted by the demurrer. It is a well-established principle that a demurrer admits the facts as stated -in the petition, but not the legal conclusions drawn therefrom by the pleader. Lewis v. Amorous, 3 Ga. App. 50, 53 (59 S. E. 338).
+2. Looking to the petition as a whole, it is plain that the juridic cause of the plaintiff’s injury was the negligence of a fellow servant. It appears that the act which caused his injury was the careless handling of the bale of cotton by Denton, who was engaged in the same work as the plaintiff himself. Both of them were trucking cotton, and, while the plaintiff was placing a bale on his truck, Denton, who was engaged in a similar act near him, “recklessly, negligently, and carelessly” let the bale with which he was working fall over on the plaintiff and injure him.' The mere fact that Den-ton was “controlling the movements and directions of said trucking” would not make him an alter ego of the master in the performance of the act of loading the truck. While performing this act Denton occupied the relation of a fellow servant to the plaintiff, and the common master was not liable for the negligent manner in which the act was performed. Singleton v. Merchants & Miners Trans. Co., 4 Ga. App. 462 (61 S. E. 881); Moore v. Dublin Cotton Mills, 127 Ga. 610 (56 S. E. 839, 10 L. R. A. (N. S.) 772); Brush Electric Co. v. Wells, 110 Ga. 192 (35 S. E. 365); Hamby v. Union Paper Mills Co., 110 Ga. 1 (35 S. E. 297); Gunn v. Willingham, 111 Ga. 427 (36 S. E. 804). The case of McDuffie v. Ocean Steamship Co., 5 Ga. App. 128 (62 S. E. 1008), is not in point. The basis of that decision is that the master was negligent in failing to maintain a proper system for performing with reasonable safety complex work requiring the presence and co-operation of a number of laborers, so situated that independent individual action on their respective parts would render the doing1 of the work unsafe. Dnder the allegations in the McDuffie case, the plaintiff would not have been hurt but for the order; in the present case the injury did not result from the order to hurry, but from the fact that' this order was negligently and recklessly executed.
+Judgment affirmed.
