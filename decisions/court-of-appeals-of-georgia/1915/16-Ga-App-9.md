@@ -1,0 +1,37 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "5504"
+decided: "1915-02-18"
+citations: ["16 Ga. App. 9"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Broyles, J., not presiding."]
+parties: ["Dunn v. The State."]
+source_url: "https://static.case.law/ga-app/16/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1291205
+cites_cases: ["13 Ga. App. 220", "13 Ga. App. 682", "14 Ga. App. 837", "79 S. E. 764", "80 S. E. 36", "82 S. E. 763"]
+---
+
+# Dunn v. State
+
+## Majority (Eussell, C. J.)
+
+Eussell, C. J.
+1. Where a homicide is admitted and the accused seeks to justify it upon the ground that he was actuated by the fears of a reasonable man, the conduct and condition of the deceased in his presence shortly before the fatal encounter, and the influence of this conduct or condition upon the mind of the accused, are relevant as being illustrative not only of the reasonableness of his fears, but also as indicating the quo animo of the deceased, although the previous difficulty may have been between the deceased and a third person. Such evidence, if properly considered by the jury as a part of the res gestas, may be material both in the consideration of what apprehensions might reasonably arise in the mind of the defendant, and in enabling the jury to determine who was probably the aggressor at the time of the homicide, especially where the evidence is strongly conflicting upon these points.
+2. Generally it is immaterial whether a witness has frequently or infrequently testified as such; and, in the absence of any explanation as to the necessity for such proof in the case on trial, the court did not err in excluding evidence to the effect that the witness was testifying in a court of law for the first time.
+3. In a criminal prosecution evidence of the general good character of the accused is limited to the particular trait involved in the nature of the charge; and evidence on the part of the State, in rebuttal of such proof of good character, must likewise depend upon the nature of the crime alleged, and be confined to those traits of character naturally involved in the commission of the particular offense. On cross-examination of a witness who had testified that the character of the defendant for peaceableness was good, it was error to permit the witness to testify,- over objection, that he had personal knowledge that the accused had been drunk on occasions prior to the time of the alleged homicide, or that he habitually used intoxicants. The fact that one accused of crime was under the influence of an intoxicant at the time of the alleged offense might illustrate his quo animo in making the assault, and for that purpose would be relevant, but his general character for drunkenness or sobriety is not germane to the question raised as to the peaceableness of his disposition generally.
+4. Eeopening a cause for the introduction of additional evidence, after the evidence has closed, is a matter addressed solely to the discretion of the trial judge, and this discretion will not be controlled unless manifestly abused. The record does not disclose that in the present case the discretion of the trial judge was abused.
+5. The charge of the court giving the provisions of section 65 of the Penal Code as to provocation by words, threats, and menaces, to which exception was taken, was erroneous, under the ruling in this case when here before (Dunn v. State, 13 Ga. App. 682 (79 S. E. 764)). The charge as given was appropriate to evidence for the prosecution which might have authorized a verdict finding the accused guilty of voluntary manslaughter, but since the defendant relied upon the defense that he acted upon the fears of a reasonable man as justification for the homicide, which he admitted; it was error so to instruct the jury without instructing them in connection therewith to the, effect that while words, threats, and menaces will not mitigate the offense, and while even the heat of passion supposed to be irresistible presents no excuse for homicide, nevertheless words or menaces may justify a killing if the circumstances be such as to arouse the fears of a reasonable man that a felony is about to be committed upon him. This error was aggravated by the instruction that “the other equivalent circumstances” referred to in the code section do not include words, threats, or menaces. See, in this connection, citations in Manson v. State, 14 Ga. App. 837, 839-40 (82 S. E. 763).
+6. Sections 70 and 73 of the Penal Code should not be given in charge to the jury in connection with each other and as if applicable to a single defense, and without pointing out' the wholly different application of each. In cases where the defense of the accused rests only upon the contention-that the homicide was committed under the fears of a reasonable man, the principle relative to urgent and pressing danger, embodied in section 73, should not be given in charge.
+7. The requested instructions relating to the legal effect of evidence of good character were substantially embodied in the charge of the court.
+8. In a criminal prosecution the State carries the burden of establishing every fact necessary to prove the material allegations of the indictment, and for that reason an appropriate and timely written request to the effect that if the jury have a reasonable doubt as to the existence of any fact necessary to make out the case as charged in the indictment, it is their duty to give the benefit of the doubt to the defendant and acquit him, should not-be refused.
+9. Where the court, in a criminal case, gives in charge to the jury the substance of the ■ code section relative to the right of the accused to make a statement to the court and jury, and the weight to be attached thereto by law (Penal Code, § 1036), it is not error to refuse to amplify this instruction by further instructing the jury that it is as much their duty to consider the defendant’s statement as it is to consider the sworn testimony, and that if the statement of the defendant raises a reasonable doubt of the defendant’s guilt, it is their duty to acquit; the instruction requested not being in its entirety a correct statement of the law. O’Dowd v. Newnham, 13 Ga. App. 220 (10), 233 (80 S. E. 36).
+10. In a proper case for instructions to the jury upon the lavr applicable to the justification afforded by the fact that a killing alleged to be felonious was committed under the fears of a reasonable man they should be charged to the effect that it is not incumbent upon the defendant to show that the killing was actually necessary, but that it would be sufficient if the accused at the time of the killing believed and had good reason to believe that the killing was necessary, and further that if they have a reasonable doubt as to whether he believed the killing was actually necessary, it would he their duty to find the defendant not guilty; but in these respects the instructions given by the trial judge were not subject to the exceptions presented.
+Decided February 18, 1915.
+Indictment for murder — conviction of manslaughter; from Fannin superior court — Judge Patterson. January 17, 1915.
+B. L. Smith, T. A. Brown, N. A. Morris, George D. Anderson, for plaintiff in error.
+Herbert Clay, solicitor-general, contra.
+Judgment reversed.
+Broyles, J., not presiding.
