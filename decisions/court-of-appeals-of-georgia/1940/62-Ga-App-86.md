@@ -1,0 +1,24 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "28029"
+decided: "1940-03-12"
+citations: ["62 Ga. App. 86"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MacIntyre and Guerry, JJ., concur."]
+parties: ["ROOKS v. LANE."]
+source_url: "https://static.case.law/ga-app/62/cases/0086-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1502033
+---
+
+# Rooks v. Lane
+
+## Majority (Broyles, C. J.)
+
+Broyles, C. J.
+James W. Rooks instituted lunacy proceedings under the Code, § 49-604, to have Percy Van Lane adjudged a lunatic. Under said section, in the event of the jury in the court of ordinary finding Lane to be a lunatic, he could be committed only to the Milledgeville State Hospital. The jury adjudged that Lane was a lunatic, and the ordinary by appropriate order committed him to the Milledgeville State Hospital. After the verdict, but before the judgment of the ordinary, Rooks presented an amendment seeking to engraft on the proceeding under the Code, § 49-604, proceedings under § 49-813, relating to the commitment of world-war veterans to the Veterans Administration Facilities. The ordinary disallowed the amendment. Exception was taken to that judgment, and to the order committing Lane to the Milledgeville State Hospital. Books obtained a writ of certiorari; upon the hearing the certiorari was overruled, and that judgment was assigned as error. In his order disallowing the amendment the ordinary stated it was disallowed “because the same had no part in said proceedings, and was not germane to the issues in said proceedings, and was an attempt to engraft upon the proceedings an entirely neiv matter and issue. Because further, the commission appointed in said lunacy proceedings was based on its authority to determine whether the said Percy Van Lane was a lunatic and was a fit subject to be committed to the Milledgeville State Hospital. That the commission had at no time the consideration of the question of committing said Lane to an institution other than the Milledgeville State Hospital. The foregoing exceptions are hereby overruled for the above reasons, and for the further reason that Lane was not entitled to treatment in the Veterans Administration Facility at Augusta, Georgia, under section 49-813 of the Code, no proper proceedings having been instituted in the court of ordinary relative to his commitment to said Veterans Administration Facility. That there is no record in said proceedings showing that the three nearest adult relatives of said Lane were notified that he was to be committed to said facility at Augusta, Georgia, while, on the other hand, the record shows that the said three nearest adult relatives filed their written consent as follows: 'Notice of the application for commitment of Percy Van Lane to the Milledgeville State Hospital, and of the appointment of a guardian of property, is hereby acknowledged; time, and all other service and notice are hereby waived. Consent is given that the commission issue as prayed for and that said Percy Van Lane be sent to said hospital, and that a guardian of his property be appointed. The foregoing exceptions are overruled for the further reason that [there is no merit in] the error assigned therein, to wit: 'upon the ground that said disallowance of said amendment was contrary to law and affected the real merits of said cause, in that it deprived the said Lane of the advantage and right he had to be committed to the Veterans Administration Facility at Augusta, Georgia, where he could receive proper care and treatment at the hands of specialists employed by the Veterans Administration without cost to himself or to the State of Georgia, where he would be near his relatives and friends, and where his relatives who live in Bichmond County would be able to visit him frequently.’. There is no provision of law which would control the decision in the matter of the commitment of a veteran to the Veterans Administration Facility at Augusta, -Georgia, because should he be so committed he would be near his relatives and friends, and where they would be able to visit him frequently. And further, there is no provision of law which would control the decision in the matter of the commitment of a veteran to said facility at Augusta, because he could there receive proper care and treatment at the hands of specialists employed by the Veterans Administration without cost to himself or to the State of Georgia. The question of his proper care and treatment at the hands of specialists employed by the Veterans Administration without cost to himself or the State of Georgia is not at issue in this case.’’
+We hold that the amendment was properly disallowed, and that the overruling of the certiorari was not error.
+Judgment affirmed.
+MacIntyre and Guerry, JJ., concur.
