@@ -1,0 +1,33 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "14418"
+decided: "1923-10-12"
+citations: ["31 Ga. App. 97"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stephens and Bell, JJ., concur."]
+parties: ["LaGrange Grocery Company v. City of LaGrange."]
+source_url: "https://static.case.law/ga-app/31/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1419828
+cites_cases: ["10 S. E. 499", "106 S. E. 581", "110 Ga. 528", "114 S. E. 716", "120 Ga. 936", "131 Ga. 490", "26 Ga. App. 497", "29 Ga. App. 236", "35 S. E. 687", "48 S. E. 363", "62 S. E. 322", "66 Ga. 617", "71 S. E. 1121", "84 Ga. 34", "9 Ga. App. 637"]
+---
+
+# LaGrange Grocery Co. v. City of LaGrange
+
+## Majority (Jenkins, P. J.)
+
+Jenkins, P. J.
+1. Liens for taxes due to a municipal corporation of the State “cover the property of taxpayers liable to tax from the time fixed by law for valuation of the same in each year until such taxes are paid,” and are superior to all other liens except for taxes due to the State or its counties. Civil Code (1910), §§ 3333, 3329 (1) ; Perteet v. Fricks, 9 Ga. App. 637 (71 S. E. 1121).
+(a) Under section 26 of the charter of the City of LaGrange (Ga. L. 1901, 486), “any person owning or holding property of any kind in any capacity within the corporate limits of said city, on the first Wednesday in May in each year after the passage of this act, shall return the same for taxation under oath at any time from and after the first Wednesday in May and until the first Wednesday in July of each year.” Under section 28 of said charter (p. 488), where property “for any reason has not been assessed for taxation and taxes collected thereon, in any year then passed, the city tax-assessors may at any time assess said property for the said year or years;” and where no execution has been issued and such taxes are unpaid, “executions may issue at any time, based on said assessments.” In the instant case, under the agreed facts, the City of LaGrange was fully empowered to issue, on April 27, 1922, its execution for city taxes due for the years 1920 and 1921.
+2. The lien of the City of LaGrange for its taxes upon property subject to valuation for taxation in 1920 and 1921 was superior to the title acquired by the purchaser at a sheriff’s sale made on the first Tuesday in March, 1922, under a levy based on a common-law execution, although such tax execution was not recorded. Analogous to the statutory rule governing liens of the State for taxes (Civil Code of 1910, § 1141; Wilson v. Boyd, 84 Ga. 34, 10 S. E. 499), the sale under the common-law execution did not divest the lien of the municipality for its due and unpaid taxes. Freeman v. Mayor Sc. of Atlanta, 66 Ga. 617 (1). The rule that, “where taxes have accrued upon lands belonging to the estate of an intestate while in the hands of his administrator to be administered, and by proper order of the court of ordinary he sells the lands, the tax lien thereon is divested and transferred to the fund realized from the sale,” is not applicable to the facts of this ease. Herrington v. Tolbert, 110 Ga. 528 (35 S. E. 687); Civil Code (1910), §§ 4029, 4000. Nor is the ruling in Patton v. Camp, 120 Ga. 936, 940 (48 S. E. 363), applicable, in which ease it was held that “the rule that the sale of property under a mortgage fi. fa. does not divest the lien for taxes is not applicable where the tax fi. fas. are placed in the hands of the levying officer for the purpose of claiming the proceeds of such sale.”
+Decided October 12, 1923.
+' Levy and claim; from Troup superior court—Judge Eoop. February 9, 1923.
+The case was submitted to the trial judge upon the following agreed statement of facts: “On April 27, 1922, there was issued by the City of LaGrange a fi. fa. against T. W. White for the sum of $144.40, for taxes due the City of LaGrange, assessed for the years 1920 and 1921. Of this amount $73.15 was a balance due for the taxes for the year 1920, and $41.25 was for balance due of the taxes for the year 1921. The fi. fa. was not recorded in the clerk’s office. The fi. fa. was on April 27, 1922, by F. T. Eeed, marshal of the City of LaGrange, levied on one American Fountain Company soda-fount and marble counter, and three glass showcases, as the property of T. W. White, then situated in a store on the west side of court square in the City of LaGrange, occupied by T. W. White as a place of business. The said property was thereafter duly advertised for sale under said fi. fa. by the said marshal of the City of LaGrange, and prior to the sale the LaGrange Grocery Company filed a claim to said property, claiming that the property was not the property of T. W. White, but the property of the LaGrange Grocery Company, and gave bond as required by law. The claim of the LaGrange Grocery Company is based upon the fact that on the first Tuesday in March, 1922, the LaGrange Grocery Company purchased the property levied on, at a sheriff’s sale, without knowledge that the city taxes were not paid, this sale being made under a levy based on a common-law fi. fa. issued in the case of Jacobs’ Candy Company v. T. W. White & Company, issued from the city [court] of LaGrange. The LaGrange Grocery Company, having a mortgage on said property, placed a mortgage fi. fa. in the hands of the sheriff, and claimed the proceeds arising from the sale of said property as aforesaid; and said proceeds, less the court costs, were paid to the LaGrange Grocery Company, or credited by the LaGrange Grocery Company on its mortgage fi. fa.”
+3. No question of laches properly arises in the instant case. Even if the claimant of the property, by purchase at the previous sale under the common-law execution, could be heard to raise the question of laches (Strickland v. Jones, 131 Ga. 490 (6) (62 S. E. 322), or of the failure of the city to observe the provisions in its alleged ordinance requiring it to give the owner of property 5-days notice prior to the issue of a tax execution, the alleged ordinance not appearing in the record, and the point being raised for the first time in the brief of counsel, the question cannot be considered. Collier v. Schoenberg, 26 Ga. App. 497 (3), 498 (106 S. E. 581); Southeastern Mut. Fire Ins. Co. v. Williams, 29 Ga. App. 236 (1) (114 S. E. 716).
+4. The judge, passing upon the claim without the intervention of a jury; under the agreed statement of facts, correctly found the property subject to the city’s tax lien.
+Judgment affirmed.
+Stephens and Bell, JJ., concur.
+L. B. Wyatt, Walter B. Branan, for plaintiff in error.
+Lovejoy & Mayer, contra.
