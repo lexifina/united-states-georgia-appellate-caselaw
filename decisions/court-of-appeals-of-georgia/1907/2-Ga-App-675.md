@@ -1,0 +1,24 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "495"
+decided: "1907-10-22"
+citations: ["2 Ga. App. 675"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HINES v. McCOMBS et al."]
+source_url: "https://static.case.law/ga-app/2/cases/0675-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1253958
+cites_cases: ["115 Ga. 990", "3 S. E. 261", "42 S. E. 422", "58 S. E. 388", "63 Ga. 217", "77 Ga. 697"]
+---
+
+# Hines v. McCombs
+
+## Majority (Powell, J.)
+
+Powell, J.
+(After stating the facts).
+Under the will, H. E. Hendrix was not only the executor and the holder of the life-estate, but he was also the donee of an additional power, not ordinarily attaching either to the office of the executor or to the estate of a life-tenant. Viewed solely as a tenant for life, he would have possessed the statutory power of control over the entire estate for the purpose of rentals and leases only to the end of the year of his death. See Story v. Butt, ante, 119, (58 S. E. 388). However, a review of the English cases will show that long before „ the enactment of the statute of 14 & 15 Vict. c. 25, from which our section of the Civil Code (§3093) was adapted which gives the statutory power to the'life-tenant of making a rent contract binding to the end of the year of his death,, or of the British Land-Settlement Acts, which have further extended this power, it was not uncommon for grantors and testators to confer upon life-tenants, or trustees for life-estates, the power of making leases which would be binding after the death of the life-tenant; and the right of grantors and testators to make the grant of such powers has never been questioned, either before or since the passage of the statutes referred to above. Hnder the will before us, H. E. Hendrix had not only the right to’ enjoy the estate for life, but also to dispose of any or all of it, and especially to derive an income therefrom; and the remaindermen,'by express terms of the will, took an estate in only the “property remaining” undisposed of at his death. We do not mean to say that if he had attempted to sell any of the lands, he would not have been compelled to expose it at public outcry, under the Civil Code, § 3460; but to rent lands for two years is not to sell them. Hutcheson v. Hodnett, 115 Ga. 990 (42 S. E. 422). The terms of the will in that case are very similar to those of the will now in question; and we quote the headnote as pertinent here: “A trustee in possession of land, charged with the duty of managing and controlling it and -using the income therefrom for the maintenance, support, and education of the beneficiaries of the trust, may grant leases of the same, provided the time fixed for the duration of the leases is not unreasonable, and the amount stipulated to be paid as Tental is a reasonably fair compensation for the use of the land for the time specified in the leases, they being otherwise reasonable in their terms.” The rent contract between Hendrix and Legin was a valid contract for the full term. We probably should call attention to the fact that in the case just cited the trustee was expressly forbidden to encroach upon the corpus for the purpose of raising income for the maintenance of the beneficiaries, while in the present case Hendrix was expressly authorized to do so. The legal fee stood in him as trustee; and “Trustees who have the legal fee in lands may lease them to any extent, the right being incident to the legal estate.” 1 Wash. Real Prop. (6th ed.) 629, cited approvingly in Hutcheson v. Hodnett, supra. Possibly in this State this general statement should be limited to leases under which only a usufruct passes.
+The further question that arises is, did Hendrix have the righL to transfer the rent note, which we have just held was lawfully taken by him ? This rent note, under the law, was income. Manget v. Hightower, 63 Ga. 217. He had full power of disposition over the income. The note was not payable to his intestate, but to himself, either personally or in his representative capacity. Tn either event, section 3449 of the Civil Code, regulating the mode of sale of insolvent papers of estates, is not applicable; but the common-law rule which gives the trustee power to transfer a paper payable to- himself, though taken in his representative capacity, applies. See Thompson v. Thompson, 77 Ga. 697 (3 S. E. 261). If, instead of taking a note, he had been paid in advance, in cash, for the rents for the full term, he could have spent the cash 'without accountability; he had a similar right to take a note instead of cash, and to convert the note into money and use it. The tenant, by attorning to the remaindermen, could not .divest Hines of his lien upon the crops raised on the rented premises.
+Judgment reversed.
