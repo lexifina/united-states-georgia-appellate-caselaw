@@ -1,0 +1,24 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "1864"
+decided: "1910-02-10"
+citations: ["7 Ga. App. 357"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CALLAWAY v. MARTIN."]
+source_url: "https://static.case.law/ga-app/7/cases/0357-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 613730
+cites_cases: ["105 Ga. 410", "123 Ga. 14", "128 Ga. 333", "31 S. E. 544", "50 S. E. 951", "57 S. E. 915"]
+---
+
+# Callaway v. Martin
+
+## Majority (Bussell, J.)
+
+Bussell, J.
+Martin filed, suit in the city court of Eeidsville on two promissory notes made by the defendant to one Kennedy. The defendant in his answer admitted the execution of the notes, the plaintiff’s ownership, and that the notes had not been paid, and he .set up by way of defense that he had executed a deed to real estate to Kennedy, and that Kennedy had made a deed back to him and had placed the deed on record, but had not delivered it to him. He .alleged that the plaintiff had purchased the notes from Kennedy ■and was seeking to collect them unjustly, and he contended, in the answer, that the plaintiff should be enjoined from thus proceeding, but that, as the court had no power to grant such affirmative ■equitable relief, it “should wash its hands of the case,” and dismiss "the same for want of jurisdiction. The court, on demurrer, struck the answer, except as to attorney’s fees. The plaintiff made due proof of notice entitling him to recover .attorney’s fees; and judgment was rendered in his favor for principal, interest, and at"torney’s fees. The defendant made a motion for a new trial, on the general grounds, and also because of alleged newly discovered ■evidence tending to support the allegations of the stricken portion of the plea.
+1. -The sole contention of the plaintiff in error, as to the action -of the court in striking the answer and refusing to dismiss the petition, is that the answer set up a state of facts calling for affirma-.tive equitable relief, and that since the city court had no power to grant relief of that character, it ought not to have retained jurisdiction of the case, but should have “washed its hands” of the entire matter. In support of this contention we are cited to the decision in Ragan v. Standard Scale Co., 123 Ga. 14 (50 S. E. 951), which holds merely that a city court has no power to grant affirmative equitable relief, and that this power can not be conferred on such a court by consent of the parties. This, of course, can not be controverted. But it does not follow that where a suit at common law is filed in a city court, the defendant can come in and oust the court of jurisdiction by setting up facts calling for relief which the court has no power to grant. Where the plaintiffs petition sets up a good cause of action at common law, the defendant can plead in defense thereto any matter, legal or equitable, and the court has power to entertain the defense, provided it can do so without granting affirmative equitable relief. If the defense calls for the granting of relief of that character, the defendant’s remedy is an application to a court of equity, setting up that he can not make his defense in the court where the suit at common law is pending, and asking that the suit in that court be enjoined. The court of equity in such a case will enjoin the suit at law, and will itself assume jurisdiction of the entire cause and do complete justice between the parties. Butler v. Holmes, 128 Ga. 333 (57 S. E. 915) ; Gentle v. Atlas Savings Assn., 105 Ga. 410 (31 S. E. 544). Until stayed by the hand of equity, the court of law can proceed according to the rules of law, and does not have to “wash its hands” of a case simply because the defendant seeks to set up a defense unknown to the rules administered by it.
+2. Without giving other reasons why the court did not err in refusing to grant a new trial on the ground of alleged newly discovered evidence, it is sufficient to say that this alleged evidence merely tended to support the allegations of the answer which had been stricken. The demurrer to the answer admitted the truth of the facts alleged, and called in question the legal sufficiency of those facts. Until this demurrer was disposed of in the defendant’s-favor, it was wholly unnecessary for him to make any proof of the matter pleaded. All the facts which his alleged newly discovered evidence tends to establish having been admitted by the opposite party, and that admission still standing of record, the court did not err in refusing a new trial because of this evidence.
+3. We have carefully examined tlie various assignments of error not specifically disposed of above, and find no reason for granting a new trial. Judgment affirmed.
