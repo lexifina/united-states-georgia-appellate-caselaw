@@ -1,0 +1,27 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "893"
+decided: "1908-01-27"
+citations: ["3 Ga. App. 451"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DONALDSON v. THE STATE."]
+source_url: "https://static.case.law/ga-app/3/cases/0451-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1258615
+---
+
+# Donaldson v. State
+
+## Majority (Hill, C. J.)
+
+Hill, C. J.
+Donaldson was convicted, in the city court of Eastman, of selling spirituous and intoxicating liquors in Dodge county, in violation of the local option law. The evidence for the State, while apparently given by reluctant witnesses, clearly establishes the sale by the defendant of one bottle of whisky from his buggy in the early part of the year 1907, and inferentially shows the sale of another bottle of whisky from his buggy'in May of the same year. In proof of the first sale, the witness who bought the whisky testifies, that “this particular man in that buggy gave me a bottle of whisky that day, and I paid for it, and I took it home .and drank some of it myself.” Other testimony shows that the “particular man” was the defendant. Another witness testifies: “I saw Mr. Wilkinson’s hand [referring to the man who bought -the whisky] go towards the buggy. I saw Mr. Donaldson, the defendant, deliver the whisky. I saw their hands go together. Mr. Donaldson had money in his hand, and I saw Mr. Wilkinson stick a bottle with crimped paper in his coat.” Another witness testifies that when Wilkinson, the party who bought the whisky, handed the defendant a dollar bill to pay for the whisky, he told him, ‘There 'is a half dollar behind:’ and I saw him, Donaldson, deliver a bottle. Mr. Wilkinson got the bottle out of Donaldson’s buggy.”
+1. We think that the jury was authorized from this evidence to conclude that the defendant had sold a bottle of whisky, and was therefore guilty of violating the law prohibiting the sale of spirituous liquors; and consequently the judgment of the court refusing a new trial should not be reversed, unless there was some material and prejudicial error of law committed.
+2. The defendant offered to show by a witness that on the same day he is charged with selling whisky to the State’s witness, he declined to sell a bottle to him. There was no error in rejecting this testimony. It was not in conflict with the evidence for the“ State. Proof of a sale of whisky to one person is not rebutted by proof of refusal to sell to another. There might be many reasons why the defendant might have refused to sell to one, while selling to another. The proffered testimony was neither pertinent nor material.
+3. Error is assigned upon the following charge of the court: “You should pass upon this case, as upon all cases, from the. law as given you in charge by the court, the testimony of the witnesses, and the defendant’s statement.” This charge, it is contended, was erroneous for “inaccuracy, wherein the guilt or innocence is left to depend upon the charge of the court, when the jury should have been instructed to have determined the guilt or innocence by the evidence in the case.” The jury can not determine whether any fact proved constitutes a violation of law, without knowledge of the law, and they can not know .the law except through the charge of the court. Therefore, in determining the question of guilt or innocence it is just as necessary to consider the law as given in charge as it is to know the fact as testified to; for both together and as applicable the one to the other. determine the ultimate question of guilt or innocence. This objection to the charge of the court is wholly without merit.
+4. Error is assigned on the following instruction: “I charge you that you will take judicial cognizance of the fact that rye whisky is intoxicating, and it is unlawful for any person to sell or barter for a valuable consideration a quantity of intoxicating liquor in this county, within two years prior to the finding of the accusation.” It is said that there was no evidence that the whisky sold was rye whisky, and that therefore the charge was not authorized; and besides, the charge contains an expression by the court that rye whisky was sold by the defendant in the county within two years, and that rye whisky was intoxicating. It is true that the evidence does not clearly show what kind of whisky was sold, whether rye, corn, wheat, or potato, Scotch, Irish, or Bourbon; but this was wholly immaterial. Thé defendant was guilty if he sold any kind of whisky in the countjr within the two years; for any and all kinds are included in the terms “spirituous and intoxicating liquors.”
+The language of the court that the jury might judicially recognize that rye whisky was intoxicating was inapt,'but not misleading. Neither is the statement that a fact is judicially recognized an expression of opinion by the court. It is a statement of a conclusion of law that no evidence is necessary to prove a certain fact, because the court knows it to be so without proof. And that whisky is an intoxicant is a fact of universal notoriety, known by all persons of common intelligence, including a jury, and requires no proof.
+All the special assignments of error of law are entirely without merit, and the verdict is amply supported by the evidence.
+Judgment affirmed.
