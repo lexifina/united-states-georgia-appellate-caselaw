@@ -1,0 +1,31 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "12730"
+decided: "1921-12-15"
+citations: ["28 Ga. App. 29"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Luke and Bloodworth, JJ., concur."]
+parties: ["PAYNE, agent, v. WELLS."]
+source_url: "https://static.case.law/ga-app/28/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1410294
+cites_cases: ["101 S. E. 668", "144 Ga. 481", "149 Ga. 581", "18 Ga. App. 261", "19 Ga. App. 413", "3 Ga. App. 453", "60 S. E. 116", "67 S. E. 898", "7 Ga. App. 644", "70 S. E. 607", "87 S. E. 388", "89 S. E. 383", "9 Ga. App. 106", "91 S. E. 517"]
+---
+
+# Payne v. Wells
+
+## Majority (Broyles, C. J.)
+
+Broyles, C. J.
+The general rule, that it is error for the trial judge to state to the jury an allegation of negligence contained in the plaintiff’s petition where the allegation is not sustained by any evidence, does not apply in an action for damages against a railroad company for a homicide, where the evidence shows that homicide was caused by the running of the defendant’s cars; for in such a case the presumption arises that the defendant was negligent in each and every particular alleged in the plaintiff’s declaration, and primarily this presumption is sufficient to prove the negligence alleged. In such a case it is not error for the court, in charging the jury, to refer to all the acts of negligence alleged, although the allegations as to some of them may not be sustained by any evidence and may even be disproved by undisputed evidence. See, in this connection, Georgia Railway & Electric Co. v. Bailey, 9 Ga. App. 106 (6, 7) (70 S. E. 607). Under this ruling there is no merit in grounds 1 to 9 (inclusive) of the amendment to the motion for a new trial.
+Complaint is made of the following charge: “ This presumption of negligence arising from this code-section (2780) which I have read to you is not a conclusive presumption. It simply puts the burden upon the defendant of showing that its agents and employees were in the exercise of all ordinary care and diligence in and about the transaction which the plaintiff claims brought about her husband’s death.” (Italics ours.) It.was contended that the court erred in using the words “ in and about the transaction,” because the burden that the law placed upon the defendant was merely that of disproving the negligence actually charged in the plaintiff’s petition.
+This charge was substantially correct, and it does not appear that it could have misled the jury or injured the defendant. See, in this connection, Jackson v. Georgia Railroad & Banking Co., 7 Ga. App. 644 (1), (67 S. E. 898), and Georgia Southern &c. Ry. Co. v. Thornton, 144 Ga. 481 (2) (87 S. E. 388). This is especially true when this portion of the charge is considered in the light of the entire charge.
+Exception is taken to the following excerpt from .the charge of the court: “ On that subject I charge you that the existence of a fact testified to by one positive witness is to be believed rather than that such fact did not exist because many witnesses who had the same opportunity of observation swear that they did not know or see of its having transpired, provided other things are equal 'and the witnesses are of equal credibility.” It is insisted by the movant that the words “ provided other things are equal,” as used in this excerpt from the charge, were error. There is no merit in this exception. Substantially the same charge, including the words objected to, was approved by this court in Benton v. State, 3 Ga. App. 453, 455 (60 S. E. 116).
+Under the facts of the case, the court did not err in refusing the request to charge set forth in the 12th special ground of the motion for a new trial.
+There is no substantial merit in either the 14th qr the 15th special grounds of the motion for a new trial.
+The 13th special ground of the motion for a new trial is merely an amplification of the general grounds of the motion. The verdict was authorized by the evidence. This was a suit for damages against a railroad company for the homicide of the plaintiffs husband. The homicide occurred at a public railroad crossing when a moving train of the defendant struck an automobile in which the plaintiffs husband and three other men were riding. While the evidence showed that the automobile approached the crossing at a speed greater than six miles per hour, which was a violation of the law (Ga. L. 1910, p. 90), this would not necessarily preclude a recovery of damages for negligence of the employees of the defendant operating the train, even by the driver of the automobile (Central of Georgia Ry. Co. v. Larsen, 19 Ga. App. 413 (91 S. E. 517); Central of Georgia Ry. Co. v. Moore, 149 Ga. 581 (101 S. E. 668), and certainty, under the facts of the case, would not prevent a recovery by the plaintiff. In the instant case any negligence of the driver of the automobile could not be imputed to the plaintiff’s husband, for it was shown upon the trial that the husband was not the driver or owner of the automobile, but was riding therein as an invited guest, and the evidence did not demand a finding that he and the driver of the automobile were at the time engaged in a joint enterprise. Nor did the evidence demand a finding that the plaintiffs husband, by the exercise of ordinary care, could have avoided the homicide. Nor did the evidence demand a finding that the homicide was occasioned solely by the negligence of the driver of the automobile. On the other hand, the evidence authorized a finding that the defendant’s employees operating the train were guilty of at least one of the acts of negligence charged, to wit, failing to blow the whistle, or to ring the bell, or to check the speed of the train, at the crossing where the catastrophe occurred, and that this negligence was concurrent with the negligence of the driver of the automobile and contributed to the homicide. See, in this connection, Seaboard Air-Line Railway v. Barrow, 18 Ga. App. 261 (5) (89 S. E. 383).
+The court did not err, for any reason assigned, in overruling the motion for a new trial.
+Judgment affirmed.
+Luke and Bloodworth, JJ., concur.
