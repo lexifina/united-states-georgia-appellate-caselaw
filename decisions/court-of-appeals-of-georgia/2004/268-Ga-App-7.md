@@ -1,0 +1,40 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "A04A0651"
+decided: "2004-06-17"
+citations: ["268 Ga. App. 7", "601 S.E.2d 397"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ruffin, R J., and Eldridge, J., concur."]
+parties: ["SEMBLER ATLANTA DEVELOPMENT I, LLC et al. v. URS/DAMES & MOORE, INC."]
+source_url: "https://static.case.law/ga-app/268/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1379984
+cites_cases: ["114 SE2d 529", "216 Ga. 83", "236 Ga. App. 734", "246 Ga. App. 93", "254 Ga. App. 355", "271 Ga. 330", "272 Ga. 566"]
+---
+
+# Sembler Atlanta Development I, LLC v. URS/Dames & Moore, Inc.
+
+## Majority (Adams, Judge.)
+
+Adams, Judge.
+Affairs to Remember Caterers, Inc. filed suit against appellants Sembler Atlanta Development I, LLC, Sembler Atlanta Development II, LLC, Sembler Atlanta Development III, LLC and Wilshire & Hoover Development, Inc. (collectively referred to as Sembler) seeking to recover damages as the result of several flooding incidents that occurred at Sembler’s Midtown Place development. Sembler filed a third-party complaint against, inter alia, appellee URS/Dames & Moore, Inc., the civil engineering contractor for the project, seeking indemnification and contribution based on URS’s alleged professional negligence. URS filed a motion to dismiss the third-party complaint on the grounds that Sembler was required by OCGA § 9-11-9.1 (a) to file an expert affidavit with the complaint. The trial court agreed, dismissed Sembler’s third-party complaint against URS with prejudice, and granted Sembler a certificate of immediate review. We granted Sembler’s application for interlocutory appeal, and this appeal followed.
+Following the plain language of OCGA § 9-11-9.1 (a) and our Supreme Court’s equally plain holding in Minnix v. Dept. of Transp., 272 Ga. 566 (533 SE2d 75) (2000) we find that the trial court erred in dismissing Sembler’s professional negligence claims against URS based on Sembler’s failure to file an expert affidavit with its third-party complaint.
+OCGA§ 9-11-9.1 (a), as amended in 1997, provides:
+In any action for damages alleging professional malpractice against a professional licensed by the State of Georgia and listed in subsection (f) of this Code section or against any licensed health care facility alleged to be liable based upon the action or inaction of a health care professional licensed by the State of Georgia and listed in subsection (f) of this Code section, the plaintiff shall be required to file with the complaint an affidavit of an expert competent to testify, which affidavit shall set forth specifically at least one negligent act or omission claimed to exist and the factual basis for each such claim.
+In Minnix, our Supreme Court held that
+[t]he language of OCGA§ 9-11-9.1 (a) is plain, unequivocal and a clear expression of the General Assembly’s intent that an expert affidavit is required in any action alleging professional malpractice with regard to two categories of defendant: 1) those professionals licensed by the State of Georgia and listed in OCGA§ 9-11-9.1 (f) and 2) “any licensed health care facility alleged to be liable based on the action or inaction of a health care professional licensed by the State of Georgia and listed in subsection (f).” Thus OCGA § 9-11-9.1 (a) by its specific terms limits the expert affidavit requirement to professional malpractice suits against members of one of the 24 enumerated professions, and to one category of employer — a licensed health care facility — when that employer’s liability is predicated on the professional negligence of its agents or employees who are themselves among the licensed health care professionals listed in OCGA § 9-11-9.1 (f).
+(Footnote omitted; emphasis supplied.) Minnix, 272 Ga. at 570-571.
+It thus appears settled that the expert affidavit requirement of OCGA § 9-11-9.1 (a) does not apply to malpractice actions against employers, other than licensed health care facilities, of those professionals listed in OCGA § 9-11-9.1 (f). Since URS is neither a “professional licensed by the State of Georgia and listed in subsection (f)” nor a “licensed health care facility,” Sembler was not required to file an expert affidavit with its third-party complaint, and the trial court erred in granting URS’s motion to dismiss on this basis.
+Although URS urges that the purpose of OCGA § 9-11-9.1 (a), which is to decrease frivolous malpractice actions, is undermined by this result, our Supreme Court also considered and rejected this argument in Minnix:
+Nor do we agree that the General Assembly’s limitation of the professions and employers to which OCGA§ 9-11-9.1 (a) applies undermines the purpose of the statute to reduce the number of frivolous malpractice claims being filed. We recognized in Labovitz v. Hopkinson[, 271 Ga. 330, 336 (519 SE2d 672) (1999)] that in enacting OCGA § 9-11-9.1 the General Assembly “intended to enact a means by which the filing of frivolous professional malpractice actions would be curtailed,” but that it was authorized to limit “the means of curtailment.” [Id.] Thus the General Assembly may, as it has done here, circumscribe those professions and employers to which the expert affidavit requirement applies.
+Decided June 17, 2004.
+Hall, Booth, Smith & Slover, Rush S. Smith, Jr., Paul R. Roster, for appellants.
+Kilpatrick Stockton, Drew D. Baiter, R. Randy Edwards, for appellee.
+(Footnotes omitted.) Minnix, 272 Ga. at 571.
+Lastly, there is no merit to URS’s argument that our holding in Jordan, Jones & Goulding v. Balfour Beatty Constr., 246 Ga. App. 93 (539 SE2d 828) (2000), in which we held that the plaintiff s failure to attach an expert affidavit to its complaint alleging malpractice against an engineering firm should have resulted in the dismissal of the complaint with prejudice, constitutes binding precedent in the case at bar. In Jordan the plaintiff conceded the applicability of OCGA§ 9-11-9.1 (a) and the only question on appeal was whether the complaint should have been dismissed with or without prejudice; thus the issue raised by the present appeal was not addressed in Jordan. URS’s reliance on Smith v. Morris, Manning & Martin, 254 Ga. App. 355 (562 SE2d 725) (2002), a case involving a legal malpractice claim against a law firm, is similarly misplaced, since the issue raised here was also not raised or addressed in that case. It is well settled that “[qjuestions which merely lurk in the record, neither brought to the attention of the court nor ruled upon, are not to be considered as having been so decided as to constitute precedents.” (Citations and punctuation omitted.) Gordy Tire Co. v. Dayton Rubber Co., 216 Ga. 83, 89 (1) (114 SE2d 529) (1960). See also BIK Assoc. v. Troup County, 236 Ga. App. 734, 738 (4) (513 SE2d 283) (1999).
+Judgment reversed.
+Ruffin, R J., and Eldridge, J., concur.
+The 24 professions listed in subsection (f) are: (1) architects; (2) attorneys at law; (3) certified public accountants; (4) chiropractors; (5) clinical social workers; (6) dentists; (7) dietitians; (8) land surveyors; (9) medical doctors; (10) marriage and family therapists; (11) nurses; (12) occupational therapists; (13) optometrists; (14) osteopathic physicians; (15) pharmacists; (16) physical therapists; (17) physicians’ assistants; (18) professional counselors; (19) professional engineers; (20) podiatrists; (21) psychologists; (22) radiological technicians; (23) respiratory therapists; and (24) veterinarians.
+We find no merit to URS’s argument that the fact that it holds a “certificate of authorization” issued by the State Board of Registration for Professional Engineers and Land Surveyors means that it is a “professional licensed by the State.” Compare OCGA § 43-15-23 (practice of professional engineering by or through firm, corporation or other entity), OCGA § 43-15-2 (defining a professional engineer) and OCGA§§ 43-15-9 through 43-15-11 (pertaining to qualifications, experience, examination and registration as a professional engineer).
