@@ -1,0 +1,29 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "35392; 35393"
+decided: "1954-10-20"
+citations: ["91 Ga. App. 83"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gardner, P. J., and Carlisle, J., concur."]
+parties: ["BUSH v. SKELTON. SMITH v. SKELTON."]
+source_url: "https://static.case.law/ga-app/91/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1567752
+cites_cases: ["114 Am. St. R. 196", "125 Ga. 193", "132 Ga. 559", "138 Ga. 328", "22 S. E. 2d 336", "35 S. E. 2d 526", "47 S. E. 2d 900", "54 S. E. 69", "63 S. E. 2d 3", "64 S. E. 680", "68 Ga. App. 142", "69 S. E. 2d 824", "73 Ga. App. 10", "75 S. E. 330", "77 Ga. App. 62", "78 S. E. 2d 528", "83 Ga. App. 144", "85 Ga. App. 593", "89 Ga. App. 47"]
+---
+
+# Bush v. Skelton
+
+## Majority (Townsend, J.)
+
+Townsend, J.
+Error is assigned in a special ground of the amended motion for a new trial in each case on the following excerpt from the charge: “If you should find that the collision was the result of an accident, then the plaintiff would not be entitled to recover.”
+In Lane v. Varner, 89 Ga. App. 47, 51 (78 S. E. 2d 528), it was held: “Unfortunately, the word ‘accident’ has two separate and distinct meanings. In Georgia law, and as charged by the judge in this case, it means, in connection with personal injury cases, an injury which occurs without being caused by the negligence of either the plaintiff or the defendant. Alabama Great Southern Ry. Co. v. Brown, 138 Ga. 328 (6) (75 S. E. 330); Code § 102-103.” As stated in Seaboard Air-Line Ry. v. Bradley, 125 Ga. 193, 198 (54 S. E. 69, 114 Am. St. R. 196), “The idea of accident excludes responsibility because of negligence.” However, to the average layman, “accident” means only what the definition given it in Code § 102-103 states: “Accident is an event that takes place without one’s foresight or expectation; that which takes place or begins to exist without design,” in other words an unintentional act as opposed to something done in order to achieve a particular consequence. Therefore, to charge a jury of laymen that, if the collision was the result of an accident, the plaintiff cannot recover is frequently taken to mean that if the act was not intentional the plaintiff cannot recover, unless the meaning of the word “accident” is clearly explained in the same context; and it might well have been so understood by the jury here when this excerpt is considered with the charge as a whole.
+Further, it is error to give in charge the law of accident where neither the pleadings nor any evidence would sustain this defense. Riggs v. Watson, 77 Ga. App. 62, 67 (7) (47 S. E. 2d 900); Morrow v. Southeastern Stages, 68 Ga. App. 142, 148 (22 S. E. 2d 336); Ault v. Whittemore, 73 Ga. App. 10, 15 (35 S. E. 2d 526); Toles v. Hair, 83 Ga. App. 144 (2) (63 S. E. 2d 3); Massey v. Georgia Power Co., 85 Ga. App. 593 (69 S. E. 2d 824). Nothing in the pleadings or evidence here would sustain such a defense. No mechanical failure, no unforeseen obstruction in the highway, or other fact is in the record which would support any theoiy except either that the plaintiff negligently lost control of his automobile or that the defendant negligently turned out into the plaintiff’s vehicle while it was passing. Accordingly, it was error for the court to charge as set out in these special grounds of the motions for new trial.
+What is here held is not contrary to the statement in Savannah Electric Co. v. Jackson, 132 Ga. 559 (4) (64 S. E. 680), to the effect that, where the court charged the jury that, if the defendant had used all ordinary care and diligence, there could be no recovery, it was not error to fail to charge further, in the absence of request, that, if the injury resulted from an accident and neither party was at fault, there could be no recovery, the latter statement being merely an elaboration of the former. In that case it was held not error to fail to give instructions to the jury concerning the correct definition and legal effect of the theory of accident. Here, on the contrary, the court gave a charge without properly defining the term in such manner that it might easily have been misunderstood. Where accident is involved in the case it is of course proper to give the theory in charge, correctly defining the term, and whether or not it is error to fail to do so depends on the facts of the case. Where accident is not involved in the case it is error to charge on this theory, but such error may or may not be harmful. Where accident is not involved in a case, and a charge is given on accident without defining the term, which would tend to lead the jury to believe that the plaintiffs could not recover unless the act of the defendant was non-accidental or intentional, then such charge is error requiring a reversal of the case.
+The remaining assignments of error are not passed upon, as they are not likely to recur in another trial. Two of these special assignments complain that the court, in charging on negligence on the part of the plaintiff which would prevent recovery, confused the case of W. C. Smith, the operator of the vehicle, and Nancy Bush, a guest in Smith’s car, in such manner that the jury would be led to believe that any negligence sufficient to prevent the plaintiff Smith from recovering would also prevent the guest from recovering in like manner. Without deciding whether the charges complained of were likely to have this effect, it is axiomatic to say that, where separate cases are tried together, and the separate plaintiffs occupy a different legal status, it is important that the jury be clearly instructed as to the law applicable to the status of each.
+The trial court erred in denying the motions for new trial in both cases.
+Judgment reversed.
+Gardner, P. J., and Carlisle, J., concur.
