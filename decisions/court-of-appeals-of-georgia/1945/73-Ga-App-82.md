@@ -1,0 +1,28 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "31020"
+decided: "1945-10-17"
+citations: ["73 Ga. App. 82"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sutton, P. J., and Parlcer, </., concur."]
+parties: ["WILSON v. MARTIN."]
+source_url: "https://static.case.law/ga-app/73/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1530229
+cites_cases: ["113 S. E. 398", "153 S. E. 889", "154 Ga. 45", "174 Ga. 767", "185 Ga. 27", "193 S. E. 872"]
+---
+
+# Wilson v. Martin
+
+## Majority (Felton, J.)
+
+Felton, J.
+(After stating the foregoing facts.) 1. Martin, the defendant in error, was in the market to purchase theatres to add to those which he already owned; and, as an inducement to Wilson, the plaintiff in error, to reveal to him the name of a chain of theatres which Wilson had reason to believe was for sale for a reasonable figure, Martin agreed to pay Wilson 5 percent commission of the purchase-price if purchased by Martin or any organization in which Martin was interested. The terms upon which Wilson was to make this revelation were reduced to writing, and this resultant contract is the basis of the present action'. It is the contention of counsel for the plaintiff in error that the agreement in paragraph (a) of the contract was to pay Wilson 5 percent commission on the purchase-price conditioned only upon the purchase by Martin, unqualified as to time and amount. However, we must look to the whole contract to determine the intention of the parties. Code, § 20-704 (5); Spooner v. Dykes, 174 Ga. 767 (153 S. E. 889). Paragraphs (c) and (d) expressly place a qualification upon the earlier term of the contract by stating that, “in the event said properties, or stock in the corporations owning the same, shall be bought at a figure or figures less than that first disclosed by the said Wilson, he will be entitled to his compensation on the basis above stated,” and that “the undersigned will have twelve months within which to buy as herein stated.” Thus, the plain and explicit language of the contract refutes this argument of counsel. •
+2. While it is true that, in order to arrive at the true interpretation of contracts all the attendant and surrounding circumstances may be proved (Code, § 20-704 (1)), in the absence of ah allegation that something was omitted from the contract or that the writing did not constitute the entire contract, 'and such fact is not apparent upon the face of the writing, an allegation that, contemporaneously with or subsequently to the execution of the contract, Martin agreed to allow Wilson two weeks within which to negotiate an option for the purchase of the chain of theatres, would be objectionable as it would be in contravention of the rulé denying parol proof variant from the written terms of the contract. All previous negotiations were merged in the written contract, and an additional obligation cannot be grafted thereon. See Roberts v. Investors Savings Co., 154 Ga. 45 (113 S. E. 398); Slaten v. College Park Cemetery Co., 185 Ga. 27 (193 S. E. 872). Nor was Martin’s action in proceeding in the negotiations without the further assistance of Wilson a violation of the contract, which clearly states in paragraph (a) that the purchase of the theatres may be “handled by either the undersigned . directly or by said Wilson or by them jointly at the option of the undersigned.”
+3. While, under the facts alleged, the theatre chain was offered to Martin at a price very close to that which Wilson had quoted to Martin upon the execution of the contract, Martin’s failure to purchase at the time of this offer could not be said to constitute a violation of the contract or a fraud upon Wilson, as the terms of the offer to sell, requiring Martin to sign the notes of the corporation through which he was to make the purchase as personal guarantor, were objectionable to Martin, and the contract did not make it imperative upon him to purchase upon any terms offered, but only those terms which were agreeable to him.
+4. It is further contended by counsel for the plaintiff in error that Martin sought to defraud Wilson by purposely delaying the purchase until more than a year after the expiration of the contract. Even if this had been true, and we do not express any opinion on this point, the contract makes no provision for' the payment of commissions in the event that Martin purchased at a price greater than that first stated by Wilson to be the approximate figure at'which he could obtain the chain of theatres. We see from paragraph (c) that the parties to the contract went to the trouble to stipulate expressly upon what conditions the commissions would be payable; namely, if Martin purchased at approximately the figure first stated by Wilson as the price for which the theatres might be purchased, or if Martin purchased at a smaller figure. There is no mention of the payment of commissions in the event that Martin should purchase at a greater figure, and we cannot say that it was the intention of the parties that commissions would be paid in the event the purchase-price was greater than that first stated by Wilson, and it is not within the province of this court to reform written contracts. There is no allegation that Martin paid a higher price than the one revealed to him by the plaintiff for the purpose of defrauding the plaintiff.
+Eor the reasons above stated, the court did not err in sustaining the general demurrer.
+Judgment affirmed.
+Sutton, P. J., and Parlcer, </., concur.
