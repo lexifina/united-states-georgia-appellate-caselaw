@@ -1,0 +1,21 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "1316"
+decided: "1909-03-23"
+citations: ["5 Ga. App. 847"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TURNELL v. CARTER, administrator, et al."]
+source_url: "https://static.case.law/ga-app/5/cases/0847-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1264598
+cites_cases: ["125 Ga. 167", "15 S. E. 292", "2 Ga. 337", "4 Ga. App. 545", "53 S. E. 1013", "61 S. E. 1054", "69 Ga. 752", "88 Ga. 791"]
+---
+
+# Turnell v. Carter
+
+## Majority (Hill, C. J.)
+
+Hill, C. J.
+(After stating the foregoing facts.) No brief is submitted for the defendants in error, and we do not know upon what theory of the law the trial judge based his judgment. In our opinion, the allowance of the plea and the direction of a verdict for the defendants were manifestly erroneous. The notes sued on recite that they are given for the purchase-money of certain personal property named therein, to which title is reserved until the property shall be fully paid for. The notes were payable to the order of J. E. Durden, and were transferred by him, by written indorsement, to the plaintiff, before maturity. If the allegations of the plea, above set out, are true, they constitute no defense. The conduct of the plaintiff, relied upon as a defense, is wholly insufficient for that purpose; for two reasons: First, the appeal by the plaintiff from the judgment of nonsuit as to the makers carried up the entire case, and the judgment against the indorser was suspended until the termination of the appeal. Hanie v. Taylor, 4 Ga. App. 545 (61 S. E. 1054). The issuance of the fi. fa. based on the judgment rendered by the county court against the indorser, and the seizure of the personal property and bringing it to sale thereunder, were mere nullities, by which the plaintiff gained nothing and the defendants lost nothing.- Civil Code, §§4469, 4470, 5340, 4462; Carter v. Buchanan, 2 Ga. 337; Lewis v. Armstrong, 69 Ga. 752. In other words, the appeal suspended the judgment against the indorser, and no execution could be legally issued thereon until the final ending of ' the appeal ease. Second, the seizure of the property under the fi. fa. issued on the judgment rendered by the county court against the indorser was a mere nullity for another reason. When the purchase-money notes containing the reservation of title to the personalty therein named' were transferred by the payee as indorser, the transfer carried with it the security for their payment. The legal title to the property was transferred from the payee to the purchaser of the notes; but the equitable title to the property remained in the makers of the notes. The holder of the notes became the legal transferee of the title of the payee to both the notes and the security mentioned therein. Acts 1887, p. 62; Cade v. Jenkins, 88 Ga. 791 (15 S. E. 292). When the property was seized and sold under a fi. fa. against the payee of the notes, nothing was-sold except his title, and this title he had already transferred to the plaintiff in fi. fa.; and when the plaintiff in fi. fa. bought in the property at this sale, he got nothing; and the rights of the makers of the notes' to the property, when they paid for it, were in no wise affected by these illegal proceedings. The sale of the property was not only premature and illegal because the appeal suspended the judgment against the indorser, but it was invalid because the indorser had no title to sell. All the proceedings set out in the plea which the court allowed as a defense were mere 'nullities. The plaintiff, by such mill and void proceedings, by which he gained nothing and the makers lost nothing, did not estop himself from proceeding with his suit against the makers of the notes. What was a mere nullity as to the holder of the notes could not operate to release the makers.of the notes from their obligation to pay them. Cooper v. Smith, 125 Ga. 167 (53 S. E. 1013). We are satisfied that the court erred in holding that the allegations of the plea constituted a -defense which, upon their being admitted, authorized the direction of a verdict for the defendants. • Judgment reversed.
