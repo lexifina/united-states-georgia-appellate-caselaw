@@ -1,0 +1,30 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "1336"
+decided: "1909-06-15"
+citations: ["6 Ga. App. 447"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MILLER v. SMITH."]
+source_url: "https://static.case.law/ga-app/6/cases/0447-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1268492
+cites_cases: ["106 Ga. 864", "113 Ga. 681", "116 Ga. 1", "129 Ga. 796", "18 S. E. 11", "33 S. E. 28", "39 S. E. 503", "42 S. E. 366", "59 S. E. 1110", "6 Ga. 554", "70 Ga. 119", "91 Ga. 813"]
+---
+
+# Miller v. Smith
+
+## Majority (Powell, J.)
+
+Powell, J.
+Smith sued Miller for the purchase-price of a number of sticks of piling which he alleged he had sold the defendant and the latter refused to accept. The case resulted in a verdict for the plaintiff. The defendant made a motion for a new trial, to the overruling of which he excepts. Reduced to their lowest terms, the grounds of the motion present substantially the bare question that the verdict is without evidence to support it. The price to be paid for the piling was more than $50. The defendant’s plea consisted of a categorical denial of the allegations of the petition, and did not raise the point that the alleged contract was unenforceable for lack of compliance with the terms of the statute of frauds. It appeared on the trial that the defendant had given the plaintiff a written order for 1,000 sticks of piling, and that the plaintiff had in writing accepted the order. The plaintiff contended that by a subsequent parol agreement this order had been enlarged so as to call for 600 additional sticks of piling. The defendant admitted making the written contract, and claimed that it had been fully performed. He denied the enlargement of the order.
+A contract for the sale of 1,000 sticks of piling at the approximate price of $1.71 a stick is within the statute of frauds. Cason v. Cheely, 6 Ga. 554. “A contract which must under the statute of frauds be in writing, and which accordingly is put in writing and duly executed, can not be subsequently modified by a parol agreement.” Augusta So. Ry. Co. v. Smith, 106 Ga. 864 (33 S. E. 28). “The acceptance and receipt of merchandise of a greater value than fifty dollars; under an oral contract of sale, which is contemplated by the Civil Code, §2693, par. 7, as relieving the contract from the operation of the statute of frauds, must be such a transfer of the physical possession of the property as places the goods beyond the control of the vendor, and within the control of the vendee.” Tender and refusal to accept are not sufficient to take the case out of the statute. Brunswick Grocery Co. v. Lamar, 116 Ga. 1 (42 S. E. 366).
+However, the defendant did not, so far as the record shows, make in the trial court the point that the oral contract enlarging the written order was unenforceable for lack of compliance with the statute of frauds. In this respect the case is very similar to that of Tift v. Wight, 113 Ga. 681 (39 S. E. 503). It is held there that the right to plead the statute of frauds is a personal privilege which may be waived, and that a waiver will result from a failure to present the point in the proper manner to the trial court. The defendant, having chosen to submit the question to the local jury as to whether he made the alleged oral contract, must abide their finding upon the question, though he might have prevented the question from being submitted to them, by making a timely objection that the alleged contract was unenforceable because it was not in writing.
+There was sufficient evidence to justify the submission to the jury of the other question involved. However, the evidence was not sufficient to authorize their finding as to a portion of the verdict, but the trial judge required the unauthorized portion to be written off. This was proper, and cured the error. S. A. L. Ry. v. Randolph, 129 Ga. 796 (59 S. E. 1110); S., F. & W. Ry. Co. v. Harper, 70 Ga. 119; Brunswick Light Co. v. Gale, 91 Ga. 813, 821 (18 S. E. 11). Judgment affirmed.
+
+## Rehearing (Per Curiam.)
+
+on rehearing.
+Per Curiam.
+The plaintiff’s case rested upon the proposition that he had cut for the defendant 721 sticks of piling which the latter refused to take, and that the defendant retained them in his possession as the property of the plaintiff. The defendant’s testimony, though somewhat equivocal, was sufficient to authorize the jury to find that at the time of the trial the defendant was still retaining 621 sticks of the piling for the plaintiff. The verdict as finally moulded awarded the plaintiff the value of these 621 sticks. In the petition for rehearing, the plaintiff in error, who was the defendant in the lower court, after insisting that the evidence does not support the verdict, asks, however, that in the event the court does not adopt this view, the judgment of affirmance be coupled with a direction. He sets up that if he pays the judgment, he should have the piling, that the plaintiff is insolvent, and that though the money were paid him, he would not now deliver the piling. He asks, that, in connection with the judgment of affirmance, this court will direct that the defendant may pay the amount of the verdict to the clerk of the city court of Brunswick, to be impounded until the plaintiff shall deliver the piling. Probably this court has the power to grant the direction asked, but we do not deem it expedient to do so, as so- many collateral considerations are involved. Of course, the defendant ought to have the piling if he paid for it; but if the plaintiff is insolvent and will not do justice, a court of equity can handle this matter, after a hearing, better than we can with our limited facilities for ascertaining the actual facts. We will add, in the nature of a direction, that the judgment is not to operate as relieving the plaintiff from the duty of delivering the piling to the defendant upon demand. Rehearing denied.
