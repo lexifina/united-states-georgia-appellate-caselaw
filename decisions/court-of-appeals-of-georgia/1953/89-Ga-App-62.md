@@ -1,0 +1,27 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "34766"
+decided: "1953-10-24"
+citations: ["89 Ga. App. 62"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Felton and Quillian, JJ., concur."]
+parties: ["FAW v. AMERICAN APPRAISAL COMPANY."]
+source_url: "https://static.case.law/ga-app/89/cases/0062-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1563244
+cites_cases: ["111 Ga. 732", "139 S. E. 916", "151 S. E. 360", "169 Ga. 720", "195 Ga. 797", "23 Ga. App. 46", "25 S. E. 2d 686", "36 S. E. 945", "37 Ga. App. 271", "51 Ga. 120", "59 S. E. 2d 514", "81 Ga. App. 554", "97 S. E. 443"]
+---
+
+# Faw v. American Appraisal Co.
+
+## Majority (Sutton, C. J.)
+
+Sutton, C. J.
+(After stating the foregoing facts.) The undisputed evidence shows that the defendant contracted with the plaintiff on November 19, 1949, to make an appraisal of the Monson Hotel in St. Augustine, Florida, and that he was to pay the company $50 per day for each man making the appraisal, plus expenses and office charges. The evidence of the two men who made the appraisal of the Monson Hotel shows that they worked there for at least 12% full days, and this evidence is not contradicted. Their evidence was sufficient to prove the first item of the account sued on, for $625. The only evidence tending to sustain the other two items of the account, “Expenses, $118.62,” and “Office Charge, $250,” was the testimony of H. F. Wilson, one of the appraisers, which was to the effect that, to the best of his knowledge, the account sued on was correct; that he had access to the original books of account of the company, which showed an outstanding balance of $993.62 still due said company from the defendant. His testimony, with respect to the expenses of $118.62 and the office charge of $250, was objected to on the ground that it was hearsay, that he was not testifying from his own knowledge as to the correctness of these two items but, from having seen the books of the company, was testifying as to what the books showed. We think that the objection to this portion of his testimony was good and should have been sustained. See, in this connection, Crawford v. Stetson, 51 Ga. 120; Ninth Dist. A. & M. School v. Wofford Power Co., 37 Ga. App. 271 (4) (139 S. E. 916); Case Threshing Machine Co. v. Binns, 23 Ga. App. 46 (1) (97 S. E. 443); Jenkins v. National Mutual B. & L. Assn., 111 Ga. 732 (3) (36 S. E. 945).
+Exhibit 7, above referred to, was only a copy of the account sued on, and could not be proved by merely introducing it in evidence. This disposes of the questions raised in special ground 1 of the motion.
+Special ground 2 assigns error upon the admission in evidence of exhibit 1 above referred to, which was the letter from Moore to Miller, dated November 19, 1949, to the effect that Faw had engaged the appraisal company to make an appraisal of the Monson Hotel and to proceed with the work at once. This fact was not in dispute, having been testified to by both Moore and Eaw, and the admission of this letter in evidence was harmless. This ground of the motion also assigns error upon the admission in evidence of the letter from Moore to Miller, dated February 10, 1950, and referred to as exhibit 6 above, in which it was stated that Faw did not mention to Miller that he had to have the appraisal report by the last Tuesday in January, 1950, when they made the agreement on November 19, 1949, as to making this report. The substance of this letter was testified to by Moore without objection, and furthermore its admission in evidence was not harmful because the jury would not have been authorized to disbelieve Faw’s testimony to the effect that there was a time limit on the appraisal report merely because in his letter of January 2, 1950, he did not mention this.
+The defendant’s contention was that he did not owe any part of the account sued on because the appraisal report was not furnished to him within the time agreed upon, i.e., by or before the last Tuesday in January, 1950, when the meeting of the stockholders of the John Sevier Hotel was held; that he wanted the appraisal report to present to the stockholders’ meeting at that time and so informed the plaintiff company when the appraisal was ordered; and that it was of no value to him when it was presented to him about the last of February, 1950. The testimony of the plaintiff’s witnesses in this respect was to the effect that no time was specified within which the appraisal re.port was to be furnished to the defendant. The evidence is in direct conflict on this feature of the case, and the jury settled the conflict in favor of the plaintiff. The evidence authorized the verdict for $625, for the first item of the account sued on, but was not sufficient to authorize the verdict for the item of $118.62 as expenses and the office charge of $250. So the judgment is affirmed, on condition that the plaintiff write off from the judgment the amount of these two items; otherwise, the judgment is reversed. As the plaintiff in error has obtained a substantial modification of the judgment upon which error was assigned, the costs of this appeal are taxed against the defendant in error. American Airmotive Co. v. Meyer, 81 Ga. App. 554 (59 S. E. 2d 514); Anderson v. Beasley, 169 Ga. 720 (151 S. E. 360); Equitable Life Assur. Soc. v. Gillam, 195 Ga. 797, 807 (25 S. E. 2d 686).
+Judgment affirmed on condition as stated.
+Felton and Quillian, JJ., concur.
