@@ -1,0 +1,26 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "268"
+decided: "1907-05-16"
+citations: ["1 Ga. App. 804"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BRANTLEY COMPANY v. SOUTHERLAND, sheriff."]
+source_url: "https://static.case.law/ga-app/1/cases/0804-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1250032
+cites_cases: ["107 Ga. 34"]
+---
+
+# Brantley Co. v. Southerland
+
+## Majority (Hill, C. J.)
+
+Hill, C. J.
+This was a rule against the sheriff for “a breach of duty” in failing to make' the money on an execution issued from the city court of Douglas in favor of the A. P. Brantley Company and against J. B. Williams. The petition for the rule alleges, that the fi. fa. was placed in the hands of the sheriff on February 19, 1904, and has ever since been continuously in his hands, and that plaintiffs have upon more than one occasion pointed out to the sheriff property of the defendant in fi. fa. upon which to levy, but that the sheriff has never yet made the money upon said fi. fa. or any part thereof; wherefore a rule is asked calling upon the sheriff to show cause why he should not pay the money to the plaintiffs due on said fi. fa., or why, in default thereof, he should not be attached for contempt. The petition was filed in the clerk’s office on July 16, 1906, and the rule was issued and served on the sheriff the same day. The sheriff, on July 17, 1906, demurred to the petition, on the ground that no cause of action was set forth, and on the further ground that the petition was fatally defective for the reason that plaintiffs did not allege that they had been damaged in any amount by the alleged conduct of the sheriff. The court sustained the demurrer on the second ground, and required the plaintiffs to amend the petition and make a special .allegation of damage. On July 17, 1906, the sheriff answered the rule and admitted all the allegations of the petition, except that, plaintiff had on more than one occasion pointed out property •of the defendant in fi. fa. upon which to levy. At the following September term of the court, to wit, on September 19, 1906, the plaintiffs filed a traverse to the answer of the sheriff; and on the following day the court entered' a judgment reciting that the answer of the sheriff made a complete defense, and the same not having been traversed in terms of the law, “the said sheriff is hereby discharged from liability.” The plaintiffs assign error on the judgment requiring them to amend the petition by making the special averment of damage, and also on the ruling that the traverse had not been filed in terms of the law, and that the answer of the' sheriff made a complete defense, and discharging him from liability.
+When the case was called in this court, a motion was made to dismiss the writ of error, on the ground that it should have been sued out and brought to the Court of Appeals as a fast writ of error. It is not necessary to pass upon this motion, as an inspection of the bill of exceptions and the record shows that the writ of error comes to this court as a fast writ. The decision of the court complained of was rendered on September 20, 1906, the opposite party was served on October 10, 1906, and the record reached the clerk’s office of this court on October. 19, 1906; all of which dates show the requisites of a fast bill of exceptions, under the Civil Code, §5540.
+The plaintiffs, 'having submitted to the ruling of the court on the demurrer, and amended the petition by adding a special allegation off damage to meet such ruling, can not afterwards be heard to say that the amendment was not necessary. They should have submitted to an order dismissing their case, if they had desired to except to the ruling of the court on this subject.
+While the general rule requires that traverses to entries made by officers should'be filed at the first term, we do not think such rule applies to a traverse of a sheriff’s answer to a petition for a rule against him because of a breach of his duty in failing to’ make a levy on a fi. fa. In the absence of any laches on the part of plaintiffs such traverse is in time if filed before the case is called for trial. The recitals contained in the bill of exceptions show that the plaintiffs had exercised due diligence in filing their traverse to the sheriff’s answer; and we hold that the judgment striking the traverse because the same had not been filed in terms of the law was erroneous.
+The answer of the sheriff in this case did not set up a sufficient defense to the petition for the rule. The answer admits all the allegations of plaintiffs’ petition except the allegation that property had been pointed out upon which to levy the execution. A mere denial of this fact constitutes no defense. The answer should have averred enough to rebut the legal presumption of negligence, — either some fact which, if proved, would have mitigated the plaintiffs’ damages, or some fact which would show that the money could not have been collected on the fi. fa. by the exercise of reasonable diligence. We think, therefore, that the court erred in holding that the answer of the sheriff set up a complete defense, and in discharging him from liability.
+Judgment reversed.
