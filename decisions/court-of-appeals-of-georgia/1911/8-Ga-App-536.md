@@ -1,0 +1,22 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "3068"
+decided: "1911-01-17"
+citations: ["8 Ga. App. 536"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILCOX v. THE STATE."]
+source_url: "https://static.case.law/ga-app/8/cases/0536-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 616793
+cites_cases: ["37 Atl. 492", "43 L. R. A. 620", "67 S. E. 886", "69 Conn. 212", "7 Ga. App. 695"]
+---
+
+# Wilcox v. State
+
+## Majority (Powell, J.)
+
+Powell, J.
+The plaintiff íd error was convicted of selling intoxicating liquor. According to the State’s evidence he was selling beer; also whislcy. One of the main questions at issue in the trial court was as to whether the beer was intoxicating. A witness who bought and drank some of the beer testified, that he did not know whether it was lager beer or not, and that he did not drink enough of it for it to make him drunk, but it produced a dizziness and a funny feeling, and he was of the opinion that if a person should drink enough of it he would become drunk. He also expressed what amounted to an opinion that it was lager beer. Another witness, who had drunk some of the same beer, said it tasted like lager beer; and his opinion as to its intoxicating qualities tallied in the main with that of the other witness. The accused moved to exclude the evidence of these witnesses as to the intoxicating quality of the beer, on the ground that it was opinion evidence and that the witnesses did not qualify as experts. The opinion of the witnesses was admissible. Each stated the facts on which his opinion was based; and the testimony disclosed a sufficient familiarity as to the facts involved to authorize the expression of an opinion. One who has' drunk a considerable quantity of a liquor does not have to be an expert in order to form a reasonably trustworthy opinion as to whether it is intoxicating or not. There is something presageful about a drink of intoxicating liquor, even though it be too small to produce full intoxication. The less expert the taker of the drink is in the matter of drinking, the more accurate his opinion is likely to be.
+One witness testified that he had bought whisky from the accused. There was evidence tending to impeach this witness. In corroboration of this testimony, as well as in general support of the charge against the defendant, the State, over objection, introduced a certified copy of a justice’s court summons, with account attached, entry of service, and judgment, in a civil suit brought by a firm of liquor dealers against the -accused for the purchase price of a quantity of whiskies alleged to have been bought on various dates. It would have been relevant for the State to have proved as a circumstance that the defendant, at or about the time of the transactions involved, had been purchasing liquors. ■ We do not think, however, that the certified copy of the suit and judgment was the proper method of proving this fact; in the absence of additional testimony. The judgment in the civil case did not establish the facts as against the accused in the criminal prosecution. This principle is well recognized. See 7 Encyc. Ev.' 852; State v. Bradneck, 69 Conn. 212 (37 Atl. 492, 43 L. R. A. 620). If the State had proved that the judgment was rendered by default after personal service, thus raising against the defendant an implication that he did not deny the justness of the account, or had shown that he had filed ,a defense'which directly or by fair implication admitted that he had purchased the goods sued for, the fact of the suit and of what the defendant did in reference thereto might have been proved as a quasi admission on the part of the accused. Oliver v. State, 7 Ga. App. 695 (4), 696 (67 S. E. 886). The facts essential to the raising of this implication were not proved by the transcript of the record itself, unaided by proof as to the defendant’s conduct in relation to the suit. In such cases it is not the judgment that has probative value; it is the conduct of the accused and his attitude when confronted with a claim that he had been buying liquors as stated in the account sued on. It is on this ground alone that we reverse the judgment; and we feel it our duty to reverse'it on this ground, as it involves the admission of improper evidence at a crucial point in a case closely contested as to the facts. Judgment reversed.
