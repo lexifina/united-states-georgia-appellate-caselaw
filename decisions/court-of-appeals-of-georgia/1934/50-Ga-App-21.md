@@ -1,0 +1,24 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "23946"
+decided: "1934-10-26"
+citations: ["50 Ga. App. 21"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Broyles, C. J., and MacIntyre, J., concur."]
+parties: ["SOSEBEE v. HALL COUNTY."]
+source_url: "https://static.case.law/ga-app/50/cases/0021-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1467381
+cites_cases: ["109 Ga. 473", "110 S. E. 331", "121 Ga. 310", "130 Ga. 649", "131 Ga. 270", "150 S. E. 158", "152 S. E. 903", "169 Ga. 313", "170 Ga. 368", "28 Ga. App. 57", "34 S. E. 848", "46 Ga. 462", "48 S. E. 947", "61 S. E. 533", "62 S. E. 185"]
+---
+
+# Sosebee v. Hall County
+
+## Majority (Guerry, J.)
+
+Guerry, J.
+Mrs. Mary Sosebee’s petition as amended was an action against Hall County, based on a contract, and alleged that Hall County, in consideration of a deed executed to it of a certain 'right of way by the plaintiff, contracted to remove a store building from said right of way to a named location and leave the building in as good condition as it was in before it was moved; that the building was moved, but that it was damaged in the moving, and the county refused to put it in the same condition it was in before the moving, according to its contract, and that the resultant damage thereto was $600. A general demurrer was sustained and the plaintiff excepted. There was no special demurrer calling for special allegations in reference to the time of the completion of the contract of moving, and, inasmuch as the petition alleged that the contract was an executory contract, and that the breach thereof did not occur until there was a definite refusal to perform, and the time of such refusal to perform was specifically alleged, and the suit was filed within three weeks after such time, the petition was sufficient to withstand a general demurrer on the ground that it was not alleged that suit was brought within twelve months from the time the cause of action accrued. There is, however, another and fatal defect in the petition which subjected it to general demurrer. Section 386 of the Civil Code is as follows: “All contracts entered into by the ordinary with other persons in behalf of the county must be in writing and entered on their minutes.” In Pritchett v. Inferior Court of Barlow County, 46 Ga. 462, it was said: “In a suit against a county . . the pleadings must show, affirmatively, that the contract was entered upon the minutes of the Inferior Court. Without such entrjr, the contract would not be valid. . . ” This principle has been followed without variation down to the present time. In Milburn v. Glynn County, 109 Ga. 473 (34 S. E. 848), it was said: “Under the law now embraced in § 343 of the Political Code, and in view of the construction placed upon the provisions of § 527 of the Code of 1868 by this court in Pritchett v. Inferior Court, 46 Ga. 462, relating to the same subject-matter, a petition in an action against a county, founded upon an alleged contract, is not good unless it affirmatively avers that such contract was entered upon the minutes of the proper authorities in charge of the financial affairs of the county.” The reducing of a contract to writing and the entering of such contract on the minutes of the authorities having in charge the financial affairs of the county is a condition precedent to the existence of a valid and enforceable contract against the county, and the petition should allege the performance of such a condition. This principle has been followed in Killian v. Cherokee County, 169 Ga. 313 (150 S. E. 158); Spears v. Robertson, 170 Ga. 368 (152 S. E. 903). In Carolina Metal Products Co. v. Taliaferro County, 28 Ga. App. 57, 110 S. E. 331, it was said: “All contracts by county authorities in behalf of the county must be in writing and entered on their minutes. No such contract, so entered, being shown by the allegations of the plaintiff’s petition, by which it was sought to recover upon an account for culvert materials and .dump carts alleged to have been received by the defendant county, used by it, and partially paid for, the court did not err in dismissing the action, on demurrer.” See also Spalding County v. Chamberlin, 130 Ga. 649 (61 S. E. 533); Holliday v. Jackson County, 121 Ga. 310 (48 S. E. 947); James v. Douglas County, 131 Ga. 270 (62 S. E. 185). The petition in the present case was amended so as to strike all allegations therein that might tend to make it duplicitous, but there was no attempt to allege that the contract sued on complied with the conditions necessary in order to make it a valid and enforceable contract against the county, and the court did not err in sustaining the general demurrer.
+Judgment affirmed.
+Broyles, C. J., and MacIntyre, J., concur.
