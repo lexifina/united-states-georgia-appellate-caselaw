@@ -1,0 +1,42 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "A94A2720"
+decided: "1994-12-19"
+citations: ["216 Ga. App. 3", "453 S.E.2d 85"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Andrews, J., concurs. Beasley, P. J., concurs specially."]
+parties: ["TILLMAN et al. v. MASTIN et al."]
+source_url: "https://static.case.law/ga-app/216/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 844748
+cites_cases: ["198 Ga. App. 112", "202 Ga. App. 168", "205 Ga. App. 894", "210 Ga. App. 62", "257 Ga. 300", "260 Ga. 206", "264 Ga. 385", "42 USC § 1983"]
+---
+
+# Tillman v. Mastin
+
+## Majority (Johnson, Judge.)
+
+Johnson, Judge.
+Sherri Sikes was attempting to make a left turn off of Highway 80 when her car was struck by a police car driven by Chatham County Police Officer John Mastín. Mastín was responding to a “Code 4” call from his dispatcher, which designates a crime in progress. Sikes subsequently died from the injuries sustained in the collision. Her children brought this suit against Chatham County alleging nuisance and violation of 42 USC § 1983, and against Officer Mastín alleging negligence. Plaintiffs appeal from the trial court’s grant of summary judgment in favor of the defendants.
+The trial court correctly granted summary judgment to Chatham County on all claims. At the time of the accident, the Georgia Constitution provided that a governmental unit waived sovereign immunity to the extent that liability insurance had been purchased. Ga. Const. 1983, Art. I, Sec. II, Par. IX. Chatham County had not purchased any liability insurance, but it did maintain a reserve fund for the purposes of paying claims. However, the maintenance of a fund and the payment of claims therefrom does not constitute a self-insurance plan so as to defeat a county’s right to assert sovereign immunity as a defense. Pizza Hut of America v. Hood, 198 Ga. App. 112, 113 (2) (400 SE2d 657) (1990). Because Chatham County is immune from claims, we need not reach the merits of the remaining state claims asserted against it.
+“42 USC § 1983 creates a cause of action, cognizable in the courts of this state, based upon acts which are in implementation of an intentional policy adopted or ratified by the governing body of a public agency, which acts work deprivation of a constitutional right. . . . What is required to be proved, directly or circumstantially, is that a governing body has worked a due process deprivation of a citizen’s constitutionally protected right pursuant to an impermissible or corrupt policy which is intentional and deliberate.” (Citations and punctuation omitted.) Poss v. City of North Augusta, S.C., 205 Ga. App. 894, 895 (2) (424 SE2d 73) (1992). See also Banks v. Mayor &c. of Savannah, 210 Ga. App. 62, 63 (2) (435 SE2d 68) (1993). We agree with the trial court’s assessment of the record which concludes that there was not a showing that Chatham County intentionally or deliberately promulgated or even tolerated an impermissible or corrupt policy in its training of police officers.
+With regard to the claims against Mastin, we note that this case is factually identical to Banks v. Patton, 202 Ga. App. 168, 169 (413 SE2d 744) (1991). In Banks, appellant’s car was struck by a police patrol car as it attempted to turn left. The officer had his flashing blue lights on, but there was a question regarding whether his siren had been activated, just as in this case. Judge Carley, the author of Banks, concluded it was controlled by Logue v. Wright, 260 Ga. 206 (1) (392 SE2d 235) (1990). The police officer was entitled to immunity as a matter of law because “ ‘[t]he rule grants immunity to public employees who perform discretionary acts in a negligent manner. That happened here.’ Logue v. Wright, supra at 207-208. Construing the admissible evidence of record most favorably for appellant, he was injured as the result of appellee’s negligent performance of a discretionary duty. Accordingly, the trial court correctly granted summary judgment in appellee’s favor.” Banks, supra at 170 (2).
+The dissent in Banks distinguished it from Logue in two respects: 1) In Banks the plaintiff alleged the officer’s acts “ ‘were unlawful and showed willful misconduct, wantonness, oppression and that entire want of care which raises the presumption of conscious indifference to the consequences’ and 2) in Banks there was testimony from an officer trained in traffic accident investigation qualified as an expert that the failure of the officer in Banks to activate his siren constitutes failure to drive with due regard for the safety of all persons. Id. at 170-171.
+The complaint in this case also suggests that Mastin’s conduct in failing to operate the siren was “reckless and/or grossly negligent.” There is no support for this allegation in the record, however. Furthermore, even if an expert were to testify at trial that the officer’s conduct constituted a failure to drive with due regard for the safety of all persons pursuant to the requirements of OCGA § 40-6-6, the effect of that testimony would only establish that the conduct was negligent. A police officer is insulated from liability for such, negligence in any event. Again citing Banks: “Failure to use both the light and siren in this case was an act of negligence, not an act of malice, corruption, wilfulness, or reckless disregard for the safety of others.” (Punctuation omitted.) Id. at 170 (2). To allow the issue of an officer’s conduct to be submitted to a jury in such cases would abrogate the long-standing rule of law granting immunity to public officers for negligent performance of discretionary acts. Logue and Banks are still good law.
+Summary judgment was also properly granted to Mastín on the 42 USC § 1983 claim. As the trial court pointed out in its order: “Automobile negligence actions against a policeman acting in the line of duty are grist for the state law mill. But they do not rise to the level of a constitutional deprivation.” (Citations and punctuation omitted.) Martin v. Ga. Dept. of Pub. Safety, 257 Ga. 300, 305 (4) (357 SE2d 569) (1987).
+Judgment affirmed.
+Andrews, J., concurs. Beasley, P. J., concurs specially.
+Our analysis of a police officer’s conduct in responding to a reported crime in progress is not controlled by Mixon v. City of Warner Robins, 264 Ga. 385 (444 SE2d 761) (1994), which holds that an officer’s decision to engage in high speed pursuit of a fleeing suspect creates an intervening act which a jury might find to be the proximate cause of the injury. We think that the decision in Mixon was limited to high speed pursuit cases and that the Supreme Court in Mixon did not intend to suggest that an individual police officer must weigh the consequences of responding to every dispatcher’s call prior to doing so.
+
+## Concurrence (Beasley, Presiding Judge,)
+
+Beasley, Presiding Judge,
+concurring specially.
+I concur fully with respect to the affirmance of summary judgment to the county. With respect to defendant Mastín, I concur in the judgment because I am bound by Banks v. Patton, 202 Ga. App. 168 (2) (413 SE2d 744) (1991). However, the law expressly conditions the exercise of certain driving privileges, by drivers of law enforcement vehicles in emergencies, upon the activation of an audible signal and a flashing or revolving blue light. OCGA § 40-6-6 (c). The plain meaning of this is that if the prerequisites are not met, there are no such privileges and the safety regulations are not suspended. The purpose of mandating both audible and visual warnings obviously is to provide a proven modicum of protection to the life, limb, and property of those traveling on the highway. Appropriating the privileges when not meeting the mandatory conditions is a violation of the law. OCGA § 40-6-6 (e).
+Considering the known effect of driving without an audible signal, it should be a question of fact whether an officer who does so and in addition sets aside the normal safety regulations described in subsection (b), thereby acts with reckless disregard for the safety of others or only negligently. The higher degree of culpability should depend on the circumstances and the jury’s evaluation of them.
+Decided December 19, 1994
+Reconsideration denied January 4, 1995
+Lee, Black, Scheer & Hart, Steven E. Scheer, Christopher L. Rouse, for appellants.
+Woodall & MacKenzie, John T. Woodall, Peter A. Giusti, for appellees.
