@@ -1,0 +1,28 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "18316"
+decided: "1928-03-07"
+citations: ["38 Ga. App. 1"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Broyles, C. J., and Luke, J., concur. Blood-worth, J., absent on account of illness."]
+parties: ["ATLANTIC MUTUAL FIRE INSURANCE CO. v. LANEY."]
+source_url: "https://static.case.law/ga-app/38/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1438052
+cites_cases: ["11 Ga. App. 539", "132 Ga. 687", "24 Ga. App. 199", "3 Ga. App. 807", "61 S. E. 406", "64 S. E. 1074", "75 S. E. 894", "99 S. E. 434"]
+---
+
+# Atlantic Mutual Fire Insurance v. Laney
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+T. M. Laney sued Atlantic Mutual Fire Insurance Company on a fire-insurance policy. The defendant admitted issuing the policy to the plaintiff, but contended, in substance, that it was void because there was other insurance outstanding at the time of the issuance of the policy sued on; that the plaintiff and the agent of the defendant agreed that this outstanding insurance should be cancelled, but that said insurance was still of force at the time of the damage to the property covered by the policy sued on; also because the plaintiff had only an equity of redemption in the property. The defendant pleaded that these facts voided the policy sued on, under the provisions ttiereof. A verdict was rendered in favor of the plaintiff, covering damage by fire to the property insured, and damages for bad faith and attorney’s fees. The defendant made a motion for a new trial, which was overruled, and it excepts to that judgment.
+There is ample evidence to show that the agent of the defendant company who wrote the policy had knowledge of the outstanding insurance and of the lien on the property at the time she wrote the policy sued on, and that she delivered the policy to the plaintiff with full knowledge of these facts, and accepted the premium from the plaintiff. “A fire insurance company which, through its agent, has either actual or constructive notice of the existence of outstanding insurance upon property when it issues a policy upon the same property, is estopped from insisting upon a clause in the policy whereby it is to be void if there be outstanding insurance.” Insurance Company of North America v. DeLoach, 3 Ga. App. 807 (61 S. E. 406). “As to all matters affecting conditions. precedent to a contract of insurance, the knowledge of the agent of the insurance company is imputed to the company, and the company is thereby charged with notice of any facts, affecting the risk about to be assumed, which may have come to or rest in the knowledge of its agent, and which good faith in the discharge of his duty as agent would require him to disclose to his principal.” Rome Insurance Co. v. Thomas, 11 Ga. App. 539 (3) (75 S. E. 894). “Where a policy of fire insurance contained a stipulation that it should be void if the subject of insurance be a building on ground not owned by the insured in fee simple, but, at the time the application for insurance was made, the company, through its agent, knew that the applicant did not own the land on which the building sought to be insured was situated, the company, in defending an action on the policy, will be estopped from setting up the noncompliance of the insured with this condition of the policy.” Springfield Fire &c. Ins. Co. v. Price, 132 Ga. 687 (2) (64 S. E. 1074). See also 2d headnote in the same case.
+Even if the verbal contract to cancel the outstanding insurance, as alleged by the defendant to have been made, could supersede the written contract, the question whether the verbal contract was actually made was one of fact on which the evidence was in direct conflict, and therefore was for decision by the jury. The plaintiff swore that he made no agreement to cancel the outstanding insurance, and evidently the jury believed him, as they had the right to do.
+The defendant company denied liability altogether and refused to pay the plaintiff; and under the evidence the recovery of damages for bad faith and for attorney’s fees was authorized. TJnder the circumstances shown, “such refusal upon the part of the insurance company to adjust or pay for any loss or damage claimed, after having received such notice and demand for payment, constitutes evidence of bad faith in a suit based upon section 2549 of the Civil Code of 1910.” Central Manufacturers Mutual Ins. Co. v. Graham, 24 Ga. App. 199 (1) (99 S. E. 434). Nor does the failure of the plaintiff to recover the full amount sued for in this case preclude him from recovering damages and attorney’s fees. Idem, paragraph 4.
+There was no harmful error in admitting the testimony as complained of in the 1st, 2d, 3d and 4th special grounds of the motion for a new trial; nor in charging the jury as set out in grounds 5, 6, 7, 8, 9, 10, 11, and 12 of the motion. The 13th, 14th, and 15th grounds of the motion are but amplifications of the general grounds. The evidence amply supported the verdict. There was not even a hint that the fire-was incendiary, or that there was anything that would reflect upon the character of the plaintiff. There was evidence that the defendant company solicited the insurance which is the subject of the litigation. The policy was for $2000 on the house and $500 on the furniture. The recovery for damage to the house and furniture was $1658, and the defendant company’s own witness testified that the fire damaged the house $2000.
+Judgment affirmed.
+Broyles, C. J., and Luke, J., concur. Blood-worth, J., absent on account of illness.
