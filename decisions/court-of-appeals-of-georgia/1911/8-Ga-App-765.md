@@ -1,0 +1,22 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "2501"
+decided: "1911-02-15"
+citations: ["8 Ga. App. 765"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McLEOD v. TRAVELERS INSURANCE COMPANY."]
+source_url: "https://static.case.law/ga-app/8/cases/0765-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 616732
+cites_cases: ["25 S. E. 392", "33 L. R. A. 821", "54 Am. St. R. 440", "97 Ga. 634"]
+---
+
+# McLeod v. Travelers Insurance
+
+## Majority (Russell, J.)
+
+Russell, J.
+The exceptions to the award of a nonsuit, and to the refusal of the judge to admit certain evidence which the plaintiff offered, while separately presented, really go to the same point, and as we see it, the decision of the case is controlled by the ruling of the Supreme Court in Fidelity & Casualty Co. v. Gate City National Bank, 97 Ga. 634 (25 S. E. 392, 33 L. R. A. 821, 54 Am. St. R. 440). The insurance policy sued on in the present ease provides: “"Written notice as early as may be reasonably possible must be given to the company at Hartford, Connecticut, of the commencement of any disability for which a claim, can be made, with full particulars thereof and with full name and address of the insured.” It further provides, that “Affirmative proof of duration of disability must be furnished to the company at its home office in Hartford, Connecticut, within eight months from the commencement of the disease which caused the disability, which proof must establish the fact that the disability was not the result of any one or more of the diseases or causes herein above excluded.” The plaintiff declared upon the contract containing these stipulations. He could have alleged a waiver of these conditions; and if the proof sustained the allegation that there was a waiver, he would have been as much entitled to recover as if he had shown complete and exact compliance with the requirements of the contract. But he did not do this. In the fifth paragraph of the petition he alleged that “the written notice and proof of disability, as required under said policy or contract, have been duly furnished-the defendant within the time specified therein.” Though the proof offered, under numerous decisions of the Supreme Court, was amply sufficient to have authorized his recovery if he had alleged a waiver of the requirements upon this subject, none of the proof went to support the allegation that he had duly furnished the written notice required. For this reason there was a fatal variance between the allegata-and the probata, and the award of á nonsuit was not error. In Fidelity & Casualty Co. v. Gate City National Bank, supra, a similar case, Judge Lumpkin, in delivering the opinion of the court, held that it was error to deny a nonsuit, — that an allegation that the bank had furnished the proof of loss required by the contract could not be sustained by evidence tending to show that the defendant had waived such proof of loss, and that this variance between the allegata and the probata was fatal. The ruling in that case was: “The contract stipulating for proof of loss satisfactory to the company’s officers, and that full particulars of any claim arising upon the contract should be given in writing, addressed to the secretary of the company, within a specified time, and the declaration alleging compliance with the foregoing terms of the contract, but not alleging that there had been any waiver of the requisite proof of loss, and the evidence entirely failing to show that the same had been duly furnished, the plaintiff did not prove its case as laid, and it was error to refuse a nonsuit. This is true although the plaintiff introduced evidence for the purpose of proving a waiver by the defendant of such proof of loss; and it is immaterial whether this evidence was or was not legally sufficient to establish the alleged waiver.”
+The evidence rejected was properly excluded, for the reason that it tended only to establish more fully the fact that the insurance company had waived some of its very drastic regulations. If a waiver had been relied upon by the plaintiff, the exclusion of this evidence would have been error; but as,none of it tended to establish the plaintiff’s case as laid, or to show that the written notice required had been actually furnished by him, it was not error to repel it. Judgment affirmed.
