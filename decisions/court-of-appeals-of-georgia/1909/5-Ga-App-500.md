@@ -1,0 +1,23 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "1053"
+decided: "1909-02-09"
+citations: ["5 Ga. App. 500"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGIA, FLORIDA & ALABAMA RAILWAY COMPANY v. STANTON & COMPANY."]
+source_url: "https://static.case.law/ga-app/5/cases/0500-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1264642
+cites_cases: ["2 Ga. App. 323", "58 S. E. 511"]
+---
+
+# Georgia, Florida & Alabama Railway v. Stanton & Co.
+
+## Majority (Russell, J.)
+
+Russell, J.
+Upon consideration of the record we find that Stanton & Company bought ten boxes of oranges at St. Petersburg, Florida, which were shipped to them at Colquitt, Georgia, via the Seaboard Air-Line Railway and the Georgia, Florida & Alabama Railway. When the oranges reached their destination one box was. gone, and some of the others were in such a damaged condition, that the consignees at first refused to accept the shipment. Finally they were induced by the agent of the Georgia, Florida & Alabama Railway Company to receive the oranges which remained, and, after assorting them, obtained four boxes of good oranges. They brought suit against that conqoany in a justice’s court, for the purchase-price of the six remaining boxes and for the freight. On the trial had upon appeal in the justice’s court, the plaintiffs introduced in evidence the mani-bill, which showed that the Georgia, Florida & Alabama Eailway Company received two of the boxes of oranges from the Seaboard Air-Line Eailway in. bad condition. There was no dispute upon this point. The verdict of the jury and the judgment of the justice thereon were in favor of the plaintiffs, for all of the six boxes of oranges; and the defendant sued out a certiorari, which was overruled by the judge of the superior court. In the petition for certiorari exception is taken (among others, which we do not sustain) to the judgment rendered as to the two boxes of oranges received by the defendant in bad order.. We think, upon this ground, the court erred in overruling' the certiorari. The court should have sustained the certiorari, or, as no issue of fact was presented, should have given final disposition to the case by reducing the judgment in accordance with law. We held in Ohlen v. Atlanta & West Point R. Co., 2 Ga. App. 323 (58 S. E. 511), that where it does not appear either that the carrier received the goods as in bad order, or that they were in fact in bad order when received, the presumption is that they were in good order, and the burden of proof is upon such carrier to show that it was free from negligence, and that its negligence did not cause or contribute to the damage. Under this rule it would be presumed that the Georgia, Florida & Alabama Eailway Company received the oranges in good order, if nothing appeared to the eontrary. But where it appeared that two boxes of the oranges were in fact received in bad order, the presumption could not arise or exist. The presumption which would have arisen in the absence of any evidence upon the subject can not spring into existence where it conflicts absolutely with the facts of the case. We think, therefore, that the plaintiffs were not entitled to recover against the present defendant for the two boxes which the evidence showed were received by it in bad order; and that for that reason the court erred in overruling the certiorari.
+Inasmuch, however, as the judge of the superior court could in the first instance have directed that the $6 be written off, and thus have .given final disposition to the case, and inasmuch as no useful purpose can be served by another trial, because jdie plaintiffs are clearly entitled to recover the undisputed value of four boxes of the oranges and the freight, we will affirm the judgment overruling the certiorari, with direction that the' judge of the superior court amend his judgment by directing the justice of the peace to write off from the judgment in favor of the plaintiffs the sum of $6, the value of two boxes of oranges which the evidence showed the defendant carrier received in bad order; and with the further direction that judgment be entered in the superior court against the plaintiffs ,.(the defendants in error) for all costs accruing upon, the writ of certiorari, and also the costs of this writ of error. A. verdict in favor of the plaintiffs was demanded, but the amount was too large; and the plaintiff in error is entitled to its costs, because there is merit in the certiorari and the writ of error.
+Judgment affirmed, with direction»
