@@ -1,0 +1,22 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "167"
+decided: "1907-04-25"
+citations: ["1 Ga. App. 697"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cunningham v. The State."]
+source_url: "https://static.case.law/ga-app/1/cases/0697-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1249996
+cites_cases: ["101 Ga. 538", "104 Ga. 412", "112 Ga. 578", "84 Ga. 720", "92 Ga. 760", "98 Ga. 807"]
+---
+
+# Cunningham v. State
+
+## Majority (Cobb, P. J.)
+
+Cobb, P. J.
+(After stating the facts.) The constitution declares: “No law, or section of the Code, shall be amended or repealed by mere reference to its title, or to the number of the section of the Code, but the amending or repealing act shall distinctly describe the law to be amended or repealed, as well as the alteration to be made.” Civil Code, §5779. It has been held, in numerous cases, that it was not necessary> under this provision of the constitution, that the act to be amended or repealed should be copied in its entirety in the amending or repealing act; in other words, that the constitution called for a description, and not a transcription, and that any reasonable description of the act to be amended or repealed would be a compliance with this provision of the constitution. See Newman v. State, 101 Ga. 538, and cases cited; Puckett v. Young, 112 Ga. 578, and cases cited; Gilbert v. Ga. R. Co., 104 Ga. 412, and cases cited. In many of the cases above referred to there was in the amending or repealing act something more than a mere reference to the title of the act or section of the code. This matter of description sometimes appears in the title, sometimes in the act, and sometimes in both. In Adam v. Wright, 84 Ga. 720, -the repealing act contained no other description of the act to be repealed than the title and the date of approval. This was held to be a compliance with the constitutional requirement. In Georgia Southern & Fla. R. Co. v. George, 92 Ga. 760, the amending act contained no other description of the act to be amended than a recitation of its title, the date of its approval, and a recital of how the act would read when amended in the manner indicated in the act. In the opinion Mr. Justice Lumpkin said: “No other act ever passed by the General Assembly of this State had in it a section in the language of the fifth section of the act of 1889, and therefore, when this section is fully transcribed in the amending act, the act to be amended is identified beyond any possibility of doubt. It is true that the ‘ description’ does not precede,, but follows, that portion of the act of 1892 which declares what the amendment shall be. The order of arrangement, however, is immaterial. The act of 1892 must be considered as a. whole, and when this is done, it will appear that the act of 1889 is distinctly designated, and that its identity would be certain, irrespective of the references to its title which appear both in the. title and in the body of the act of 1892. We think this was a substantial compliance with the requirements of the constitution." In Fullington v. Williams, 98 Ga. 807, the repealing act described the act to be repealed simply by giving its title in full and the date-of its approval. Following the decision in Adam v. Wright, supra, this was held to be a substantial compliance with the terms of the' constitution. While legislative interpretation • of the constitution is not binding upon -the courts, it is often strongly persuasive, and especially is this true where the interpretation has been for a long time followed by the lawmaking department of the government. The form of amending an act which was followed in the-act now under consideration began with the first General Assembly that convened after the adoption of the constitution of 1877. At nearly every session of the General Assembly since that date, if' not at all, amending and repealing acts have been passed in the form in which the one now under consideration appears. As to-the consequences of a change of the rule laid down in Adam v. Wright, see the remarks of Chief Justice Simmons in Fullington v. Williams, supra. Following the ruling in Georgia So. Ry. Co. v. George, supra, we say, in answer to the question certified by the Court of Appeals, that the act in question is.not unconstitutional for the reason referred to in the question.
+All the Justices concur, except Fish, C. J., absent.
