@@ -1,0 +1,27 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "4315"
+decided: "1912-12-10"
+citations: ["12 Ga. App. 11"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNDERWOOD TYPEWRITER CO. v. VEAL."]
+source_url: "https://static.case.law/ga-app/12/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1278182
+cites_cases: ["130 Ga. 591", "61 S. E. 401", "77 Ga. 21"]
+---
+
+# Underwood Typewriter Co. v. Veal
+
+## Majority (Hill, C. J.)
+
+Hill, C. J.
+The Underwood Typewriter Company instituted bail-trover proceedings against Yeal, to recover a typewriter. Yeal declined to make a forthcoming bond and delivered the machine to the sheriff. The plaintiff did not replevy the machine, and it remained in the custody of the sheriff until the trial. Pending the trial the plaintiff voluntarily dismissed the suit, and thereupon the trial judge, at the instance of the defendant and over the objection of the plaintiff, directed the jury to find a verdict in favor of the defendant for the proven rental' value of the machine during the time it was in the possession of the sheriff, and a judgment was entered accordingly. The case is here for review on exceptions to this direction of a verdict and to the judgment thereon. In a trover suit, where the plaintiff gives bond and takes the property upon the refusal of the defendant to do so, and is cast in the suit, the defendant is entitled either to recover from the former the property in his possession, or to take a judgment and have execution for the value of the property. In other words, the defendant, like his opponent, is entitled to an election of verdicts. Mallary v Moon, 130 Ga. 591 (61 S. E. 401). In Marshall v. Livingston, 77 Ga. 21, it was held that “where the plaintiff fails in his suit, or voluntarily dismisses it, the other party is not driven to his action on the bond, but ■ inay have a writ of restitution for the property and its hire, or a fieri facias, if he so elects, for its value.” It is conceded that if the plaintiff in the present case had given the replevy bond, the defendant, upon the voluntary- dismissal of the suit, would have been entitled, at his election, either to a judgment for the restitution of the property and its hire, or to 'a judgment for its value. But it is insisted that as the plaintiff did not give the replevy bond and the property was not in his possession, but in custodia legis, the principle here enunciated does not apply. We do not concur in this opinion; for, as expressly ruled in the Marshall case, supra, where the plaintiff fails or voluntarily dismisses his suit, the defendant is not driven to his action on the bond, but he may have a right of restitution for the property and its hire, or a fieri -facias for its value. The underlying reason for this rule is that the defendant has been deprived of the possession of his property by the act of the plaintiff in bringing the suit and in having the officer to seize the property. It is true, the defendant can, if he desires, give the statutory bond and keep possession of the property, but it may be, and is in some 'cases, a hardship to require a defendant to make bond. He may not be able to give the bond, and in that event he would be compelled to surrender the property. The possession of the property so surrendered might be exceedingly valuable to the defendant. It might in some cases be necessary for his actual support and maintenance. In being deprived of the use of the property by the plaintiff, if such deprivation turns out to be unlawful, it would seem to be right and just for, the plaintiff to compensate the defendant for thus depriving him of the use and possession of his property. Manifestly it makes no difference to the defendant whether the property which has been seized and taken from his possession remains in the custody of the law or is replevied by the plaintiff. In either event the defendant is deprived of the possession of his property, and it is the intention of the law to make the plaintiff compensate him for damages arising by reason of such deprivation; and the reasonable measure of such damages is the rental, or hire value, of the property in question. It would be unjust in such case to compel the defendant to resort to a direct suit
+for damages against the plaintiff. Where the plaintiff gives a replevy bond and dismisses his snit or. is cast therein, the defendant is not driven to his action on the bond. The law gives him a speedier remedy. He is entitled to a judgment of restitution and reasonable hire, or. a fieri facias for the proved value of the property. If the plaintiff gives no bond, the same principle applies and gives the defendant a summary remedy, without compelling him to an action on the bond, or a judgment in the trover proceeding, either of restitution and hire, or for the value of the property. Having both parties before it, the law undertakes in that proceeding to do equal justice between them and make an end of the litigation. Judgment affirmed.
+
+## Dissent (Pottle, J.)
+
+Pottle, J.
+I dissent, because I think the plaintiff can not be made to pay hire when the property is'left in custodia legis. In my opinion the law does not thus penalize a plaintiff in a trover action, unless he gives bond and uses the property pending the litigation. If neither party gives bond and takes the property, neither can be made to pay hire while the property is in the sheriffs possession.
