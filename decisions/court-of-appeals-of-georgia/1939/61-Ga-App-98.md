@@ -1,0 +1,27 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "27679; 27680"
+decided: "1939-11-18"
+citations: ["61 Ga. App. 98"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sutton, J., concurs. Felton, J., dissents."]
+parties: ["S. H. KRESS & COMPANY v. CROUCH et al. LIBERTY MUTUAL INSURANCE CO. v. CROUCH et al."]
+source_url: "https://static.case.law/ga-app/61/cases/0098-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1500177
+cites_cases: ["138 S. E. 267", "144 S. E. 680", "193 S. E. 458", "36 Ga. App. 817", "38 Ga. App. 581", "56 Ga. App. 599"]
+---
+
+# S. H. Kress & Co. v. Crouch
+
+## Majority (Stephens, P. J.)
+
+Stephens, P. J.
+Mrs. J. W. Crouch sued S. H. Kress & Company and Liberty Mutual Insurance Company, the liability insurance carrier of the Kress company, and alleged that on December 1, 1938, she received certain personal injuries in the store of Kress on account of its negligence; that the defendants, acting jointly in an unlawful effort to attempt to avoid liability to her for such injuries, and to procure evidence with which to try and defeat the payment of damages therefor, did commit an unlawful and unauthorized trespass on the person of the plaintiff, her home, and the peace and quiet and sanctity thereof; that on December 15, 1938, the defendants for the purposes aforesaid “and without any lawful right or authority so to do,” sent their physician to the plaintiff’s home, and, pursuant to instructions from these defendants, such physician came into the plaintiff’s home and into the room where she was confined from said injuries and “made a physical examination of plaintiff,” and made inquiries of her as to the manner in which she received her injuries and the nature and extent thereof; that on two subsequent occasions the defendants caused said physician to make similar calls in the home of the plaintiff; that on December 23, 1938, the defendant insurance company, for the purposes aforesaid and in order to procure information in its effort to avoid payment of damages, caused its agent to come into the plaintiff’s home, and, without her knowledge or consent, and while she was ill and feeble from the effects of said in-, juries, this agent did question the plaintiff at length as to the manner in which she was' injured and the nature and extent thereof; that this agent procured plaintiff and her daughter to sign a document Avhich he had prepared, by the false and fraudulent statements that plaintiff would never receive anything for her injuries unless she signed said statement prepared by him; that the plaintiff was extremely weak, ill, and nervous at the time, and in order to get this stranger out of her home she signed this statement without reading it; that at the time of these unlawful acts and trespasses upon the plaintiff and the peace of her home she was ill, weak, and nervous, and had no one to protect or look after her, her husband being confined at the time in a hospital, and said unlawful and unauthorized acts and trespasses by these strangers caused the plaintiff to suffer great humiliation, extreme mental anguish, pain, and suffering; and that by reason of the foregoing defendants have injured and damaged the plaintiff in the sum of $3000. The defendants demurred separately to the petition on the ground that no cause of action was set up, and specially to the petition as a whole because of a misjoinder of parties defendant and of causes of action. To the judgment overruling their demurrers each defendant excepted. A petition alleging that a servant or agent of the defendants, who was a physician, without any authority or lawful right, was sent by the defendants to the plaintiff’s home, and pursuant to instructions from them did go into the plaintiff’s home and into the room wherein she was confined because of certain injuries, and “made a physical examination of plaintiff,” means that the physician entered the home of the plaintiff and made the physical examination of her without any lawful right or authority, and sets up a joint and several cause of action in trespass good against a general demurrer. A defendant in a personal injury claim has no absolute right to have a physical examination made of the claimant. See 3 Bouvier’s Law Diet. (3 ed.) 2585, and cit.
+There is no merit in the contention that the plaintiff seeks to recover only for mental suffering, anguish, and humiliation. The case falls within the rule of Copeland v. Dunehoo, 36 Ga. App. 817, 821 (138 S. E. 267); Christy Brothers Circus v. Turnage, 38 Ga. App. 581 (2) (144 S. E. 680); Interstate Life & Accident Co. v. Brewer, 56 Ga. App. 599 (193 S. E. 458). Although no actual physical damage may have resulted to the plaintiff, she suffered an injury to her person which is trespass.
+The act of the agent of the defendant insurance company in calling upon the plaintiff and causing her by false and fraudulent means to. sign a paper without reading the same gives no rise to liability on the part of the defendants or either of them for damages because of mental pain and anguish. However, the petition as a whole was not subject to demurrer on this account There was no special demurrer to strike the allegations as to this matter.
+The petition set out a joint and several cause of action, good against general demurrer. The judge did not err in overruling the demurrers.
+Judgments affirmed.
+Sutton, J., concurs. Felton, J., dissents.
