@@ -1,0 +1,29 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "37519, 37520"
+decided: "1959-02-12"
+citations: ["99 Ga. App. 89"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gardner, P. J., and Townsend, J., concur."]
+parties: ["UNDERWRITERS at LLOYD’S, LONDON, v. STRICKLAND; and vice versa."]
+source_url: "https://static.case.law/ga-app/99/cases/0089-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1585700
+cites_cases: ["105 S. E. 2d 585", "198 Ga. 322", "3 S. E. 305", "31 S. E. 2d 648", "73 Ga. 474", "77 Ga. 740", "78 Ga. 39", "98 Ga. App. 289"]
+---
+
+# Underwriters at Lloyd's, London v. Strickland
+
+## Majority (Carlisle, Judge.)
+
+Carlisle, Judge.
+Every suit must be prosecuted in the name of some person, either natural or artificial, and must be prosecuted against some person, either natural or artificial. Barbour v. Albany Lodge No. 24 F. & A. M., 73 Ga. 474. Where the suit is not prosecuted in the name of or against a natural person but in the name of or against a legal entity which either imports a corporation or a partnership, the failure to allege that the party in question is either a corporation or a partnership is an amendable defect. DeLeon v. Heller, Hirsch & Co., 77 Ga. 740; Saint Cecilia’s Academy v. Hardin, 78 Ga. 39 (3 S. E. 305). However, where the suit is brought in the name of or against a party which is neither a natural or artificial person or a quasi artificial person, such as a partnership, it is a nullity. Smith v. Commissioners of Roads & Revenue of Glynn County, 198 Ga. 322 (1) (31 S. E. 2d 648).
+In the instant case, no question arises as to what the named defendant imports because the plaintiff by amendment has expressly set forth that it is neither a corporation or partnership or a natural person, and alleges that it is not a legal entity capable of suing or being sued. Under these facts, the ease comes directly within the ruling of the Barbour case, supra, and subjects the petition to' dismissal on general demurrer.
+The petition is not, as contended by the defendant in error, within the provisions of Coda § 37-1002, relating to class actions, for there is no attempt to name as defendant any particular member of a more numerous class or to sue particular members as representatives of the class. A mere casual examination of the cases wherein actions of such nature have been upheld in Georgia reveals that they have all been cases wherein one or more of the individual members of the class have been served and have appeared. No one of the Underwriters at Lloyd’s is named. The certificate of insurance sued on recites: “In accordance with the authorization granted to L. E. Harris Agency by certain Underwriters at Lloyd’s, London, whose, names and the proportions underwritten by them are or will be on file in the office of said L. E. Harris Agency, and, also on file in the office of Price Forbes & Co., Ltd., of London, England (such underwriters being hereinafter called the underwriters), this certificate is issued. Pursuant to such authorization, the underwriters do hereby bind themselves, each for his own part and not for one another to insure the risks stated in the declarations (part 2), which are hereby made a part hereof.” [Italics ours.] Plaintiff does not allege that he has made any effort to ascertain the names of the individual underwriters underwriting his particular policy, or that such information has been denied him, and there is oo plea or prayer for discovery. Instead, he seeks to sue the underwriters as a group, which is a non-existent entity, and he contends that the suit is valid because he has obtained service on an agent of the underwriters, Thomas M. Tillman Co., in Athens, Georgia. But, a non-existent entity cannot have an agent. If Tillman Company is an agent of anyone, it is an agent of the individual underwriters who are unnamed in the certificate of insurance, whose names presumably could have been ascertained upon inquiry by the plaintiff, and some, or all, named as defendants in the action.
+There is nothing in Lumbermen’s Underwriting Alliance v. First National Bank &c. Co., 98 Ga. App. 289, 303 (105 S. E. 2d 585) that requires a contrary or different ruling from that here made. That case was brought under the provisions of the Act approved March 25, 1958 (Ga. L. 1958, p. 623), the Reciprocal Insurers Act, and any language therein which may be construed as holding that the defendant there was not a legal entity and was suable as such was merely obiter dictum, and does not require a different conclusion in this case.
+It follows that tire trial court erred in' overruling the general demurrer to the petition as to the purported defendant, “Underwriters at Lloyd’s, London.”
+In the cross-bill of exceptions, the plaintiff assigns error on the judgment of the trial court in overruling his motion to-strike all of the pleadings of the defendant for failure to comply with the provisions of Section 7 of the Act approved February 17, 1950 (Ga. L. 1950, p. 347; Code, Am., § 56-608a). It is sufficient to say as to this contention that the conditions precedent to filing defenses set forth by this statute apply to unauthorized foreign or alien insurers when they have been sued, but in this case there is no insurance company, either authorized or unauthorized, domestic or foreign, named in the petition as a party defendant. Insofar as the petition purports to' name a defendant, it is a mere nullity. This fact can and ought to be so- declared by the court at any time it becomes material so to do; either with or without pleadings involving such a declaration. For this reason, the trial judge did not err in overruling the motion to strike the pleadings of the purported defendants.
+Judgment reversed on main bill. Affirmed on cross-bill.
+Gardner, P. J., and Townsend, J., concur.
