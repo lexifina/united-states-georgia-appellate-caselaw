@@ -1,0 +1,28 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "36779, 36789"
+decided: "1958-01-31"
+citations: ["97 Ga. App. 76"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gardner, P. J., and Carlisle, J., concur."]
+parties: ["COLUMBIA LOAN COMPANY, INC. v. PARKS; and vice versa."]
+source_url: "https://static.case.law/ga-app/97/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1581577
+cites_cases: ["113 S. E. 204", "122 S. E. 896", "134 S. E. 843", "142 Ga. 734", "163 Ga. 827", "213 Ga. 723", "32 Ga. App. 229", "35 Ga. App. 727", "75 S. E. 2d 842", "83 S. E. 667", "88 Ga. App. 18"]
+---
+
+# Columbia Loan Co. v. Parks
+
+## Majority (Townsend, Judge.)
+
+Townsend, Judge.
+The motions to disallow and dismiss the amendments which alleged a setoff because of a failure of consideration were properly denied. Under the provisions of Code § 107-102, where the assignee of a purchase-money retention-title contract and notes elects to rescind the contract and bring trover against the vendee upon the latter’s failure to make the instalment payments, the defendant may plead and prove a failure of consideration as to the property purchased, and a partial failure of consideration will constitute a defense pro tanto to the action. If the first amendment was subject to be stricken because the defendant did not allow for hire and depreciation of the Cadillac automobile while in his possession, this defect was cured by the second amendment which stated in effect that the plaintiff would be entitled to credit for $50 as reasonable hire and depreciation. See Standard Motors Finance Co. v. O’Neal, 35 Ga. App. 727 (3) (134 S. E. 843).
+Where parties enter into a contract of conditional sale of personalty which contains the stipulation as follows: “The vendor does not warrant said property and makes no representations concerning the same except that title to the same is in vendor and free from all encumbrances,” “such stipulation amounts to an express refusal by the vendor to warrant the property except as to title, and the vendee cannot contradict the terms thereof by pleading a breach of the other ordinary implied warranties of the law or of express warranties and representations made by the vendor prior to or at the time of the sale as to the condition of the property sold.” Skellie v. Gulf Finance Co., 88 Ga. App. 18 (2) (75 S. E. 2d 842); Hoffman v. Franklin Motor Car Co., 32 Ga. App. 229 (3) (122 S. E. 896). This court certified to the Supreme Court (Columbia Loan Co., Inc. v. Parks, 213 Ga. 723, supra) the question of whether, where the plaintiff by bringing its trover action elects to rescind the contract, and the defendant under Code § 107-102 elects to plead a failure of consideration, the plaintiff may rely upon the express refusal of the vendor contained in the contract sale to warrant the soundness of the chattel. The Supreme Court replied in the affirmative, and added: (headnote 2) “The confusion in the cited authorities on these questions seems to arise from a failure in some instances to recognize that when a trover suit is brought based upon a retention-of-title contract of sale, this amounts to a rescission of the contract in so far as the plaintiff is concerned, that the defendant or purchaser may elect to treat the proceeding as a rescission and recover what he has paid on the purchase price less hire or he may elect to stand on the contract, in which event the above quoted Code section [§ 107-102] is applicable.” That the defendant here elected to stand on the contract, and neither accepted the rescission elected by the plaintiff nor himself sought a rescission based on fraudulent misrepresentation, is demonstrated by the amendment to the answer and the prayers that “defendant be awarded the sum of $700 as damages for breach of contract by the assignor of the plaintiff [and] a sum sufficient to compensate for the defects of the said warranted automobile,” and by the fact that there was no disclaimer. The trial court so construed the answer and found for the defendant the sum of $320 for “partial failure of consideration in the original contract.” In view of the fact that the defendant failed to prove his allegation that the vendor had warranted the soundness of the property, a judgment in his favor based on failure of consideration was not supported by the evidence.
+The cross-bill of exceptions assigns error on a part of the judgment in the language of the general grounds of a motion for new trial, and also assigns error on the exclusion of evidence. It also recites, however, that the defendant filed a motion for new trial on the general grounds only. The disposition of this motion is not shown. Either it is still pending, or, if denied, no exceptions were taken by the defendant to that judgment. Accordingly, no question for decision is presented on the general grounds. As to the exclusion of evidence, it is stated in Crawford v. Wilson, 142 Ga. 734, 739 (83 S. E. 667): "There are . . . rulings made pending the trial which enter into and may affect the verdict, such as rulings on the admission or rejection of evidence . . . If a motion for a new trial is made, such rulings would furnish, if erroneous, additional reasons for granting a new trial, and they should be included in the motion if relied on.”
+There is accordingly no sufficient assignment of error in the cross-bill of exceptions, for which reason it is dismissed. Young v. Freeman, 163 Ga. 827 (8) (113 S. E. 204).
+The trial court erred in denying the motion for new trial.
+Judgment reversed.
+Gardner, P. J., and Carlisle, J., concur.
