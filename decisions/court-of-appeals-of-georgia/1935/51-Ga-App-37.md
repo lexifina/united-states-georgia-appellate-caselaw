@@ -1,0 +1,27 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "24480"
+decided: "1935-04-03"
+citations: ["51 Ga. App. 37"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Broyles, C. J., and MacIntyre, J., concur."]
+parties: ["CLEVELAND v. WATSON."]
+source_url: "https://static.case.law/ga-app/51/cases/0037-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1470941
+cites_cases: ["110 Ga. 543", "123 Ga. 97", "137 S. E. 574", "19 Ga. 313", "30 Ga. 143", "31 Ga. 583", "35 S. E. 634", "36 Ga. App. 591", "44 Ga. 243", "50 S. E. 961", "54 Ga. 296", "6 Ga. App. 56", "64 S. E. 298", "83 Ga. 307", "9 S. E. 1041"]
+---
+
+# Cleveland v. Watson
+
+## Majority (Guerry, J.)
+
+Guerry, J.
+The action in the case at bar was a distress warrant. The essential basis upon which the right to a distress warrant arises is the existence of the contractual relation of landlord and tenant. Rent must be due. This relation must exist either by express or by implied contract. A., K. & N. Ry. Co. v. McHan, 110 Ga. 543 (35 S. E. 634); Hearn v. Huff, 6 Ga. App. 56 (64 S. E. 298); Sims v. Price, 123 Ga. 97 (50 S. E. 961); Cohen v. Broughton, 54 Ga. 296; Lathrop v. Standard Oil Co., 83 Ga. 307 (9 S. E. 1041); Williams v. Hollis, 19 Ga. 313; Jackson v. Mowry, 30 Ga. 143; Littleton v. Wynn, 31 Ga. 583; Finn v. Reese, 36 Ga. App. 591 (137 S. E. 574).
+• The distress warrant in this case was sued out by Mrs. Lula Watson on the 13th day of March, 1933, for the amount of $22.50, alleged to be. due as rent by W. O. Cleveland. The evidence for the plaintiff was materially as follows. Mrs. White testified: “I am a sister of Mrs. Watson, the plaintiff, and she and my mother and I own the building in question, and by agreement among us each one has the right to rent it, and about November I rented the corner building to- Frank Cleveland. . ■ This trade was made by me with Frank Cleveland, who is the son of W. O. Cleveland. After the first trade I made with Frank Cleveland there was no change in the trade.” J. P. Watson testified: “I am the husband of Mrs. Lula Watson, the plaintiff. About the first of last December.I went to the store on Main street, and Prank Cleveland was not there, and I saw W. O. Cleveland, and he told me then that Frank was not there, but that he ought to pay the rent, as he was trying to help him, and that he would try to see to it that- Frank did pay the rent. He further told me that I could tell my wife, Miss Lula, not to worry about the rent, that he would see that it was paid after January 1.” Mrs. Watson, the plaintiff, testified: “Under the agreement with my mother, Mrs. White, who is my sister, and myself, either one of us had the right to rent the building that Mr. Cleveland occupied as a grocery store on Main street, and either one of us could collect the rent. My sister, Mr§. White; made the trade, renting the property to Frank Cleve land. . . Franh Cleveland began getting behind in his rent about April, 1932, and I saw him a good many times about it, and he never did catch it up, and this amount that I sued for was due by Ms own figures. I went to the store a good many times trying to collect the rent, and a lot of the times Frank was not there, and I talked with Mr. W. 0. Cleveland several times, hut I never made any trade with him, as my sister made the rent contract for the building.”
+Certainly this evidence fails utterly to show any express contract between the plaintiff and W. 0. Cleveland creating the relationship of landlord and tenant between them. The plaintiff’s evidence expressly contradicts this by showing that the contract for rent of the building was made with Franh Cleveland and that no agreement had ever been made with W. 0. Cleveland with reference to his renting the property. Then, if this relationship did not arise by implication, that is, by implied contract, the plaintiff could not maintain a distress warrant against this defendant. The Civil Code (1910), § 3692, provides: “When title is shown in the plaintiff and occupation by the defendant, an obligation to pay rent is generally implied.” While title is shown in the plaintiff (the question of whether or not a joint owner of. premises can alone maintain a distress warrant for rent not being raised), the evidence shows no such possession in the defendant of the property for which rent is claimed as would by implication create the relationship of landlord and tenant between him and the plaintiff. There is evidence that he was many times at the store when Frank Cleveland was not there, but it is not shown that he subleased the premises from Frank Cleveland and that the plaintiff accepted him 'as tenant. The testimony of the plaintiff shows that W. 0. Cleveland, the defendant, was never recognized as tenant, but conclusively shows that only Frank Cleveland was recognized as tenant.
+Even could the promises of the defendant to see that the rent was paid be construed as binding upon him, nevertheless they could not be enforced by way of distress warrant; for a binding promise to pay a debt of another, which debt amounts to rent, does not thereby make the promisor a tenant. See, in this connection, Smith v. Turnley, 44 Ga. 243. From what has been said, we think the judge of the superior court erred in overruling the certiorari.
+Judgment reversed.
+Broyles, C. J., and MacIntyre, J., concur.
