@@ -1,0 +1,29 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "17436"
+decided: "1926-10-16"
+citations: ["36 Ga. App. 58"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stephens and Bell, JJ., concur."]
+parties: ["EVANS v. CENTRAL OF GEORGIA RAILWAY COMPANY."]
+source_url: "https://static.case.law/ga-app/36/cases/0058-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1432968
+cites_cases: ["12 Ga. App. 120", "144 Ga. 254", "76 S. E. 997", "87 S. E. 282"]
+---
+
+# Evans v. Central of Georgia Railway Co.
+
+## Majority (Jenkins, P. J.)
+
+Jenkins, P. J.
+The facts in this case, as stated by counsel for the defendant in error, are as follows: Evans sued his employer, Central of Georgia Bailway Company, for damages for personal injuries. The defendant demurred to the plaintiff’s petition. The plaintiff amended. The defendant continued to demur. The court sustained the general demurrer. The plaintiff excepted. The petition showed the following facts: Evans was a watchman in the employ of the railway company. He went to the'ice-box in the round-house shop, took out a large piece of ice, put it on a platform about thirty-six inches from the ground, leaned up against the platform, took an ice-pick, split the block of ice into two pieces, and one piece fell toward him and injured the part of his person which was resting on the platform. The only negligence alleged against his employer was that the employer was negligent in failing to furnish him a safe place in which to work. In his original petition he said that the place was very dark and he could hardly see how to do the parcelling of ice at said location or take the necessary precautions to prevent injuries to himself. His amendment went more into detail as to the lighting, and shows that the light was dim, the only light which he had at the ice-box being that which came from the lights in the round-house through the round-house window, six or eight feet to the right of the ice-box, and a dim reflection from one light some seventy-five yards away. He says that he had complained about the dark and dangerous condition of the premises and the need of lighting, and had been promised by one Middlebrooks, special agent in charge of the watchmen, that a light would be installed. He first objected about a month before his injury, and on three other occasions. he reminded Middlebrooks of the need of the light and his promise to have it installed. Two or three days before he was injured Middle-brooks told him that he had made requisition for the light to the electrical department and that the same would be installed within a few days. He says also that a’ week before his injury he complained to the foreman of the round-house, where the ice-box was located, about the dim and insufficient light around the ice-box, and the foreman promised him that he would see that a light was installed over said ice-box. The plaintiff had done this work for six months without injury to himself, and says that the danger was not so great and not so patent that no person of ordinary prudence would have worked with the instrumentalities and under the circumstances until the danger was removed and the defect remedied.
+1. As has often been held by the appellate courts, it is peculiarly within the province of the jury to determine questions of negligence, including a determination as to what constitutes the proximate cause of an injury.
+2. Where a servant with knowledge of a dangerous situation or instrumentality proceeds with the performance of his duties for a reasonable time, relying upon a promise by the master to rectify such condition, he will not be held to have assumed the risk of injury from such dangerous situation or instrumentality, unless it should appear that the danger was so patent that no person of ordinary prudence would in the meantime carry on the work under the then surrounding conditions and circumstances.
+3. Whether the servant was guilty of contributory negligence in continuing his work for a reasonable time, pending the rectification of such dangerous condition, and while relying upon such promise by the master, is ordinarily a question for the jury, to be determined from the evidence as to the obvious and serious character of the defect. Hadden v. Cherokee Sawmill Co., 12 Ga. App. 120 (76 S. E. 997).
+4. The doctrine often stated by the courts, to the effect that a master can not be held liable for injuries received by the servant when brought about by the shifting character and condition of the risk as transformed by the direct result of the servant’s labor (Cowart v. Southern Marble Co., 144 Ga. 254, 87 S. E. 282), can not properly be said to apply in the instant case, where the negligence complained of was the failure to furnish a light whereby the work of the servant could be more safely performed, and where the work of the servant in the performance of his duties to his master in no wise brought about the dangerous condition complained of, and did not alter or.change the character for safety of the place provided for the performance of such duties.
+5. Under the foregoing rulings the petition set forth a cause of action and should not have been dismissed on demurrer, and the jury should have been allowed to determine whether in fact the act charged as negligence constituted negligence, and if so, whether the plaintiff was authorized to continue his work for the time indicated, in reliance upon the alleged promise of the master to remedy the defect, or whether his thus continuing his duties in the face of what might be found to be a known and obvious risk amounted to such contributory negligence as would bar a recovery.
+Judgment reversed.
+Stephens and Bell, JJ., concur.
