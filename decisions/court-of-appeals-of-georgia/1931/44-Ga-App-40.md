@@ -1,0 +1,36 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "21136"
+decided: "1931-07-17"
+citations: ["44 Ga. App. 40"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stephens and Bell, JJ., concur."]
+parties: ["GENERAL ACCIDENT FIRE AND LIFE ASSURANCE CORPORATION et al. v. McDANIEL."]
+source_url: "https://static.case.law/ga-app/44/cases/0040-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1452791
+cites_cases: ["105 N. E. 463", "106 N. E. 686", "121 S. E. 345", "144 Pac. 244", "218 Mass. 141", "219 Mass. 189", "31 Ga. App. 560", "93 Kan. 370"]
+---
+
+# General Accident Fire & Life Assurance Corp. v. McDaniel
+
+## Majority (Jenkins, P. J.)
+
+Jenkins, P. J.
+1. Under the provisions of sections 30 and 31 of the workmen’s compensation act, if the incapacity for work resulting from a compensable injury received by an employee be not total, he is entitled to compensation equal to one half of the difference between his average weekly wage before the injury and the wage which, despite such injury, he is capable of earning at some other employment suitable to his impaired capacity. If the incapacity be total, he is entitled, by way of compensation, to one half of the average weekly wage prior to the injury. The incapacity is total so long as the injured employee, by reason of and on account of his injury, is unable to do any work of any character, and so long as he remains, for such reason, unable either to resume his former occupation or to procure any other sort of remunerative employment suitable to his impaired physical condition. Austin Bridge Co. v. Whitmire, 31 Ga. App. 560 (2) (121 S. E. 345). In order for disability to be accounted total, the inability of an employee to procure and to perform work at a different occupation suitable io his impaired physical condition must not, however, be due merely to lack of diligent effort on the part of the employee'to obtain such other employment, or to his unwillingness to accept such different employment, or to conditions of general unemployment which are disconnected with his injury, such as might render him unable to find any such different employment. The compensation provided by law is not intended as insurance against unemployment, except such unemployment as is caused by the injury authorizing the compensation. In other words, the lack of employment with respect either to the old occupation or to some different occupation suitable to the employee’s impaired physical condition must in either case be occasioned by the injury on account of which compensation is sought. Thus, under the theory of the Whitmire case, supra, if the employee, although in fact not wholly physically incapacitated, is nevertheless prevented, by reason of his injury, from actually obtaining employment at a new and different oecupation, lie may still be deemed totally incapacitated. On the other hand, if the employee, while physically able to perform remunerative labor at an occupation different from that in which he was injured, fails to accept employment suitable to such impaired condition when it is offered him, or does not obtain such employment by reason of his unwillingness so to do, or by reason of economic or other conditions in no way chargeable to or occasioned by his injury, he is not to be considered as totally disabled, and the amount of compensation payable to him, as provided by section 31 of the act, is limited to one half of the difference between his average weekly wages before the injury and the average weekly wages which he is capacitated to earn thereafter. See, in this connection, L. R. A. 1916A, 255; Sullivan’s case, 218 Mass. 141 (105 N. E. 463, L. R. A. 1916A, 378); Gorrell v. Battelle, 93 Kan. 370 (144 Pac. 244); Duprey’s case, 219 Mass. 189 (106 N. E. 686).
+Decided July 17, 1931.
+Rehearing denied September 18, 1931.
+2. In the instant case, where the claimant applied for an increase in compensation on account of an alleged change in conditions, and where it appeared, without dispute, that the claimant had been engaged in remunerative labor up to a few days before the application, and had lost his position on account of the closing down of the plant in which he was employed, and not by reason of his previous injury, the finding of the industrial commission that the claimant was “partially disabled, if not totally disabled, from engaging in competitive labor,” and that since his discharge from the position held after his injury he had been “unable to find work suitable to his impaired physical condition,” did not authorize an award of compensation as for total disability, there being no finding of fact by the commission that the claimant was unable to do any work, or that he was unable, by reason of his injury, to resume his former occupation, or that he was unable, by reason of his injury, to procure remunerative employment at a different occupation suitable to his impaired physical condition.
+Judgment reversed.
+Stephens and Bell, JJ., concur.
+B. B. Lovell, Gonnerat & Hunter, for plaintiffs in error.
+Don H. Clark, James G. Davis, contra.
+
+## Rehearing (Jenkins, P. J.)
+
+ON MOTION ROB REHEARING.
+Jenkins, P. J.
+Since this case was originally decided, two months ago, it has been thoroughly reconsidered on the claimants motion for a rehearing, and the language of the original syllabus has been slightly altered in the effort to make clearer what the court intended to hold. This addition to the syllabus is intended merely to elaborate what had been originally held.
+The fact that an employee may be partially disabled, and thereafter is able to find and does find remunerative employment suitable to his impaired physical condition, in which he continues to work until the work itself is shut down for reasons in no wise connected with his previous injury, and on account of economic or other conditions he is unable to find other work suitable to his impaired physical condition, does not authorize a finding that the original injury rendered him totally incapacitated to perform physical labor. Cases might be conceived of where a man was not totally physically disabled, but from the nature, character, and gravity of his injuries he might not thereafter he enabled to find other and different employment suitable to his remaining physical capacity. In other words, his injuries might -not occasion actual total physical incapacity, but might still be oJ: such grave and peculiar nature and character as would render it impossible for him to find employment suitable ■ to his. impaired physical capacity. No such condition appears or is suggested 'in the instant case, and the industrial commission did not so find. Their finding, as we understand it, goes merely to show that the injured employee, after successfully working at other and different employment suitable to his impaired physical condition, became idle on account of economic or other causes entirely disconnected with his injuries, and we therefore think that the only compensation he is entitled to under the findings of fact as made by the commission is the compensation originally allowed as compensation for his partial impairment. . Rehearing denied.
