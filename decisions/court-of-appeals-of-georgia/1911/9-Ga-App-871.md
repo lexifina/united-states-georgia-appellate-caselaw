@@ -1,0 +1,26 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "3638"
+decided: "1911-10-23"
+citations: ["9 Ga. App. 871"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RAGAN v. THE STATE."]
+source_url: "https://static.case.law/ga-app/9/cases/0871-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1143837
+cites_cases: ["66 S. E. 279", "67 S. E. 677", "7 Ga. App. 611", "7 Ga. App. 77"]
+---
+
+# Ragan v. State
+
+## Majority (Hill, C. J.)
+
+Hill, C. J.
+Eagan was convicted of a violation of the' prohibition law, and his motion for a new trial was overruled. The indictment against him (omitting the mere formal parts) charged that the defendant did “unlawfully, . . between the Moye Building and De Witt’s stables, in the town of Sale City, in said county and State, barter and sell, for valuable consideration, to one C. J. Merritt, alcoholic, spirituous, malt, and intoxicating liquors,” etc. In support of this allegation the State proved by C. J. Merritt that he went to the accused and asked him for whisky, and in reply the accused stated, that he did.not have any, but he thought he knew where lie could get him some. “I went on, and. directty he came to me and told me I might find it on the stair steps going up in Dr. Branch’s office. That was not the only transaction I had with him. That same evening I went to him again, and he told me the same thing. . . And after a while he came to me and told me to go look in a buggy and I would find it. The buggy was out at De Witt’s stables, between the Moye Building and De Witt’s stables. lie did not tell me where he was going to get it. I told him I wanted a half pint. I did not give him the money then. He told me to go and look in the buggy and I might find it; and I went and looked in the buggy and found it, and left the money there. I found a half pint of Cotton Blossom whisky in the buggy. It was rye whisky. I left a dollar in lawful silver money in the buggy.”
+This was, in substance, the only evidence, and it is insisted that it is insufficient to show guilt. A motion was made to exclude that part of the testimony which referred to the first transaction between the witness and the accused, on the ground that the evidence did not show that this transaction took place between the Moye Building and De Witt’s stables, as alleged in the indictment, and that the State’s evidence must be confined to U sale, or sales, in the county and in the town of Sale City between the Moye Building and De Witt’s stables. The trial judge refused to exclude this evidence, and error is assigned on this ruling.
+The evidence was sufficient to support the verdict. It comes squarely up to the repeated rulings of the Supreme Court and of this court as to what would make out a prima facie case against the accused, either as the seller or as being interested in the sale, in the absence of any proof that he had no interest in the sale, but was acting exclusive^ as agent for the purchaser. Holt v. State, 7 Ga. App. 77 (66 S. E. 279); Highsmith v. Waycross, 7 Ga. App. 611 (67 S. E. 677), and eases there cited.
+The allegation in the indictment that the sale took place between the. Moye Building and De Witt’s stables in the town of Sale City was needlessly specific, unless the purpose of the pleader was to limit the locus of the offense in such manner as to prevent a plea of former jeopardy for another offense of a similar character committed by the accused in the same county. Having made the unnecessary allegation, howeyer, it would seem that the evidence of the commission of the offense should be confined between the limits of the two places alleged in the indictment, in order that the accused might not be taken unawares and be unprepared to make his defense; for the general principle of law is that all circumstances of person, place, or thing which are described in the indictment with extreme or unnecessary particularity must be proved strictly. And the evidence in behalf of the prosecution, in so far as the consummated act' of sale is concerned, does prove strictly the specific allegation in the indictment that the sale was between the Moye Building and De Witt’s stables. There was no other sale shown. The other transaction did not show a completed sale. It simply goes to the extent of showing that the accused.told the State’s witness that he might find some whisky on the stair steps going up into Dr. Branch’s office, and it failed to show that the witness ever went to get the whisky on the stair steps, or that he left any money there in payment for the whisky'. The only place where lie got the whisky, and where he left the money in payment for the whislvy, was in the buggy between the Moye Building and De Witt’s stables.
+The court properly allowed the testimony, however, of the first conversation between the accused and the witness to- remain in evidence, for the reason that it tended to show that the accused was dealing in whisky. It was not evidence of another transaction, but, in so. far as it had any probative value at all, it tended to prove the subsequent consummated sale by the accused to the witness.
+Judgment affirmed.
