@@ -1,0 +1,27 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "12608"
+decided: "1922-01-18"
+citations: ["28 Ga. App. 95"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Broyles, C. J., and Luke, J., concur."]
+parties: ["CENTRAL OF GEORGIA RAILWAY COMPANY v. AMERICAN COAL COMPANY."]
+source_url: "https://static.case.law/ga-app/28/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1410315
+cites_cases: ["137 Ga. 391", "73 S. E. 637"]
+---
+
+# Central of Georgia Railway Co. v. American Coal Co.
+
+## Majority (Bloodworth, J.)
+
+Bloodworth, J.
+The American Coal Company, a partnership, sued the Central of Georgia Railway Company, alleging in part, that on or about October 20, 1920, the defendant, as a carrier, was in possession of two cars of coal consigned to petitioners, upon which said cars of coal petitioners paid freight charges amounting to $285.76; that said defendant has failed and refused, and still refuses, to deliver said coal to petitioners; that the said coal was worth, at the time of defendant’s failure and refusal to deliver the same to it, $13.50 per ton at Savannah, Georgia, the place of destination, making a total of $1092.82; that the defendant has paid petitioners the sum of $973.84, which amount is the invoice price of said coal at the point of origin, plus freight charges, defendant claiming that the market value at Savannah is to be determined by cost at the point of origin plus freight to Savannah, while petitioner claims that the market value at Savannah is what the said coal would bring at Savannah, including petitioner’s profit; that the said payment of $973.84 was with the expressed understanding and agreement that it was accepted by petitioners without prejudice to petitioners’ right to recover any amount in excess of $973.84 that they may be lawfully entitled to recover, said acceptance of said payment not to be in any way in accord and satisfaction of said claim; and that’ petitioners are entitled to recover from defendant the difference between said sum of $1092.83, the market price at Savannah, less $973.84 paid by defendant, leaving a balance due petitioners of $118.99. The case was submitted to the judge of the city court of Savannah, who passed upon the issues without the intervention of a jury and rendered judgment against the defendant for the full amount sued for. The railroad company excepted.
+The court is alleged to have erred because: (1) The plaintiffs were not entitled to recover of defendant on the basis of $13.50 per ton, because that figure includes the plaintiffs’ profit on a resale of the coal. (2) The plaintiffs are coal dealers at Savannah, and buy coal at the mines, and the market value to them of coal at Savannah is the market value paid at the mines plus the freight to Savannah, and, this amount having been refunded to them, they are not entitled to recover anything. (3) The plaintiffs, being dealers in coal, have been reimbursed for their loss by having been refunded the market value of the coal at the mines, plus the freight to Savannah. The market value of coal at Savannah, considered from the standpoint of the dealer in coal at Savannah, is the market value at which it can be obtained at the mines plus the freight to Savannah, and when a coal dealer at Savannah seeks to recover the price at which he sold to consumers at Savannah, he in effect is seeking to recover not only the market value of the coal to him at Savannah, but his profits also.
+The record shows that the only witness who testified in this case was Charles M. Courtenay, who swore in part as follows: “ I am a member of the firm of American Coal Company, plaintiff in this case. American Coal Company had sold the two cars of coal involved in this case to the dredge ‘ Cumberland’ for $..14.25 per ton, delivered. Plaintiff is claiming $13.50 per ton because it would have cost 75 cents per ton to transfer the coal from the cars at the wharf of American Coal Company to the dredge ‘ Cumberland.’ American Coal Company sold a number of other shipments of coal at about this time to other parties for $14.25 per ton delivered. This was the market value of the coal at Savannah at the time these two cars of coal involved in this case should have been delivered at Savannah. American Coal Company is a dealer in coal at Savannah. It buys its coal at the mines and ships the same -into Savannah, and sells it at wholesale in Savannah. It sells coal to ships for bunkers, and to factories. It does not sell in small quantities to small consumers such as householders. The price of $14.25 is the price at which plaintiff was selling coal at the time; it is not the price at which plaintiff was buying coal at the time. The $13.50 which plaintiff is charging in this case included the profit 'it would have made on these two cars to the dredge ‘ Cumberland.’ ”
+Under the pleadings and tbe facts of this'case the judge properly rendered judgment for the full amount sued for, as there is nothing in the record to take this case out of the general rule that “when a common carrier fails to deliver goods according to the terms of the contract, the measure of damages is the value of the goods at the time and place at which it is agreed to deliver them, less the transportation charges.” Albany & Northern Ry. Co. v. Merchants & Farmers Bank, 137 Ga. 391 (5), and cases cited on page 397 (73 S. E. 637).
+Judgment affirmed.
+Broyles, C. J., and Luke, J., concur.
