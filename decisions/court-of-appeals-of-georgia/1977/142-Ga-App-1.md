@@ -1,0 +1,40 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "53562"
+decided: "1977-04-13"
+citations: ["142 Ga. App. 1"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Quillian, P. J., and Shulman, J., concur."]
+parties: ["SMITH v. THE STATE."]
+source_url: "https://static.case.law/ga-app/142/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 779437
+cites_cases: ["10 SE 200", "120 Ga. App. 46", "128 Ga. App. 885", "132 Ga. App. 645", "133 Ga. App. 466", "137 Ga. App. 653", "138 Ga. App. 223", "141 Ga. 773", "141 Ga. App. 460", "169 SE2d 615", "169 SE2d 801", "187 SE2d 271", "198 SE2d 336", "20 Ga. App. 162", "208 SE2d 591", "211 SE2d 415", "214 SE2d 656", "221 SE2d 576", "224 SE2d 772", "225 Ga. 465", "225 SE2d 749", "228 Ga. 633", "234 Ga. 130", "235 Ga. 800", "295 U. S. 78", "55 SC 629", "82 Ga. 257", "82 SE 134", "92 SE 957"]
+---
+
+# Smith v. State
+
+## Majority (Banke, Judge.)
+
+Banke, Judge.
+The defendant appeals from his conviction of first degree forgery.
+The defendant forged documents to resemble payroll checks. He then provided two teenaged boys with the forged checks and faked identification in order that they might cash the checks in Waycross. Under the defendant’s direction, they did so. The defendant was convicted on nine counts of first degree forgery and sentenced to two years on each count to be served consecutively.
+1. The defendant contends that in several of the counts upon which he was convicted there were fatal variances between the allegata and the probata. All of the alleged fatal variances are of the same type and can be illustrated by the variance in Count 9. In that count, it was alleged that the defendant forged a check, of which a long and detailed description was given, and that he "did utter and deliver said writing to B. C. Jacobson, Jacobson’s Inc., Waycross, Georgia . . .” In fact, the forged check was only endorsed by B. C. Jacobson, as owner of Jacobson’s, Inc. The document was actually uttered and delivered to Ronnie Jacobson, a salesman in the family business.
+In 1969, the Georgia Supreme Court established a general rule for determining whether or not a variance between the allegata and probata is so material that it is fatal. The court held: " 'The general rule that allegations and proof must correspond is based upon the obvious requirements (1) that the accused shall be definitely informed as to the charges against him, so that he may be enabled to present his defense and not be taken by surprise by the evidence offered at the trial; and (2) that he may be protected against another prosecution for the same offense.’ (Citations omitted). Berger v. United States, 295 U. S. 78, 82 (55 SC 629, 79 LE 1314).” De Palma v. State, 225 Ga. 465, 469 (3) (169 SE2d 801) (1969).
+Until recently, this court had applied a much stricter rule, whereby any variance in the allegata and probata was fatal. For example, in Marsh v. State, 120 Ga. App. 46 (169 SE2d 615) (1969), the indictment charged the defendant with the larceny of a certain described automobile bearing "1964 Georgia tag number 6-J-13902 . . .” In fact, the number in the indictment was the 1965 tag number. The judgment was reversed on that variance. The defendant claims the support of the line of cases exemplified by Marsh. However, based on the precedent of De Palma, supra, the Supreme Court has ruled that the Marsh line of cases will not be followed. Dobbs v. State, 235 Ga. 800 (221 SE2d 576) (1976).
+We find that the variance present in the case sub judice is not fatal under the De Palma test. Therefore, the trial judge did not err in overruling the defendant’s motions for directed verdict based on variances in the allegata and probata.
+2. Several enumerations of error dealt with the court’s admission for impeachment purposes of testimony concerning loose talk by the defendant, while in jail, of setting up a forgery racket when released from custody. The details of the proposed forgery racket to be established upon release from jail were remarkably similar to the crime for which the defendant was on trial. In both situations the defendant, operating from a hotel room, would send young people to cash forged checks.
+Not only would evidence of the proposed similar illegal scheme be admissible for impeachment, but it could be considered to show common scheme and bent of mind. Campbell v. State, 234 Ga. 130 (214 SE2d 656) (1975); McNeal v. State, 228 Ga. 633 (5) (187 SE2d 271) (1972); Hayes v. State, 138 Ga. App. 223 (7) (225 SE2d 749) (1976); Goldberg v. State, 20 Ga. App. 162 (2) (92 SE 957) (1917). Evidence may be admitted "[t]o prove other like crimes by the accused so nearly identical in method as to earmark them as the handiwork of the accused.” McCormick on Evidence 449, § 190 (2d Ed. 1972). Of course, the relevancy of the other offense to the issues on trial must outweigh its prejudice. E.g., Campbell v. State, supra.
+This theory of admissibility of similar crimes would apply to situations, such as that sub judice, where the similar crime is still in the planning stage and has not been committed. Therefore, the trial judge did not err in admitting the evidence or denying the defendant’s motions for mistrial due to its admission and use in the state’s argument.
+3. At another point in the trial, counsel for the state sought to elicit testimony as to former criminal acts of the defendant, which testimony was not admissible. The defendant moved for a mistrial based on the state’s actions, and enumerates as error the court’s denial of his motion. The trial judge properly exercised his discretion in denying the motion for mistrial. "The trial court has a broad discretion in passing on motions for mistrial, and its ruling will not be disturbed by the appellate court unless it appears that there has been a manifest abuse of discretion and that a mistrial is essential to the preservation of the right of a fair trial.” Jones v. State, 128 Ga. App. 885 (1) (198 SE2d 336) (1973); see Gasaway v. State, 137 Ga. App. 653 (3) (224 SE2d 772) (1976); Scott v. State, 133 Ga. App. 466 (2) (211 SE2d 415) (1974).
+4. The defendant contends that the trial court erred in overruling objections and motions for mistrial as to testimony concerning the defendant’s threats which were made in an attempt to prevent certain witnesses from testifying. There was no error in the judge’s rulings, however. Evidence of an act by an accused, intended to obstruct justice or avoid punishment for the crime for which he or she is on trial, is admissible if the act constitutes an admission by conduct. Torbert v. Cherokee Ins. Co., 141 Ga. 773 (3) (82 SE 134) (1914); Savannah F. & W. R. Co. v. Holland, 82 Ga. 257 (3) (10 SE 200, 14 ASR 158) (1888); McCormick on Evidence 451, § 190.
+Argued March 7, 1977
+Decided April 13, 1977.
+H. G. Bozeman, Larsen & Lewis, W. W. Larsen, Jr., for appellant.
+Dewey Hayes, District Attorney, M. C. Pritchard, Assistant District Attorney, for appellee.
+5. The defendant claims that the trial court erred in allowing two witnesses to testify concerning the threats of the defendant discussed in Division 4, above, because their names had not been served on the defendant prior to trial. However, the district attorney stated in his place that the evidence sought to be presented was newly discovered and that the state did not learn either of the witnesses or their testimony until that day. The defendant did not challenge the district attorney’s claim that the witnesses were newly discovered. Thus, the requirements of Code Ann. § 27-1403 (Ga. L. 1966, pp. 430, 431) were met, and the judge did not err in allowing them to testify.
+6. The defendant’s enumeration of error dealing with consecutive sentences for a continuing act of conspiracy was argued neither in his brief nor oral argument. Thus, it is considered to have been waived. Johnson v. Heifler, 141 Ga. App. 460 (6) (1977); Trask v. State, 132 Ga. App. 645 (11) (208 SE2d 591) (1974).
+Judgment affirmed.
+Quillian, P. J., and Shulman, J., concur.
