@@ -1,0 +1,21 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "847"
+decided: "1907-12-20"
+citations: ["3 Ga. App. 342"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRANKLIN v. THE STATE."]
+source_url: "https://static.case.law/ga-app/3/cases/0342-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1258775
+cites_cases: ["55 Ga. 385", "55 Ga. 395"]
+---
+
+# Franklin v. State
+
+## Majority (Russell, J.)
+
+Russell, J.
+The defendant was accused presumably with.the offense of larceny, though the accusation alleged that his intent in taking a certain hammer was to “shaso” the same. In the brief, some point is made on the use of the term “shaso.” The use of this word in place of the word “steal,” in the original accusation, would have presented good ground for demurrer, but it is too late to raise the objection now. We think, however, that the court-erred in overruling the motion for new trial. The evidence does-not show the guilt of the defendant, because the taking is not shown, and the defendant’s possession of the hammer is shown, by the uncontradicted testimony of the owner of the.hammer, to have been acquired by his authority. Where recent possession of goods stolen or feloniously taken is shown, a presumption arises that the-possessor is the thief, and the burden is upon him to show, not. that his possession is honest, but that it was acquired otherwise-than by theft. No theft was shown in this case, because no one-saw the defendant get the hammer alleged to have been stolen. (neither of the hammers thrown to him from the chimney top being identified as Mr. Wilkes’ hammer), and the only circumstance tending to show that he had gotten the hammer was his possession of it. This possession was subsequent to express authority and request of the owner of the hammer to the defendant to get his hammer for him. There was no flight, no concealment of the hammer, and as the defendant, so far as the evidence shows, was arrested at the instance of one Brown, after Mr. Wilkes, the owner of the hammer, had the second time requested the defendant to find this hammer for him, and as there was no denial of the defendant’s statement that the hammer was sticking up on top of some columns on a porch, where he got it not more than five minutes before he was arrested (in compliance with the request, which the owner of the hammer admitted), the possession of the defendant was fully- explained. The defendant’s taking was the taking of the owner himself; so that the corpus delicti was not made out. The owner in this case is not subject to the criticism, uttered by Judge Bleckley as to the prosecutor in the ease of Williams v. State, 55 Ga. 395; for he did not prosecute the case, nor pretend to know anything material about it except the loss of his hammer and the' identity of the hammer found 'in the possession of the defendant. The case was prosecuted by another, who may perhaps have been in ignorance of the owner’s second request of the defendant to find his hammer for him, and who, knowing of the first request, may have thought that the defendant was dilatory in not0 finding the-hammer, and suspected, for that reason, after having himself looked for it and failed to find it, that the defendant had stolen it. Perhaps, having heard the defendant tell Mr. Wilkes that he had not found the hammer but would get it, and going shortly afterwards to the sack in which the defendant kept his tools and there finding the hammer, he jumped'to the conclusion that the defendant had made a false statement to Wilkes and had stolen the hammer. This may be the truth of the case, but the evidence falls far short of proving a theft. In taking the hammer, the defendant was only acting under the orders of the owner, no matter when he got it, whether at his first request or at his second. If he was innocent of the intention to steal, there was no duty resting upon him to hunt up Mr. Wilkes’ hammer for him. No matter what his intention, unless more evidence than appears in the present record is produced, possession is no evidence of guilt, for that was authorized by the owner. Judgment reversed.
