@@ -1,0 +1,35 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "A89A1313"
+decided: "1989-10-26"
+citations: ["194 Ga. App. 5", "389 S.E.2d 496"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Carley, C. J., and McMurray, P. J., concur."]
+parties: ["SINGLETON v. THE STATE."]
+source_url: "https://static.case.law/ga-app/194/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 660297
+cites_cases: ["161 Ga. App. 442", "167 Ga. App. 581", "168 Ga. App. 10", "168 Ga. App. 569", "172 Ga. App. 663", "173 Ga. App. 512", "175 Ga. App. 234", "175 Ga. App. 769", "176 Ga. App. 268", "178 Ga. App. 219", "181 Ga. App. 567", "184 Ga. App. 380", "184 Ga. App. 834", "185 Ga. App. 612", "186 Ga. App. 655", "187 Ga. App. 600", "188 Ga. App. 375", "249 Ga. 720", "251 Ga. 487", "257 Ga. 796", "288 SE2d 299", "292 SE2d 834", "306 SE2d 629", "307 SE2d 75", "308 SE2d 33", "309 SE2d 845", "443 U. S. 307", "99 SC 2781"]
+---
+
+# Singleton v. State
+
+## Majority (Beasley, Judge.)
+
+Beasley, Judge.
+Defendant appeals his convictions for possession of cocaine with intent to distribute, OCGA § 16-13-30, and possession of a firearm during the commission of a crime, OCGA § 16-11-106. Defendant’s enumerations of error raise the issue of whether the evidence was sufficient to sustain his conviction of each offense.
+Construed in favor of the verdict, Rhodes v. State, 168 Ga. App. 10, 11 (1) (308 SE2d 33) (1983), the evidence shows that, during the early morning hours of Wednesday, August 18, 1988, a police officer observed defendant driving at a high rate of speed while making several lane changes, so he “pulled [defendant] over.” As the officer approached the car, defendant got out, looked at the officer and then got back in the vehicle and sped off. He was alone. After a chase defendant drove the car into a truck, jumped out and ran off. The officer lost contact and was unable to pursue. He returned to the vehicle where he found five small bags of what appeared to be crack cocaine, which fell from the visor on the driver’s side, and a .25 automatic pistol that was “stuck down” between the two seats of a split bench front seat. The substance found in the bags was positively identified as cocaine.
+Defendant’s cousin Bennett, a convicted seller of cocaine, testified that he owned the car and the pistol. He loaned defendant his car on Sunday, August 15, and had previously placed the gun under the passenger’s seat, a fact of which he had not informed defendant. Defendant denied any knowledge of either the gun or the cocaine and explained that he fled because he was on probation and feared the consequences of his traffic violations. On cross-examination he admitted that he had previously pleaded guilty to possession of cocaine.
+Defendant contends that the State failed to prove his possession of the cocaine. The law recognizes two kinds of possession, actual or constructive. Dalton v. State, 249 Ga. 720, 721 (2) (292 SE2d 834) (1982). “A person who knowingly has direct physical control over a thing at a given time is in actual possession of it. A person who, though not in actual possession, knowingly has both the power and the intention at a given time to exercise dominion or control over a thing is then in constructive possession of it.” Lockwood v. State, 257 Ga. 796, 797 (364 SE2d 574) (1988). Either type may be established by circumstantial evidence. Heath v. State, 186 Ga. App. 655, 657 (1) (368 SE2d 346) (1988); Clark v. State, 184 Ga. App. 380, 382 (1) (361 SE2d 682) (1987); Feblez v. State, 181 Ga. App. 567 (1) (353 SE2d 64) (1987); Allen v. State, 172 Ga. App. 663, 668 (7) (324 SE2d 521) (1984); Griggs v. State, 167 Ga. App. 581, 583 (4) (307 SE2d 75) (1983). “Where drugs are found in the ‘immediate presence’ of the defendant, the jury is authorized to find they are ‘in the constructive possession’ of the accused.” Garvey v. State, 176 Ga. App. 268, 274 (6) (335 SE2d 640) (1985). Accord Farmer v. State, 188 Ga. App. 375, 376 (373 SE2d 68) (1988).
+Defendant also urges that the evidence fails to sustain a finding that he possessed the firearm. OCGA § 16-11-106 (b) (1) and (4) punishes “any person who shall have on or within arm’s reach of his person a firearm . . . during the commission of, or the attempt to commit: . . . Any crime involving the . . . possession with intent to distribute any controlled substance as provided in Code Section 16-13-30.” The phrase regarding “within arm’s reach” has eliminated the narrow judicial reading given the provision formerly. See McIntosh v. State, 185 Ga. App. 612, 616 (5) (365 SE2d 454) (1988); Beal v. State, 175 Ga. App. 234, 238 (4) (333 SE2d 103) (1985). This section includes those persons who are armed while in possession of controlled substances. See Belcher v. State, 161 Ga. App. 442, 444 (2) (288 SE2d 299) (1982).
+To warrant a conviction on circumstantial evidence, the proved facts shall not only be consistent with the hypothesis of guilt, but shall exclude every other reasonable hypothesis save that of the guilt of the accused. OCGA § 24-4-6. “This does not mean that the state must exclude every possible hypothesis showing innocence, but any reasonable hypothesis showing innocence.” Robinson v. State, 168 Ga. App. 569, 571 (1) (309 SE2d 845) (1983). (Emphasis supplied.) “Where the defendant offers an explanation of circumstantial facts or an alternative hypothesis of events, the reasonableness of that explanation is for the jury.” Henderson v. State, 184 Ga. App. 834, 835 (2) (363 SE2d 52) (1987). Because the jury has heard the witnesses and observed them testify, it is considered more capable of determining the reasonableness of the hypothesis produced by the evidence or lack thereof than is an appellate court. Thus, this court will not disturb its finding unless the verdict is insupportable as a matter of law. Chews v. State, 187 Ga. App. 600, 603 (1) (371 SE2d 124) (1988); Robinson v. State, 175 Ga. App. 769, 771 (1) (334 SE2d 358) (1985). If the totality of the evidence is sufficient to connect defendant to possession of drugs, even though there is evidence to authorize a contrary finding, the jury’s verdict will be sustained. Johnston v. State, 178 Ga. App. 219, 220 (1) (342 SE2d 706) (1986); Little v. State, 173 Ga. App. 512 (1) (326 SE2d 859) (1985).
+Decided October 26, 1989
+Rehearing dismissed November 29, 1989
+Rehearing denied December 15, 1989.
+David F. Sandbach, Jr., for appellant.
+H. Lamar Cole, District Attorney, J. David Miller, Assistant District Attorney, for appellee.
+Applying the above legal principles to the facts of this case, the evidence was sufficient so that a rational finder of fact could have found defendant guilty beyond a reasonable doubt applying the precepts of Jackson v. Virginia, 443 U. S. 307 (99 SC 2781, 61 LE2d 560) (1979). Ledesma v. State, 251 Ga. 487 (1) (306 SE2d 629) (1983); Farmer v. State, supra at 376; Robinson v. State, supra at 770 (1).
+Judgment affirmed.
+Carley, C. J., and McMurray, P. J., concur.
