@@ -1,0 +1,26 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "14118"
+decided: "1923-03-06"
+citations: ["30 Ga. App. 20"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Broyles, C. J., and Bloodworth, J., concur."]
+parties: ["GRIFFLER v. SOUTHERN RAILWAY COMPANY."]
+source_url: "https://static.case.law/ga-app/30/cases/0020-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1415622
+cites_cases: ["110 Ga. 526", "112 S. E. 735", "12 S. E. 638", "28 Ga. App. 646", "35 S. E. 772", "51 Ga. 204", "86 Ga. 317"]
+---
+
+# Griffler v. Southern Railway Co.
+
+## Majority (Luke; J.)
+
+Luke; J.
+Griffier filed a petition for damages against the Southern Railway Company, returnable to the June, 1919, term of Delvalb superior court. On June 3, 1919, the defendant traversed the officer’s entry of service, and, subject to the traverse, filed its answer. Apparently recognizing tlie invalidity of the attempted service of the petition, the plaintiff, on October 11, 1919, and not in term time, filed a petition praying that a second original issue and be served in accordance with the terms of the act of 1912 (Ga. L. 1912, p. 66); and the court on the same day granted an order directing that the second original issue and be served as required by law, citing the defendant to appear at the December term of the court. From the record it appears that a few clays after the granting of this order, one of the attorneys for the plaintiff requested tire clerk to issue a second original and process in compliance with the court’s order, directed to the officers of Fulton county, requiring the defendant to appear at the December term of DeKalb superior court; -and that the clerk of the court stated to the attorney for the plaintiff that he thought the order of the court was sufficient and constituted the necessary notice to the defendant, and refused to issue any new process or to change the process, without an order of the court to that effect. The clerk, however, did issue a second original of the petition, but the process was directed to the officers of DeKalb county and not to the officers of Fulton county, and the defendant was required to appear at the June, 1919, term of the court, which had long passed. When the case finally came on for trial on September 9, 1921, and after the traverse of the defendant had been sustained, the defendant filed a motion to dismiss the suit, upon the ground that there had been no valid service upon it. This motion was overruled, the defendant excepted, and on June 14, 1922, this court reversed the lower court, holding that “ a sheriff of one county cannot legally serve a process directed to the sheriff of another county.” See So. Ry. Co. v. Griffler, 28 Ga. App. 646 (112 S. E. 735). Before the remittitur reached the trial court the plaintiff filed a petition praying for an order of court commanding the clerk to amend the process so as to conform to the original order of court directing the issuance of the second original. The amendment was allowed on the same day. On June 30, upon motion of the defendant’s counsel, the amendment was stricken and the suit dis-; missed.
+Whether or not the trial court had legal authority to issue ex parte and out <5f term time the original order of October 11, 1919, that a second original issue and be served on defendant, was not determined when this case was formerly decided by this court; nor shall we base this decision upon the legality or illegality of that order. We may concede (without deciding), for the purpose of this decision, that all the proceedings in this case up to the time of striking the amendment to the process were regular. The sole questions here decided are as to the correctness of the judge’s orders striking that amendment and dismissing the case.
+Where a plaintiff, on the discovery of an irregularity in the process attached to his petition, is active to have the fault cured, the court is not without jurisdiction to make the suit effective. Dobbins v. Jenkins, 51 Ga. 204; Peck v. LaRoche, 86 Ga. 317 (12 S. E. 638); Brunswick Hardware Co. v. Bingham, 110 Ga. 526 (35 S. E. 772). That the sheriff of one county cannot legally serve a process directed to the sheriff of another county has long been the law of this State. See So. Ry. Co. v. Griffler, supra, and cases cited. That the plaintiff in the case at bar made no offer to amend until several terms of court had passed, and until after the original process had been declared invalid by this court, appears from the record. The record also discloses that as earty as November, 1919, the clerk of the court substantially told one of the attorneys for the' plaintiff that he considered himself without authority either to direct a process to the officers of Pulton county or to issue a process requiring the defendant to appear at the December term of the court, and that he would not do so. The court considered this sufficient notice to put the plaintiff on inquiry as to whether the clerk did attach a defective process. Under the facts in this case this court can not say that the trial judge erred in holding that it was too late to amend, and in striking the amendment allowed and in dismissing the case.
+Judgment affirmed.
+Broyles, C. J., and Bloodworth, J., concur.
