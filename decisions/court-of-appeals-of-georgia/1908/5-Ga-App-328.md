@@ -1,0 +1,24 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "1248"
+decided: "1908-12-22"
+citations: ["5 Ga. App. 328"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HUGHES v. MURPHY, guardian."]
+source_url: "https://static.case.law/ga-app/5/cases/0328-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1264561
+cites_cases: ["106 Ga. 815", "112 Ga. 340", "121 Ga. 788", "26 L. R. A. 177", "32 S. E. 869", "36 Ga. 184", "37 S. E. 371", "40 Neb. 195", "42 Am. St. R. 665", "49 S. E. 788", "58 N. W. 852", "74 Ga. 295", "91 Am. Dec. 661"]
+---
+
+# Hughes v. Murphy
+
+## Majority (Hill, C. J.)
+
+Hill, C. J.
+(After stating the foregoing facts.)
+The right of setting up his infancy, for the purpose of exempting-him from the performance of his contracts or of disaffirming them, is, of course, a personal privilege, of which the infant alone can avail himself. This means that the party contracting with the infant can not plead this exemption as a reason for not performing the contract, unless he was ignorant of the fact of infancy at the time of making the contract; nor can third persons avail themselves of it as a defense. Civil Code, §3649. In other words, contracts made with infants by adults are generally obligatory on the adults, but not obligatory on the infants. Smith v. Smith, 36 Ga. 184 (91 Am. Dec. 661). But, under the law, the guardian, is entitled to the property of his ward, and where such possession is withheld from him, he has the right to sue as such guardian and to' recover possession of the ward’s property. It is wholly immaterial to the exercise of this right whether the ward consents to such suit or not; In such suits the only material questions are, is it the property of the ward, and is it withheld from the possession of the guardian? It furnishes no defense to such suit that the ward sold his property.and delivered possession of it to the purchaser. Of course, if the ward, by permission of his guardian, was engaged in any business as an adult, and the contract of sale was connected with such business, the contract would be valid and binding both upon the infant and the guardian; but while the evidence in this case shows that the infant was working for himself, making his own contracts, it also discloses the fact that the property in question was not the proceeds of his labor, or connected in any way with his work, or realized from any contract made by him-in connection with his work, but was derived by gift from his mother. Civil Code, §3650; Jimmerson v. Lawrence, 112 Ga. 340 (37 S. E. 371); Ullmer v. Fitzgerald, 106 Ga. 815 (32 S. E. 869).
+The fact that the cattle had been delivered to the ward, by direction of his guardian did not give the ward the right to sell the cattle, either with or without the consent of his guardian. Indeed, the guardian himself would have no right to sell the property of the ward, except by order of the superior court, or under direction of the ordinary. Civil Code, §§2545, 2547.
+The contention that the guardian is estopped, under the facts, of this case, from having the sale by his ward set aside without refunding to the purchaser the amount of the purchase-price of the personal property in question, has been settled adversely to the plaintiff in error by the Supreme Court, in the case of Shuford v. Alexander, 74 Ga. 295. “The contracts of an infant are void, and in a suit prosecuted on his behalf, either to recover the property parted with by him or its value, . . an oiler to rescind the contract, or to return the property he got in exchange, is not an indispensable prerequisite to the maintenance of the action.” The rule which requires the restitution of the consideration in order to disaffirm an infant’s contract applies only to the right of the infant himself, after he becomes of age and elects to disaffirm the contract made by him during his minority. The general rule in such cases is that he will not be permitted to regain what he parted with, or refuse payment, while still possessed of what he received. If, when he wants to disaffirm his contract made ditring infancy, he has in his possession any of the consideration of the contract, it must in equity and good conscience be restored, as a precedent to such disaffirmance. But if he “has lost, expended, or squandered the consideration during his minority, this is nothing more than the law anticipates of him, and he can not be required to purchase the right of reclaiming his own by still further abstractions from his estate.” Southern Cotton Oil Co. v. Dukes, 121 Ga. 788 (5), (49 S. E. 788); Engelbert v. Troxell, 40 Neb. 195 (58 N. W. 852, 42 Am. St. R. 665, 26 L. R. A. 177, and eases cited in the note). Judgment affirmed.
