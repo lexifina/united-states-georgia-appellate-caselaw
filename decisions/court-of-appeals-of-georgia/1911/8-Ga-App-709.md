@@ -1,0 +1,22 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "2440"
+decided: "1911-02-07"
+citations: ["8 Ga. App. 709"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["COURSON et al. v. HAMILTON."]
+source_url: "https://static.case.law/ga-app/8/cases/0709-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 616807
+---
+
+# Courson v. Hamilton
+
+## Majority (Russell, J.)
+
+Russell, J.
+In pursuance of an attachment for purchase-money, A. J. Hamilton filed a -petition in the city court of Valdosta. The defendants filed an answer admitting the execution and delivery of the note attached to the petition,. and' that it represented the purchase price of the machinery which had been attached, but the defendants pleaded, by way of recoupment, that they had been damaged in the sum of $500, by reason of the fact that the plaintiff in the attachment had failed and refused to deliver a part of the machinery purchased. The defendants alleged, in the second paragraph of their answer, that they had -been damaged $500 or other large sum, by reason of the fact that they had been “compelled to turn down orders tendered them by G. B. Jones, L. L. Webb, and others, for long lumber, . . for lack of a sufficient carriage to handle, the same.” In the third paragraph they attempted to recoup by alleging that the lumber carriage which they purchased was worth $150 new, and that while a credit of $75 had been placed on their note, presumably to cover 15 feet of carriage which the plaintiff had not furnished them, a 30 feet carriage of the kind purchased was worth $150 new, and •that by reason of the failure of the plaintiff 'to furnish this 15 feet of carriage,_ they had been damaged in the sum of $500 or other large sum. The plaintiff, by special demurrer, very properly asked for information as to the items composing the $500 damages, and especially for definite information as to the amount of the orders for long lumber which the defendants were deprived of filling. It is apparent that the allegation that orders for more than 100,000 feet of lumber were offered to the defendants by G. B. Jones, L. L. Webb, “and others” is entirely too indefinite. The defendants did not offer to amend in response to these special demurrers. It is manifest, therefore, that the second paragraph of the defendants’ answer was properly stricken. The third paragraph set up that the $75 which was credited on the note without the knowledge or consent of the defendants was for the 15 feet of the carriage which the defendants alleged had never been delivered. The defendants alleged that the whole 30 feet was worth $150, if new. They did not allege that the carriage they bought was new, or what was the market value of the 15 feet not delivered to them. Clearly, if 30 feet was worth $150, and they had received 15 feet of the carriage, the defendants would not be entitled (by the allegations of their own answer upon this point) to a deduction of more than $75; and this deductiont, they stated, had been placed as a credit upon their note. If the proper credit had been allowed, it is immaterial whether the entry of the credit was made with the knowledge and consent of the defendants or without it.
+Considering the answer as a whole, the first paragraph set up that the plaintiff failed to deliver to the defendants 15 feet of the sawmill carriage that they purchased, though they had often promised to do so.
+The statement in the second paragraph, to the effect that the defendants had lost the profits on orders for 100,000 feet of lum- ^ ber, was too vague and indefinite. The plaintiff was entitled to know the exact amount of each lot of lumber which had been tendered to the defendants for manufacture, and by whom it. was tendered. Upon the defendants’ failure to amend and give this information, the court did not err in striking the second paragraph of the answer. The court did not err in striking the third paragraph; because, as already stated, it is apparent, from the statements of the third paragraph, that the defendants had been allowed $75 for the damages directly due to the plaintiff’s failure to furnish the additional 15 feet of the carriage. And as there is no allegation to warrant 'an inference that there were any consequential damages due to this failure, other than those which it was attempted to set out in the second paragraph, it was not error to strike the answer as a whole. Judgment affirmed.
