@@ -1,0 +1,28 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "25217"
+decided: "1936-06-30"
+citations: ["54 Ga. App. 41"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Guerry, J., concurs. Stephens, J., concurs specially."]
+parties: ["DeKRASNER v. THE STATE."]
+source_url: "https://static.case.law/ga-app/54/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1478937
+cites_cases: ["109 Wash. 26", "113 S. E. 218", "116 Ga. 516", "149 S. E. 158", "167 Atl. 344", "2 Ga. App. 154", "29 Ga. App. 26", "312 Pa. 140", "33 Misc. 22", "40 Ga. App. 232", "42 S. E. 755", "58 S. E. 304", "59 L. R. A. 598", "67 N. Y. Supp. 1114"]
+---
+
+# DeKrasner v. State
+
+## Majority (MacIntyre, J. Stephens, J.)
+
+MacIntyre, J.
+It was not necessary to allege, in the indictment for attempting to commit the offense of cheating and swindling by false representations, that the person sought to be cheated and defrauded believed the statements and relied upon them, or that the money was parted with by the intended victim. This is true in an indictment for the actually-completed offense. The Code, § 27-2507, declares: “If any person shall attempt to commit a crime, and in such attempt shall do any act toward the commission of such crime, but shall fail in the perpetration thereof, or shall be prevented or intercepted from executing the same, he shall, in cases where no punishment is otherwise provided for the punishment of such an attempt, be punished as follows:” etc. The essence of an attempt to commit a crime seems to be an act done with the intent to commit the crime. Groves v. State, 116 Ga. 516, 519 (42 S. E. 755, 59 L. R. A. 598). Done by whom? An act done by a third party (the intended victim), or an act done by the defendant? How can the act of the third party, even the intended victim, be evidence of the intent of the defendant? The attempt to commit a crime does not necessarily require or depend upon the concurrence of the intended victim, but may be completed without the knowledge of the intended victim. The crime depends upon the mind and intent of the wrong-doer, and not upon the effect or result upon the intended victim. It does not follow from the fact that the intended victim was not deceived that the element of the intent to deceive is taken away from the transaction. People v. Spolasco, 33 Misc. 22 (67 N. Y. Supp. 1114); State v. Peterson, 109 Wash. 26; Commonwealth v. Johnson, 312 Pa. 140 (167 Atl. 344). In Parker v. State, 29 Ga. App. 26 (113 S. E. 218), the accusation of an attempt to commit the crime of cheating and swindling alleged all of the elements of the crime of cheating and swindling, including the element that the intended victim believed the representations to be true and relied upon them as true, except that the intended victim was actually cheated and defrauded. In Norris v. State, 40 Ga. App. 232 (149 S. E. 158), the court (the same Judge writing the opinion) held that the indictment for the offense of attempting to commit the offense of cheating and swindling was sufficient as against a general demurrer where there was no allegation in the indictment that the intended victim believed the representations to be true and relied upon them as being true. We therefore think that while in the Parlcer case, which dealt with an attempt to commit a crime, all the essential elements necessary to constitute the crime of cheating and swindling (as stated in Goddard v. State, 2 Ga. App. 154, 58 S. E. 304), except that the intended victim was actually defrauded and cheated, were alleged, it was unnecessary to allege that the intended victim believed the representations to be true and relied upon them; for in the Norris case, which followed the Parker decision, it was held that such an allegation in the indictment is not necessary, in effect saying that this is not one of the essential elements in the crime of attempting to commit the offense of cheating and swindling by false representations.
+It is stated by the plaintiff in error that “an attorney at law is not impaneled as a ‘trior’ or as a jury to determine the truth or falsity of the statement made by his client before proceeding with the trial.” This statement as a general rule is true. However, in our opinion, the indictment in the instant case would have been good if the defendant DeKrasner had not been a lawyer; and the fact that he was a lawyer would not clothe him with the right to conspire to cheat and defraud by submitting a claim for alleged damages as a result of personal injuries, when he knew that the pretenses were false, and made them in pursuance of a conspiracy to defraud and swindle.. No, he was not impaneled as a “trior” to determine the truth of the statement made by his client, for the indictment alleged that he already knew the representations were false, thus in effect saying: “There is no need, so far as you are concerned, for you to act as a ‘trior’ to try this issue of truth or falsity, for there has already taken place in your mind a mental trial, and you have already rendered your mental judgment that these representations were false.”
+The other principles stated in the headnotes need no elaboration.
+Judgment affirmed.
+Guerry, J., concurs. Stephens, J., concurs specially.
+Stephens, J.
+Irrespective of any insufficiency in the assignments of error referred to in headnotes 9 and 12, I am satisfied that there is no merit in any of these assignments of error. In the other rulings of the court I concur, and I also concur in the judgment of affirmance.
