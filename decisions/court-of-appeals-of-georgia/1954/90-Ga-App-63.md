@@ -1,0 +1,27 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "35115"
+decided: "1954-04-13"
+citations: ["90 Ga. App. 63"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gardner, P. J., and Carlisle, J., concur."]
+parties: ["CROSBY v. THE STATE."]
+source_url: "https://static.case.law/ga-app/90/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1566082
+cites_cases: ["155 S. E. 85", "179 S. E. 289", "22 S. E. 282", "34 S. E. 2d 110", "42 Ga. App. 123", "50 Ga. App. 564", "72 Ga. App. 487", "95 Ga. 559"]
+---
+
+# Crosby v. State
+
+## Majority (Townsend, J.)
+
+Townsend, J.
+The defendant was convicted upon the testimony of an agent of the State Department of Revenue, who testified that he was sent to communicate with the Sheriff of Appling County; that the sheriff instructed him to go with a man pointed out to him, but whose identity he never learned, to buy whisky from the defendant, and that he did so, and the defendant sold him non-tax-paid whisky. The sheriff corroborated this testimony by a statement that he had requested an agent of the revenue department, and sent him out with another person, whose name he knew but refused to divulge unless ordered to do so by the court. This unknown person was, according to the agent’s testimony, present and aided in the transaction of purchasing the liquor. According to the sheriff’s testimony, he was sent with the witness for that purpose. The defendant, who, in his unsworn statement, contended that no such transaction had ever taken place, assigns error on the refusal of the court to require the sheriff to divulge the name of the person who allegedly accompanied the revenue department agent to his home and assisted in purchasing the whisky.
+It is well established that, “under statutes providing that a public officer cannot be examined as to communications. made to him in official confidence when public interests would suffer by the disclosure, the courts generally have excluded communications by informers to public officials.” 58 Am. Jur., Witnesses, 300, § 534. This is the rule in Georgia. Code § 38-1102; Anderson v. State, 72 Ga. App. 487 (4) (34 S. E. 2d 110). There is, however, a vast difference between an informer (usually a citizen who communicates to public authorities suspected infractions of penal laws) and a decoy (usually a person employed by law-enforcement agencies to obtain evidence upon which prosecutions are based). In at least two Federal cases it has been held reversible error to refuse to permit disclosure of the name of the decoy who actually procured the evidence upon which the indictment was based, there being no grave apprehension that the security of the body politic would be threatened by such disclosure. In Sorrentino v. U. S., 163 Fed. 2d 627, it was held: “If the person whom Grady called an informer had been an informer and nothing more, appellant would not have been entitled to have his identity disclosed; but the person whom Grady called an informer was something more. He was the person to whom appellant was said to have sold and dispensed the opium described in the indictment. Information as to this person’s identity was therefore material to appellant’s defense, and appellant was entitled to a disclosure thereof.” And in United States v. Conforti, 200 Fed. 2d 365, it was held that failure to disclose the identity of “No. 54,” who allegedly purchased the counterfeit currency in question, was reversible error where the defendant denied the transaction and contended that the identity of this agent was essential to his defense since, had he been afforded the opportunity to cross-examine this person or call him as a witness, he might have failed to corroborate the Government’s case.
+It cannot be held that the error was harmless to the defendant on the ground that the defendant would have had no time, after disclosure of the name, to call the party as a witness, for the person might have been available and might have been actually within the courtroom at the time. Nor is the argument that, if the person’s name were divulged, he would be of no further use to law-enforcement officers a cogent one. Either he accompanied the revenue department agent, as the latter testified, in which event the defendant already knew his identity and had the means of divulging it to others, or he did not accompany the agent and would so state. The right of cross-examination “is a substantial right, the preservation of which is essential to a proper administration of justice, and extends to all matters within the knowledge of the witness, the disclosure of which is material to the controversy.” News Publishing Co. v. Butler, 95 Ga. 559 (22 S. E. 282); Richards v. Harpe, 42 Ga. App. 123 (1) (155 S. E. 85). The right to cross-examine a witness is very broad, and much latitude should be allowed the opposite party so as not to abridge his right to a thorough and sifting cross-examination. Williamson, Inman & Co. v. Thompson, 50 Ga. App. 564 (4) (179 S. E. 289). Where, upon the trial of a case, it appears that the prosecuting witnesses have within their knowledge facts through which the defendant’s innocence may be established, an abridgment of this right which prevents him from ascertaining such facts must be held a violation of fundamental rights, requiring reversal.
+The trial court erred in denying the motion for new trial.
+Judgment reversed.
+Gardner, P. J., and Carlisle, J., concur.
