@@ -1,0 +1,23 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "2729"
+decided: "1911-02-22"
+citations: ["9 Ga. App. 27"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SASSER v. PIERCE."]
+source_url: "https://static.case.law/ga-app/9/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1143870
+cites_cases: ["6 Ga. App. 321", "64 S. E. 1100"]
+---
+
+# Sasser v. Pierce
+
+## Majority (Russell, J.)
+
+Russell, J.
+Pierce brought an action in trover against Sasser to recover the value of a mule and its hire. The case has been here before. Sasser v. Pierce, 6 Ga. App. 321 (64 S. E. 1100). The verdict in favor of Pierce was set aside by this court because the evidence did not show actual fraud, and we held that only actual fraud would authorize the ex parte rescission of a horse-swap. When the case was here before, the evidence failed to show that Pierce had ever offered to pay back $20, and furthermore the case hinged upon the fact that Pierce, in taking the mule, acted with his eyes open, upon Sasser’s mere assurance that he thought the mule had sand gravel. On the trial now under review the evidence upon this point was different, because Pierce testified that Sasser informed him positively that that was the cause of her apparent lameness: and it was upon this statement that an attempt was made to impeach Pierce bjr proof of his contradictory testimony upon the same point on the former trial. As remarked by Judge Powell when the case was here before, juries are necessarily better judge-of what facts are necessary to constitute fraud in a horse-swap than judges can be. On the trial which is now under investigation the plaintiff introduced the person from whom Sasser bought the mule, and the testimony of this witness was sufficient to authorize the jury to find that Sasser was guilty of actual fraud and purposely bought the mule with the intention to defraud Pierce. We do not say that this is the case, but we are obliged to hold that the evidence is sufficient to authorize the jury so to find. From the difference between the testimony when the ease was here before and the testimony in the record now before us, to which we have already referred, it is evident that the jury at the last trial were authorized to find that Sasser bought the mule from Maharry with full knowledge of her lameness and of the cause of her lameness; that at the time he tolcl Pierce that she had sand in her hoof, and that in his opinion “sand hoof” was the cause of her lameness, and that there was nothing the matter with her but that, he knew well that she was lame in the shoulder, and always would be lame from a strain which could never be cured; that his father had owned the mule for several years, and that he had full knowledge of her exact condition and its cause. Maharry’s evidence, showed, further, that when Sasser told Pierce that the mule was only 10 or 12 years old (or even if he told him that he thought she was only 10 or 12 years old), he stated a deliberate falsehood, because, according to Ma-harry’s testimony, he knew well, at the time he was making the statement, that the mule was at least 18 or 20 years old. Of course, it is for the jury to say whether Maharry’s testimony was the truth, and the jury evidently believed it; and if they did, the element of actual fraud, which was not shown when the case was heard before, was amply established on the trial now before us for review.
+Furthermore, as pointed out by Judge Powell in Sasser v. Pierce, supra, the evidence in regard to the tender of the $20 which Sasser paid Pierce as boot, when the case was here before, was entirely unsatisfactory; there was no explicit statement that Pierce offered to return to Sasser his money, and therefore the .offer to rescind was fatally defective. This deficiency in the evidence is supplied in the present ease by Pierce’s positive testimony that he offered to repay Sasser the $20 at the same time that he offered to return the mule. Of course, Sasser denied this, but the jury evidently believed Pierce; and even though it be true, as testified by Sasser, that Pierce did not actually show or count out money to him, the tender of the actual money was waived by Sasser, according to Pierce; because Sasser, without insisting upon any formal tender, absolutely refused to return Pierce’s mule or “rue back.”
+As the case presents itself this time, the evidence is sufficient to have authorized a finding either way, and the trial judge having approved the verdict, it.can not be said that his judgment overruling the motion for new trial was error. Judgment affirmed.
