@@ -1,0 +1,26 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "25107"
+decided: "1936-07-03"
+citations: ["54 Ga. App. 38"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Guerry, J., concurs. Broyles, C. J., disqualified."]
+parties: ["DeKRASNER v. BOYKIN"]
+source_url: "https://static.case.law/ga-app/54/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1479173
+cites_cases: ["121 S. E. 517", "134 Ga. 844", "137 Am. St. R. 372", "31 Ga. App. 60", "68 S. E. 736"]
+---
+
+# DeKrasner v. Boykin
+
+## Majority (MacIntyre, J.)
+
+MacIntyre, J.
+Judge Dorsey, one of the judges of the superior court of Fulton County, Georgia, signed a rule nisi on a disbarment proceeding against Boykin, requiring him “to appear- and answer this complaint on Monday, June 10, 1935, or when thereafter reached on the call, as by law directed.” The rule nisi further provided that “further consideration of this motion is hereby referred to the judge of this court in charge of motions.” On June 5, Judge Humphries, of the superior court of Fulton County, who was the judge then presiding in the motion division, passed an order setting the cause for trial on Thursday, June 13, 1935, and directing that Boykin appear and file his answer in accordance with the order last above stated. The court did not err in refusing the motion of DeKrasner, made on June 11, 1935, to disbar solicitor-general Boykin by default because Boykin had not filed his answer on or before June 10, 1935.
+The record in part shows: “Upon the call of the case all parties announced ready; whereupon relator filed his written motion that the Hon. J. D. Humphries, one of the judges presiding, recuse himself, which motion to recuse the court overruled and denied.” “The statutory grounds of the disqualification of a judicial officer as contained in the Civil Code (1910), § 4642 [Code of 1933, § 24-102], are exhaustive.” Carson v. Blair, 31 Ga. App. 60 (121 S. E. 517). See also Elliott v. Hipp, 134 Ga. 844, 848 (68 S. E. 736, 137 Am. St. R. 372, 20 Ann. Cas. 423). The petition does not allege that the judge was pecuniarily interested in the cause, or that he came within any of the provisions of § 24-102, relating to disqualification, which are as follows: “No judge or justice of any court, no ordinary, justice of the peace, nor presiding officer of any inferior judicature or commission, shall sit in any cause or proceeding in which he is pecuniarily interested, or related to either party within the fourth degree of consanguinity or. affinity, nor in which he has been of counsel, nor in which he has presided in any inferior judicature, when his ruling or decision is the subject of review, without the consent of all of the parties in interest: Provided, that in all cases in which the presiding judge of the superior court may have been employed as counsel before his appointment as judge, he shall preside in such cases if the opposite party or counsel agree in writing that he may preside, unless the judge declines to do so.” There was no error in denying the motion to disqualify or recuse on the ground that the orders recited above and the recited statements emanating from Judge Humphries, evidenced his disqualification.
+The record shows that after the overruling of the motion to disbar Boykin because the answer was not filed on the first date set for a hearing, and the motion to disqualify Judge Humphries, the following occurred: “During the progress of the hearing Mr. DeKrasner held a paper in his hands, saying: ‘At this time I tender a bill of exceptions. It is the contention of the plaintiff in this case that Mr. Boykin is now, by reason of his failure to answer at the time specified in the writ, already disbarred.’ The court [Judge Humphries speaking], ‘You need not argue that any further; the court has overruled .your motion, and orders you to proceed.’ Mr. DeKrasner: ‘I tender the -bill of exceptions.’ The court [Judge Humphries speaking], ‘That would be exceptions pendente lile, and you have thirty days in which to tender them.’ Explanation by the court, in its direction of July 2d, 1935: ‘The paper referred to as a bill of exceptions was never in fact delivered to the court, and the court has not read it, and does not know its contents.’ ” After this, the relator made a motion to continue, for the reason that the respondent, John A. Boykin, having just tendered his answer; and the relator, not having had an opportunity to read the answer, and not being familiar with the issues involved in the case as raised by the respondent’s answer, was unable properly and adequately to proceed. In view of the fact that all the parties announced ready, and the answer was in effect a denial of the charges in the petition, and no new matter was alleged in the answer which should in any way have caused surprise, the court did not abuse its discretion in its refusal to continue the case for the term. And when DeKrasner, the relator, refused to proceed with ¿the trial, the court did not err in dismissing the petition to disbar the respondent Boykin.
+Judgment affirmed.
+Guerry, J., concurs. Broyles, C. J., disqualified.
