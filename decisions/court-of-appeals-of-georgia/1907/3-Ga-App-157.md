@@ -1,0 +1,21 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "572"
+decided: "1907-11-27"
+citations: ["3 Ga. App. 157"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HUSBAND BROTHERS v. GEORGIA SOUTHERN AND FLORIDA RAILWAY COMPANY."]
+source_url: "https://static.case.law/ga-app/3/cases/0157-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1258683
+cites_cases: ["55 Ga. 615"]
+---
+
+# Husband Bros. v. Georgia Southern & Florida Railway Co.
+
+## Majority (Hill, C. J.)
+
+Hill, C. J.
+This was a certiorari from a justice court.. On the call of the case in the superior court, counsel for defendant in certiorari moved to dismiss the certiorari proceedings, on the ground that the certiorari bond was signed by an attorney at law, who was an officer of the court, and that therefore the bond was void and of no effect. The court sustained the motion and dismissed the certiorari upon this ground, and the sole question before this court is whether this judgment was erroneous. Independently of any prohibitory statute, or rule of court, an attorney at law or any other officer of the court would have a right to be-. come surety on any bond or obligation which the law requires as a necessary part of the proceedings in a case. We do not think, however, from an ethical standpoint, that an attorney at law, and especially in a ease in which he is acting as attorney, should ever assume the obligation of bail or surety. Since 165.4 it has been the rule in England that attorneys can not become bail or surety in court proceedings; and this rule has been generally adopted by statute in this country, or by rules of courts on the subject. In this State the matter is regulated by a rule of court (Eules of the Superior Courts, Civil Code, §5641). It has been uniformly held that this statute or rule of court is directory merely, and if an attorney, in violation of the statute or the rule of court, does become such surety or bail, his obligation is neither void nor voidable, and the purpose of the regulation would be sufficiently accomplished by punishing the attorney for contempt of court, without holding-the bond a nullity. Weeks on Attorneys, §919; 3 Am. & Eng. Ene. L. (2d ed.) 291, note 6; 4 Cyc. '919, and cit.; Burton v. Wynne, 55 Ga. 615. Unless the statute or rule of court is expressly mandatory in terms, and declares that a bond signed by an attorney or other officer.of the court as bail or security is absolutely void, the regulation is clearly directory, and for the government of attorneys as officers of court, and its violation does not affect the rights of parties. The rulé of court in this State on the subject does not provide that the effect of its violation shall be to render the bond void, but that the offending attorney shall be punished for contempt, and the party shall be compelled to give other bail or security. As to the party, we think it clear that he should be ■ allowed, if the court in its discretion requires it, the privilege of giving other bail or security in order that his rights in the litigation may be preserved. The Supreme Court in the case of Burton v. Wynne, supra, in construing the terms of the statute as contained in the code, §3268 (now Civil Code, §4514), providing that no person shall be taken as security on any attachment or garnishment bond, who is an attorney for the plaintiff, held, that this section was directory merely, and that its violation would not make the proceeding void or the bond a nullity. ' We think the rule of court is by its terms more clearly directory than the statute construed in Burton v. Wynne. The rule points out what shall be the effect of its violation, to wit, the punishment of the offending attorney, and the compelling of the party to give other bail or security; but the statute simply declares that no attorney for the plaintiff shall be taken as security on any attachment or garnishment bond, and the mandatory character of the statute might have been reasonably inferred from this language. We think, therefore, that our learned brother misconstrued the terms of the rule of court, and, in dismissing the certiorari proceedings, imposed an unauthorized punishment for its violation. Judgment reversed.
