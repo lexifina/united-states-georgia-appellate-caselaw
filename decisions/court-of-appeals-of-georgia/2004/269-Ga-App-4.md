@@ -1,0 +1,49 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "A04A1045"
+decided: "2004-08-06"
+citations: ["269 Ga. App. 4", "602 S.E.2d 908"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Blackburn, P. J., and Barnes, J., concur."]
+parties: ["DUNCAN v. THE STATE."]
+source_url: "https://static.case.law/ga-app/269/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 850968
+cites_cases: ["181 Ga. App. 585", "229 Ga. App. 544", "237 Ga. App. 642", "244 Ga. App. 76", "246 Ga. 323", "252 Ga. App. 273", "271 SE2d 471", "353 SE2d 202", "443 U. S. 307", "99 SC 2781"]
+---
+
+# Duncan v. State
+
+## Majority (Mikell, Judge.)
+
+Mikell, Judge.
+Based on acts committed against his ten-year-old stepdaughter, A. S., Clifford Duncan was convicted of child molestation (Counts 1, 5, and 6), enticing a child for indecent purposes (Count 2), attempted aggravated child molestation (Count 3), and attempted aggravated sodomy (Count 4). For sentencing purposes, the trial court merged Counts 1, 3, and 4 with Count 2 and imposed 20-year sentences on Counts 2 and 5, to be served concurrently, and 20 years on probation on Count 6. The court probated two years of the sentences on Counts 2 and 5, ordering Duncan to serve a total of eighteen years in confinement and twenty-two years on probation. On appeal from the order denying his motion for new trial, Duncan challenges the sufficiency of the evidence and the admission of his attempted suicide note. We affirm.
+1. Duncan first asserts that the evidence is insufficient to support his convictions. We disagree.
+On appeal the evidence must be viewed in the light most favorable to support the verdict, and [Duncan] no longer enjoys a presumption of innocence; moreover, an appellate court determines evidence sufficiency and does not weigh the evidence or determine witness credibility. The verdict must be upheld if any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt.
+Viewed in its proper light, the evidence shows that at around 11:30 p.m. on October 8, 2000, Sonya Whitmire, who was then married to Duncan, woke up and discovered that Duncan was not in the bedroom. Whitmire testified that she went to look for him and found him sitting naked on the living room sofa with A. S. kneeling on the floor between his legs. The child was wearing nothing except underwear, and her head was in Duncan’s lap. Whitmire testified that she grabbed A. S. and took her to Whitmire’s bedroom. According to Whitmire, when she questioned her daughter, the child began to cry and said “it had been happening.” She did not provide details. However, at trial, the child gave graphic testimony. A. S. testified that she woke up on the night in question and walked into the hall. Duncan called her into the living room and said “come give me a goodnight hug.” A. S. hugged him and then tried to get up, but she could not because he held her down. A. S. put her arms around his neck and went to sleep. She testified that when she woke up, he was holding her arms and moving her up and down his body in between his legs. Her head was facing his chest. She tried to move up, but he pushed her back down between his legs. Finally, she got up, laid across his lap, and fell asleep. When she next awoke, her body was back in between his legs, her head was facing his stomach, Duncan’s hand was on her head, her knees were on the ground, and Duncan was holding his penis. A. S. testified that her face was a few inches away from his penis and that “he was trying to stick his penis in my mouth.” The child could not get up because he was holding her head down. Her mother walked in at that moment and Duncan released the child’s head. Her face fell onto his penis.
+A. S. also testified that there were other times when she hugged Duncan and he refused to release her; that whenever she walked into his room, she put her feet up on his bed post and he slept between her legs; and that she never told anyone about these incidents because she was afraid. Although three other girls lived in the house, A. S. occasionally was alone with Duncan because he worked at night and her mother worked during the day.
+Whitmire testified that during the summer before the October incident, she found Duncan one night in A. S.’s bedroom, standing over her bed, wearing only a towel-like wrap. It appeared that A. S. was reaching for his penis, which was hard. Whitmire did not call the police after that incident because she had been drinking and both A. S. and Duncan told her that the child had been reaching to give him a hug.
+Two videotapes reflecting interviews with the victim were played for the jury. On those videotapes, the victim stated that Duncan touched her “privates” over her clothes, made her put her hands on his penis, and tried to put his penis in her “privates” while they were both clothed. Duncan denied the allegations.
+Duncan claims that the evidence recounted above does not suffice to support his convictions of child molestation as alleged in Counts 5 and 6 of the indictment. Count 5 charged that Duncan had the victim place her hand on him with the intent to arouse his sexual desires, while Count 6 accused him of touching his unexposed genitalia to “the unexposed area” of the child, with the intent to arouse his sexual desires. Contrary to Duncan’s assertion, his convictions of these offenses are amply supported by the child’s videotaped statements and her live testimony.
+We next review Duncan’s conviction on Count 2 for enticing a child for indecent purposes. “Aperson commits the offense of enticing a child for indecent purposes when he or she solicits, entices, or takes any child under the age of 16 years to any place whatsoever for the purpose of child molestation or indecent acts.” The victim’s testimony that Duncan called to her, asked for a hug, and then held her captive while rubbing her against his naked genitalia is more than sufficient for any rational trier of fact to find him guilty of this offense beyond a reasonable doubt.
+Count 1 alleged that Duncan committed child molestation by having the victim place her head on his naked genitalia. Counts 3 and 4, attempted aggravated child molestation and attempted aggravated sodomy, each alleged that Duncan attempted to have A. S. place her mouth on his penis. Count 4 alleged that he did so forcibly and against the child’s will. As noted above, the trial court merged Duncan’s conviction on these counts with his conviction on Count 2. As merger renders a conviction void, it follows that error, if any, in convicting Duncan on Counts 1, 3, and 4 is harmless.
+2. Duncan next assigns error to the admission of a note evidencing his attempted suicide. In this regard, the record shows that, on the date that the case was originally set for trial, Duncan shot himself in the head. He was blinded as a result. Duncan left a note addressed to his mother and sister stating, “I just think it would be better that I’m not around any more.” The note also instructed his relatives to contact his lawyer and the court before 9:00 a.m. He wrote “I HAVE NO REPRESENTATION!” at the bottom.
+Decided August 6, 2004.
+Valpey & Parks, Leonard C. Parks, Jr., for appellant.
+N. Stanley Gunter, District Attorney, Kerry I. Banister, Assistant District Attorney, for appellee.
+The trial court admitted the document over Duncan’s objection, citing Aldridge v. State. We held in Aldridge, a case of first impression, that “evidence of attempted suicide by the accused where such person is, at the time or thereafter, charged with or suspected of crime, is relevant as possibly indicating a consciousness of guilt and admissible for whatever weight the jury chooses to assign,” Aldridge relied on the proposition that generally, any conduct of the accused that tends to show consciousness of guilt is admissible in Georgia.
+The only difference between Aldridge and the case at bar is that unlike Duncan, defendant Aldridge did not leave a note. Instead, several witnesses testified that Aldridge attempted suicide. However, this distinction is irrelevant. The note was evidence of attempted suicide, was relevant as possibly indicating a consciousness of guilt, and was properly admitted for the jury’s consideration. Duncan argues that the note merely expressed frustration with his former counsel and did not evidence consciousness of guilt. Such an argument addresses itself to the weight of the evidence and does not affect its admissibility. Finally, Duncan’s contention that the admission of this evidence shifted the burden to him to prove that the note did not show consciousness of guilt is contradicted by the court’s charge to the jury that “[tjhere is no burden of proof upon the defendant whatsoever, and the burden never shifts to the defendant to prove his innocence.”
+Judgment affirmed.
+Blackburn, P. J., and Barnes, J., concur.
+(Citations and footnotes omitted.) Price v. State, 252 Ga. App. 273 (1) (556 SE2d 168) (2001).
+Jackson v. Virginia, 443 U. S. 307 (99 SC 2781, 61 LE2d 560) (1979). See also Trew v. State, 244 Ga. App. 76, 77-78 (1) (534 SE2d 804) (2000).
+OCGA § 16-6-5 (a).
+Jackson v. Virginia, supra.
+Glisson v. State, 181 Ga. App. 585 (1) (353 SE2d 202) (1987); see also Tew, supra at 78 (2).
+Duncan retained new counsel for trial.
+229 Ga. App. 544 (494 SE2d 368) (1997).
+(Citation and punctuation omitted.) Id. at 545 (1).
+Id. at 544 (1), citing Bridges v. State, 246 Ga. 323, 324 (2) (271 SE2d 471) (1980).
+See generally Turner v. State, 237 Ga. App. 642, 644 (3) (516 SE2d 343) (1999) (evidence of flight admissible to show consciousness of guilt; lapse of time between arrest and escape affected weight of evidence).
