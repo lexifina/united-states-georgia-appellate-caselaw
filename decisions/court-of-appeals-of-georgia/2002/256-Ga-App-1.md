@@ -1,0 +1,46 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "A02A0255"
+decided: "2002-06-19"
+citations: ["256 Ga. App. 1", "567 S.E.2d 345"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Andrews, P. J., and Phipps, J., concur."]
+parties: ["LEBBOS v. DAVIS et al."]
+source_url: "https://static.case.law/ga-app/256/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 679224
+cites_cases: ["151 Ga. App. 336", "232 Ga. App. 680", "240 Ga. App. 661", "251 Ga. 629", "259 SE2d 723", "261 Ga. 491", "262 Ga. 389", "308 SE2d 372"]
+---
+
+# Lebbos v. Davis
+
+## Majority (Mikell, Judge.)
+
+Mikell, Judge.
+In May 2000, Christopher R. Davis and Sheila T. Cavanagh filed a complaint for declaratory judgment against Betsey Warren Lebbos. Lebbos held a secondary security interest in certain DeKalb County property under a 1985 security deed securing a promissory note in the amount of $4,436.10 from a previous owner of the property, Kathryn E. Atha, to Lebbos. Davis and Cavanagh claim that Atha refinanced and paid her debt to Lebbos in 1987, but that Lebbos never cancelled the security deed, and that her failure to do so jeopardized their interest in the secured property. The trial court granted Davis and Cavanagh’s motion for summary judgment and ordered that the security deed be satisfied and cancelled of record. Lebbos appeals, and we affirm.
+To prevail on a motion for summary judgment, the moving party must demonstrate that there is no genuine issue of material fact, and that the undisputed facts, viewed in a light most favorable to the party opposing the motion, warrant judgment as a matter of law. Our review of a grant of summary judgment is de novo, and we view the evidence and all reasonable inferences drawn from it in the light most favorable to the nonmovant.
+In support of their motion for summary judgment, Davis and Cavanagh submitted Atha’s affidavit, in which she avers that “[a]s part of the Refinance, I, through my new second mortgage lender, Chrysler First Credit Corporation, . . . paid off of [sic] the Note and, thereby, satisfied the Security Deed held by Lebbos.” In response, Lebbos’s affidavit states that she has no independent recollection of receiving any payment from Atha and that she has no records concerning the transaction. But Lebbos does not deny that payment was made. Accordingly, the uncontroverted evidence is that Atha paid her debt to Lebbos but that Lebbos never cancelled the security deed. Pursuant to OCGA § 44-14-3 (b) (1), the holder of an instrument securing an indebtedness “shall cause to be furnished to the clerk of the superior court of the county or counties in which the instrument is recorded a legally sufficient satisfaction or cancellation to authorize and direct the clerk or clerks to cancel the instrument of record.” It follows that the trial court correctly ordered that the security deed be satisfied and cancelled of record.
+1. Lebbos’s arguments to the contrary have no merit. She first claims that the trial court lacked personal jurisdiction because she was not personally served. The record shows that the copy of the summons and complaint was left at Lebbos’s California address with “Jim Boyden, who is a cotenant.” The long arm statute allows service outside the state in the same manner as in Georgia for defendants who are subject to personal jurisdiction under the statute, and it applies to Lebbos as holder of a security deed to Georgia real property. Service may be made “to the defendant personally, or by leaving copies thereof at the defendant’s dwelling house or usual place of abode with some person of suitable age and discretion then residing therein.”
+In this case, the sworn return of service of process shows that Lebbos was served by leaving a copy of the summons and complaint with Boyden, who was a “competent member of the household, at least 18 years of age.” “When a defendant in a lawsuit challenges the sufficiency of service, he bears the burden of showing improper service. And this is a heavy burden. Return of service constitutes a prima facie showing of personal service. The defendant is apprised by the return of what he must contest.”
+Lebbos failed to satisfy this burden. The return of service shows that Boyden was personally served and that he was an adult cotenant at Lebbos’s residence. Further, the address listed on the return matches Lebbos’s California address. Lebbos denies being in California when the service was made and denies that anything was left at her usual place of abode. However, she makes no affirmative showing that the return of service was false. Accordingly, the trial court did not err in denying Lebbos’s motion to dismiss for lack of personal jurisdiction.
+2. Lebbos next contends that Davis and Cavanagh have no standing to sue because they allege no interest in the property or in the litigation. Standing to bring a declaratory action requires an actual controversy. Lebbos argues that Davis and Cavanagh have never clarified their specific status with respect to the property. The complaint states that the plaintiffs are “insecure as to the title and property rights in and to the Property” and that further conveyance of the property without judicial direction could “jeopardize the interest of Plaintiffs.” At the hearing on the motion for summary judgment, the attorney for Davis and Cavanagh represented to the trial court that his clients were former owners of the property, had sold it, and were in court to perfect marketable title. A grantor under OCGA § 44-14-3 includes a successor in title. We find Davis and Cavanagh showed an interest in the property sufficient to establish standing to sue for declaratory judgment.
+3. Lebbos maintains that the complaint failed to satisfy the requirements of OCGA § 44-14-3 (c.l). This subsection allows a grantor to cancel a secured indebtedness by recording an affidavit of the attorney that caused the indebtedness to be paid, and attaching the cancelled check showing the payment. The affidavit must also be mailed to the grantee. But the requirements of OCGA § 44-14-3 (c.l) are irrelevant because Davis and Cavanagh are not attempting to cancel the security deed through an attorney’s affidavit. The grantor’s right to have the security deed satisfied after the underlying debt is paid is independent of OCGA § 44-14-3 (c.l), which was added to the statute by a 1999 amendment.
+4. Lebbos farther claims that the trial court erred in “defaulting” her. This enumeration of error is not supported by argument, and we will consider it abandoned pursuant to Court of Appeals Rule 27 (c) (2).
+Decided June 19, 2002.
+Betsey W. Lebbos, pro se.
+Anderson & Anderson, Wade G. Anderson, for appellees.
+5. Lebbos next claims that material facts remain at issue because Davis and Cavanagh failed to show proof that Atha paid the note. Lebbos argues that Atha’s affidavit is hearsay and, therefore, is not competent evidence that the underlying debt associated with the security deed was satisfied. We disagree.
+Atha testified from personal knowledge that she refinanced the note through her second mortgage lender. That is not hearsay. But Lebbos argues that, although Atha thought she paid off the loan, she does not know if the mortgage company actually submitted payment to Lebbos. Nevertheless, the refinancing transaction indicates that Atha paid off Lebbos’s note. The burden of coming forward with evidence shifted to Lebbos to show that she never received payment, and Lebbos’s response that she does not recall receiving payment is not evidence that no payment was received. It follows that Davis and Cavanagh were entitled to summary judgment.
+6. Lebbos finally claims that the award of attorney fees and costs is error. But this claim presents nothing for review because the order granting summary judgment contains no award of attorney fees.
+Judgment affirmed.
+Andrews, P. J., and Phipps, J., concur.
+OCGA § 9-11-56 (c); Lau’s Corp. v. Haskins, 261 Ga. 491 (405 SE2d 474) (1991).
+Supchak v. Pruitt, 232 Ga. App. 680, 682 (503 SE2d 581) (1998).
+OCGA §§ 9-10-91 (4); 9-10-94. See Regante v. Reliable-Triple Cee of North Jersey, 251 Ga. 629, 630 (1) (308 SE2d 372) (1983).
+OCGA § 9-11-4 (e) (7).
+(Citations and punctuation omitted.) Baughan v. Alaoui, 240 Ga. App. 661, 663 (524 SE2d 536) (1999).
+See In re Doe, 262 Ga. 389, 390 (1) (418 SE2d 3) (1992).
+There is a handwritten order in the record denying Lebbos’s motion to dismiss, which notes that Lebbos did not appear at the hearing on the motion. Lebbos’s motion to dismiss was denied “on its merits.” The “handwritten memo” referred to by Lebbos is an order signed by the judge and filed by the clerk. Lebbos did not file a timely answer, and a default judgment was later orally granted by the trial court at the same time the trial court announced it would grant the plaintiffs’ motion for summary judgment. See OCGA § 9-11-55. But the trial court’s written order only provides for the grant of the motion for summary judgment, although it could be interpreted as including a default judgment, and the parties have briefed the appeal as one from an order granting summary judgment.
+See Cornett v. Manheim Svcs. Corp., 151 Ga. App. 336, 338 (259 SE2d 723) (1979).
