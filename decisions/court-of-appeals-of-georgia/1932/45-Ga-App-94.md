@@ -1,0 +1,30 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "21325"
+decided: "1932-03-02"
+citations: ["45 Ga. App. 94"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Jenkins, P. J., and Bell, J., eoneur."]
+parties: ["Thompson, executrix, v. Bank of Buckhead."]
+source_url: "https://static.case.law/ga-app/45/cases/0094-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1455626
+cites_cases: ["106 Ga. 485", "107 S. E. 373", "112 Ga. 476", "116 Ga. 762", "116 S. E. 32", "117 Ga. 81", "138 Ga. 473", "25 S. E. 470", "27 Ga. App. 60", "29 Ga. App. 459", "32 S. E. 599", "37 S. E. 733", "42 S. E. 1002", "43 L. R. A. (N.S.) 1028", "43 S. E. 416", "75 S. E. 588", "97 Ga. 126"]
+---
+
+# Thompson v. Bank of Buckhead
+
+## Majority (Stephens, J.)
+
+Stephens, J.
+1. An indorsement on a promissory note, made by a stranger to- the note, which provides that, for value received, he does “hereby guarantee the collection and payment of the within note” to the payee of the note, and “consent[s] to any extension of time of payment or any renewal of this note,” is not an indorsement passing title to the note to the person to whom the collection and payment are thereby guaranteed, but is a contract of suretyship or guaranty only; and where such contract is not under seal, although the note itself was executed by the maker under seal, the right of action upon the contract of suretyship or guaranty is barred by the statute of limitations after the expiration of six years from the date of the maturity of the note, in the absence of any agreement which would have the effect of extending the bar created by the statute. Sibley v. American Exchange National Bank, 97 Ga. 126 (25 S. E. 470) ; Ridley v. Hightower, 112 Ga. 476 (37 S. E. 733) ; Mitchell v. Graham, 27 Ga. App. 60 (107 S. E. 373). Where two notes so indorsed matured respectively November 1, 1922, and December 1, 1922, a suit to recover on the contracts of suretyship or guaranty, brought against the executrix of the surety or guarantor, by the payee of the notes to whom the surety or guarantor, by the contract guaranteed the payment and collection of the notes, which was brought in 1930, was brought after the expiration of six years from the dates of the maturity of the notes, and was as to them barred by the statute of limitations.
+2. The provision in the contract of suretyship or guaranty whereby the surety or guarantor consents to an extension of the time of payment or to the renewal of the note, has reference only to a contract of extension or renewal made by the holder or owner of the note with the maker, and has no reference to any contract of extension or renewal which may afterwards be made between the holder or owner of the note with the executrix of the surety or guarantor.
+3. A mere indulgence for a period, without a consideration, made by a creditor of an estate, to the executor, in payment of the debt of the testator, is not a contract of extension of payment or renewal. A mere request by the executor for such indulgence, which the creditor granted, constitutes no acknowledgment of the debt by the executor or a promise by the executor to pay the debt, and therefore does not extend the bar created by the statute of limitations. Civil Code (1910), §§ 4383, 4009. Where the debt arose out of a suretyship or guaranty on a note, a written statement by the executor of the debtor, that “the estate expects the other indorsers” on the note, to pay their proportionate share of the debt, is not an acknowledgment of, or a promise to .pay, the testator’s debt. Lambert v. Doyle, 117 Ga. 81 (43 S. E. 416) ; Rudolph v. Sellers, 106 Ga. 485 (32 S. E. 599).
+4. An indorsement on the back of a promissory note, made by the payee and owner of the note, which provides that, for value received, he does “hereby guarantee the collection and payment of the within note” to another person not a party to the note, to whom the note is transferred and delivered, is sufficient to pass the title to the note. Hendrix v. Bauhard, 138 Ga. 473 (75 S. E. 588, 43 L. R. A. (N.S.) 1028, Ann. Cas. 1913D, 688); Hooper v. Banh of Hiawassee, 29 Ga. App. 459 (116 S. E. 32). The period of limitation within which a suit may be brought upon such a contract of indorsement is the same as that applicable to a suit against the maker of the note, and where the note is executed by the maker under seal, a suit brought against the executrix of the indorser by the transferee to recover upon the contract of indorsement which was not executed under seal is not barred when brought within twenty years from the date of the maturity of the note. . Baldwin Fertilizer Co. v. Carmichael, 116 Ga. 762 (42 S. E. 1002). Where such a note matured November 1, 1921, a suit thereon brought in 1930 was brought within twenty years from the date of the maturity of the note, and was not barred by the statute of limitations.
+Decided March 2, 1932.
+W. D. Lanier, for plaintiff in error. Miles W. Lewis, contra:
+5. Where suit was brought in 1930 by the Bank of Buckhead against the executrix of the will of R. 1ST. Pirkle, who qualified as executrix on Sept. 4, 1922, to recover upon three contracts executed by him not under seal, upon the back of three promissory notes, guaranteeing their payment, each of which notes was executed under the seal of its maker, two of them payable to the bank in 1921 and 1922 respectively, and one to R. N. Pirkle, payable in 1921, the right of action as to the two notes payable to the Bank of Buckhead was barred by the statute of limitations. The right of action as to the note payable to R. N. Pirkle was not barred by the statute of limitations. The court erred in overruling the demurrer as to the two notes executed to the Bank of Buckhead upon the ground that the suit as to these two notes was barred by the statute of limitations; and did not err in overruling the demurrer as to the note executed to R. N. Pirkle.
+Judgment reversed in pwrt and affirmed in part.
+Jenkins, P. J., and Bell, J., eoneur.
