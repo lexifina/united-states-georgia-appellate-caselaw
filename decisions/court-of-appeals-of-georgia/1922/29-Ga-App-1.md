@@ -1,0 +1,24 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "13135"
+decided: "1922-07-24"
+citations: ["29 Ga. App. 1"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stephens, J., concurs."]
+parties: ["BUSSELL v. ALMA STATE BANK."]
+source_url: "https://static.case.law/ga-app/29/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1413712
+---
+
+# Bussell v. Alma State Bank
+
+## Majority (Jenkins, P. J.)
+
+Jenkins, P. J.
+The bank sued on a promissory note for $1,380 principal, dated June 7, 1919, due July 7, 1919, bearing 8 per cent, interest from maturity and providing for 10 per cent, attorney’s fees. This, was secured by a deed to certain land. The defendant admitted the execution of the note, but pleaded payment, and in support of his plea testified that in June, 1920, he made an agreement with the bank’s cashier to discharge the note and deed by giving a note for $1,000 and a new security deed, and paying in cash the $525 difference in the principal and interest; that he thereupon paid the cashier $150 in currency, with instruction to apply it upon the old note, and executed and delivered to him the note for $1,000 and a new deed; that about one month later he made a second payment, of $250 in cash/ with instruction to apply it on the old papers; and that some ten weeks later he drew a check for the $225.17 balance of principal and interest still. due on the old note, and sent it to the bank, and that within three or four days it was returned to him by the bank with the statement, “We are unable to accept this amount in full settlement of your $1,380 note, which is long past due.” The cashier of the bank, in his evidence, admitted that the agreement made was to allow the defendant to make a new note for $1,000 and. a new security deed, and to pay the difference in cash, but testified, that while the new papers had been mailed to the bank, they were never accepted or recorded or treated as part of its assets, but that since the defendant had never paid any part of the cash necessary to reduce the debt to $1,000, the new papers were placed in a basket for the defendant, to be returned to him, with the words “ refused ” written across, them, although for some reason these were overlooked and not mailed; and that the two alleged initial payments of $150 and $250, which the defendant claimed to have made to the bank to be applied on his debt, were in fact merely deposited with deposit slips to his personal account, on which he drew checks and which he applied to his own use. The original note for $1,380, remaining in the bank’s possession and sued on, and the original deed, and the new note and deed with the word “refused” written upon them, were introduced in evidence. The defendant himself testified, as to the two alleged initial cash payments, that he knew the bank had not applied them as he had instructed; that the bank had cashed a draft of $200 from part of ■ such proceeds to pay insurance for his benefit; that when he received his banking statement at the end of the month and found that the monies had not been applied to his former note, he drew out the $90 balance of such proceeds, although he subsequent^ added this sum into the check which he several weeks later mailed to the bank and which it refused and returned to him; and that he “ got the benefit and use” of this $400, which the bank had placed to his credit, although he had previously instructed its application upon his note. The defendant excepts to the direction of a verdict for the plaintiff.
+Tbe court did not err in directing the verdict in favor of the plaintiff. Even if the defendant’s testimony as to the terms of the original agreement with regard to the talking up of the original note, and as to his instructions to the bank to apply the two cash -amounts upon his old note, be fully accepted in lieu of the plaintiff’s denial of any such directions, it does not appear that the defendant ever complied with the conditions or terms of his agreement to pay in cash the difference between $1,525 and $1,000. On the contrary, it is shown by his own evidence that, with knowledge that the bank had.not applied the monies upon his note under the alleged agreement and instructions, but had deposited them to his individual cheeking account, he nevertheless accepted and received the benefit of such proceeds by check and draft, and withdrew the balance. Whatever the original agreement by way of a novation may have been, the defendant’s ratification of the bank’s disposition of the initial amounts delivered to it, by using the monies for other purposes and for his own benefit, prevented him from setting up the amounts thus used as payments to the bank under the original agreement.
+Judgment affirmed.
+Stephens, J., concurs.
