@@ -1,0 +1,22 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "5957"
+decided: "1915-09-09"
+citations: ["17 Ga. App. 4"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BROWN v. SEALS."]
+source_url: "https://static.case.law/ga-app/17/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1295335
+cites_cases: ["10 Ga. App. 572", "102 Ga. 516", "107 Ga. 728", "111 Ga. 875", "112 Ga. 152", "114 Ga. 85", "24 Ga. 418", "27 S. E. 663", "33 S. E. 705", "36 S. E. 960", "37 S. E. 186", "39 S. E. 939", "45 Ga. 300", "73 S. E. 854"]
+---
+
+# Brown v. Seals
+
+## Majority (Russell, C. J.)
+
+Russell, C. J.
+This is the third certiorari sued out in the same case by the plaintiff in error. The first certiorari was dismissed because, though the magistrate had not filed an answer, the petitioner in certiorari had failed to act and to invoke the aid of the court in requiring an answer to be filed. Upon this dismissal of the petition for certiorari the plaintiff made an abortive effort to sue out a second writ of certiorari, but the proceeding was void by reason of the fact that the petitioner failed to file the bond required by law or a pauper’s affidavit in lieu thereof. The present petition was filed more than six months after the dismissal of the original petition for certiorari, and consequently this proceeding is void, and the judgment of the trial judge in dismissing it will not be reversed, although the order of dismissal was granted before the term to which, by law, the petition was properly returnable, since, to constitute legal error, injury must concur with the error, and the error, if any, in dismissing the certiorari prematurely was not injurious to the plaintiff in error, because the certiorari would necessarily have been dismissed at the next term of the court. And too we think the rule under which it is held to be error to hear and determine a certiorari .before the term to which it is properly returnable (Brown v. Smith. 24 Ga. 418, Beall v. Bailey, 45 Ga. 300) has reference to valid petitions for certiorari, and has no application to a petition for certiorari upon which the writ, under the terms of section 4381 of the Civil Code, should not have issued.
+The plaintiff in error seems to have proceeded upon the theory that, the second certiorari, which was dismissed for the lack of a bond and security, having been sued out within six months from the dismissal of the first petition, a third petition for certiorari woidd be in order in renewal of the second petition, if sued out within six months from the dismissal of the second petition. It is very clear, however, that but one renewal is allowed by section 4.381 of the Civil Code, which provides that “If a plaintiff shall be nonsuited, or shall discontinue; or dismiss his case, and shall recommence within six months, such renewed case shall stand upon the same footing, as to limitation, with the original ease; but this privilege of dismissal and renewal shall be exercised only once under this clause.” The second certiorari, for the lack of a bond and security, or of a pauper’s affidavit in lieu thereof, was a nullity. Moon v. City of Jefferson, 10 Ga. App. 572 (73 S. E. 854), and citations; Hamilton v. Phenix Ins. Co., 107 Ga. 728 (33 S. E. 705); s. c. 111 Ga. 875 (36 S. E. 960); Stover v. Doyle, 114 Ga. 85 (39 S. E. 939). The pendency of the attempted second petition for certiorari did not suspend the statute of limitations, which required the certiorari to be renewed within six months. Carpenter v. Southern Railway Co., 112 Ga. 152 (37 S. E. 186); O’Keefe v. Cotton, 102 Ga. 516 (27 S. E. 663). The first certiorari was dismissed on September 19, 1913, and the petition now before us was filed April 18, 1914. Thus it lacked only one day of being seven months after the dismissal of the first certiorari when the present petition was filed, sanctioned, and the writ issued thereon. The second petition for certiorari, as stated above, must be treated as a nullity, and consequently the petition for certiorari now under consideration was filed nearly thirty days too late. But the petitioner’s condition would have been no better if the second petition for certiorari had been a valid proceeding, since a party dismissed or nonsuited is entitled to only on renewal of this cause. Judgment affirmed.
