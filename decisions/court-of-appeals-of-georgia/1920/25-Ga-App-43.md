@@ -1,0 +1,32 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "10720"
+decided: "1920-03-11"
+citations: ["25 Ga. App. 43"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stephens and Smith, JJ., concur."]
+parties: ["Atlanta Coca-Cola Bottling Co. v. Danneman."]
+source_url: "https://static.case.law/ga-app/25/cases/0043-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1400858
+cites_cases: ["10 Ga. App. 762", "117 Ga. 106", "119 Ga. 837", "124 Ga. 384", "17 Ga. App. 487", "43 S. E. 443", "47 S. E. 329", "52 S. E. 442", "68 S. E. 339", "7 Ga. App. 766", "73 S. E. 1087", "87 S. E. 720"]
+---
+
+# Atlanta Coca-Cola Bottling Co. v. Danneman
+
+## Majority (Jenkins, P. J.)
+
+Jenkins, P. J.
+1. An accident may arise from a mere casualty for which no one is to blame, or it may be brought about by the acts or conduct of persons other than the defendant charged with the duty of providing or maintaining the instrumentality causing the injury, or it may be occasioned by reason of the conduct of the defendant himself, or by the joint action of the plaintiff and defendant. Whenever the allegations of the petition, or the facts shown in support thereof, are such as might reasonably support the inference that the ' accident might have been thus occasioned, no presumption can arise that the accident was occasioned by negligence or by the particular acts or omissions charged against the defendant. Chenall v. Palmer Brick Co., 117 Ga. 106 (43 S. E. 443). But where the event is unusual and extraordinary in its nature, and there is nothing to indicate an external cause, but the peculiar character of the accident is sufficient within itself to indicate that it must have been brought about by negligence on the part of some one, and where the most reasonable and probable inference which can be rationally drawn from the happening of such an event is that it would not and could not have taken place had not the person charged with furnishing or maintaining the instrumentality causing the accident been guilty of the particular acts dr omissions set forth by the plaintiff as constituting the actual cause, then the jury is authorized to apply the rule of evidence known as the doctrine of res ipsa loquitur, in determining whether or not the accident must have been thus occasioned (Central Railway Co. v. Blackman, 7 Ga. App. 766 (5), 68 S. E. 339), and if the jury should decide that it had been thus brought about, and should further determine that such casual acts or omissions on the part of the defendant constituted negligence, then the plaintiff would be entitled to recover. Augusta Railway & Electric Co. v. Weekly, 124 Ga. 384 (2) (52 S. E. 442). The contention of plaintiff in error in this case, that the doctrine of res ipsa loquitur can not have application, unless, in the opinion of the jury, the circumstances are such as to exclude every other reasonable hypothesis as to the cause of the accident save the alleged negligence of the defendant, is met under the foregoing rule. Just as in civil cases facts are proved by a mere preponderance of evidence, so in the application of this doctrine, if in the opinion of the jury the most reasonable and most probable inference which can be drawn from the nature and character of such an extraordinary event is that it would not and could not have happened had not the defendant been guilty of the particular conduct charged, then there has been an exclusion in their minds of every other reasonable hypothesis, not by evidence, but by virtue of the peculiar nature and character of the event speaking for itself.
+2. Where an action is brought to recover damages for an injury resulting in the loss of an eye, caused by the explosion of a bottle, the contents of which had been bottled and sold by the defendant as a harmless beverage, and where it is alleged and shown that the bottle had been properly handled in the usual and customary way after it left the defendant’s hands, and that it was not subjected to any unusual atmo? phoric condition, the jury would be authorized to apply the rule of evidence known as the doctrine of res ipsa loquitur in establishing the allegation's of negligence charged against the defendant as constituting the cause of the accident, to the effect that the bottle was too highly and dangerously charged with gas, and that the bottle used and furnished by the defendant was of inferior material, and for that reason unable to withstand the pressure of the gas. Payne v. Rome Coca-Cola Co., 10 Ga. App. 762; (73 S. E. 1087) ; Commerce Bottling Co. v. Farabee, 17 Ga. App. 487 (87 S. E. 720).
+3. Where the defendant undertakes to exonerate itself from the blame which the jury is thus authorized to infer, by showing to their satisfaction that the defendant had exercised on its part all the diligence which the law required of it (Palmer Brick Co. v. Chenall, 119 Ga. 837, 842, 47 S. E. 329), in that the bottle had been skilfully and properly charged in accordance with the most approved and scientific process, and that the bottle furnished to the plaintiff did not disclose any inherent defect or weakness, and had been purchased as a sound and suitable article from a reputable dealer, but where the evidence of the defendant entirely fails to thus account for the particular bottle causing the accident, and on the contrary it appears ■ that the bottle had not been thus purchased by the defendant from a reputable dealer, and Was in fact a refilled bottle originally purchased by some other bottling concern from persons unknown to the defendant, then, under the particular facts as thus disclosed, it can not be said that the defense sought to be interposed has been established.
+Decided March 11, 1920.
+Action for damages; from city court of Atlanta — Judge Eeid. June 14, 1919.
+Candler, Thomson & Hirsch, for plaintiff in error.
+Westmoreland, Anderson & Smith, Dorsey, Shelton & Dorsey, L. J. Grossman, contra.
+4. Under the state of facts testified to, the plaintiff in this case was not dependent upon the application of the doctrine res ipsa loquitur in order to establish his case, since there was direct proof going to show the defective character of the bottle.
+5. There was no substantial error in the charge of the court, which fairly and correctly submitted the issues in accordance with the rules of law above indicated.
+Judgment affirmed.
+Stephens and Smith, JJ., concur.
