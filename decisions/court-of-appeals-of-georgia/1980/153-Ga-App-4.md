@@ -1,0 +1,37 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "58954"
+decided: "1980-01-08"
+citations: ["153 Ga. App. 4"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Banke and Birdsong, JJ., concur."]
+parties: ["THOMPSON v. BRANNEN BUILDING SUPPLY."]
+source_url: "https://static.case.law/ga-app/153/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 812363
+cites_cases: ["111 Ga. 518", "119 Ga. 30", "121 Ga. 239", "124 Ga. 884", "139 Ga. App. 216", "159 SE 567", "173 Ga. 35", "228 SE2d 203", "36 SE 669", "46 SE 62", "48 SE 948", "53 SE 761"]
+---
+
+# Thompson v. Brannen Building Supply
+
+## Majority (McMukray, Presiding Judge.)
+
+McMukray, Presiding Judge.
+In February, 1978, Cammie W. Thompson contracted with one Bobby Clayton to construct a dwelling on her real property in Bulloch County, Georgia, at a cost of $21,000. Clayton partly performed his contract but abandoned the same, and it became necessary for Cammie Thompson to hire additional labor and purchase additional materials to finish the abandoned contract. The exact date that Clayton failed to complete the contract and abandoned it is not known but between March 24, 1978, and April 14, 1978, Cammie W. Thompson advanced him the sum of $13,500. Cammie Thompson contends that the total amount paid for the completion of the contract amounted to $20,803.03 (including the $13,500 advanced).
+On April 27,1978, Brannen Building Supply claimed a materialman’s lien against the property in the amount of $3,323.48 on the house and premises or real estate on which it is erected of Cammie W. Thompson, contending said lien is "for satisfaction of a claim which became due on April 27, 1978, for materials furnished by said materialman for improvement of said premises.” This lien was filed on May 29, 1978.
+Brannen Building Supply then sued Bobby Clayton and obtained a default judgment against him dated July 28, 1978, in the sum of $3,323.48.
+On September 12, 1978, Brannen Building Supply filed a complaint against Cammie W. Thompson to foreclose the lien, that is, "seeking a special judgment giving it a lien against the aforesaid real estate of Defendant for $3,323.48, plus interest and costs” based upon the materials furnished Bobby Clayton in the improvement of the property. Plaintiff contends the last date that the plaintiff furnished materials was April 27, 1978. Plaintiff alleged therein that it had received judgment against Clayton for the sum of $3,323.48 on June 5, 1978.
+Defendant was served on September 12, 1978, and thereafter filed her answer admitting only jurisdiction of the court and denying the claim against her. In response to interrogatories, she admitted the existence of the contract as being an oral one for the construction of a house on the property in Portal, Georgia, for $21,000, the payments made to Bobby Clayton from March 24,1978, to April 14, 1978, by check, the total sum being $13,500. She also testified by interrogatory that the last day she saw or had any contact with Clayton was April 14,1978, and that he had not signed an affidavit verifying that all materials and labor furnished in the improvement of the property had been paid. She further answered by interrogatory that the only materials that she had knowledge that the plaintiff had furnished for improvement of her property were for "panelling.”
+Plaintiff moved for summary judgment on May 8, 1979, based upon an affidavit of the owner that during the period March 30,1978, through April 27,1978, Brannen Building Supply had furnished materials to Clayton for use in the construction of a house on the property of Cammie W. Thompson in Portal, Georgia, in the sum of $3,298.11, as the agreed price for said materials and the materials as set forth in an exhibit attached "were used for improvements to the aforesaid premises of Cammie W. Thompson.” Cammie W. Thompson responded by affidavit admitting in general the above facts. Summary judgment was granted to the plaintiff in the amount of $3,298.11, to be made a special lien against the real property of the defendant. Defendant appeals. Held:
+1. Under Code Ann. § 67-2001 (2) (Ga. L. 1956, pp. 185, 187; 1956, pp. 562, 565), the lien given by this Code section attaches to the real estate improved unless the lien is released in one of the ways set forth in sub-paragraph (2), provided "that in no event shall the aggregate amount of liens set up hereby exceed the contract price of the improvements made.”
+2. Generally, where a contractor abandons his contract the cost in completing the work is to be deducted from the contract price in order to ascertain the amount up to which mechanics and materialmen may claim liens. If such deductions, together with payments previously made to the contractor, equal or exceed the entire contract price, then of course the mechanics and materialmen have no lien, since there is nothing due under the contract. Hunnicutt & Bellingrath Co. v. Van Hoose, 111 Ga. 518(2), 527 (36 SE 669); Rowell v. Harris, 121 Ga. 239, 240 (48 SE 948); Prince v. Neal-Millard Co., 124 Ga. 884 (53 SE 761); Young v. Harley-Mitchell Hardware Co., 173 Ga. 35 (159 SE 567); E. Smith Heating & Air Conditioning, Inc. v. Biggers, 139 Ga. App. 216, 217 (1) (228 SE2d 203).
+3. Plaintiff as materialman argues that it is entitled to summary judgment based upon earlier decisions which hold that the owner of the property improved by a contractor "is bound to see that money paid by him to the contractor is applied to claims for material or labor unpaid at the date of the payment to the contractor, or else he will be liable for such claims in the event the contractor fails to pay them.” Green v. Farrar Lumber Co., 119 Ga. 30 (46 SE 62); Prince v. Neal-Millard Co., 124 Ga. 884 (2), supra. However, in the Green v. Farrar Lumber Co. case, supra, the law laid down recites that "[W]hen no claims of lien have been filed, the materialmen and laborers may be paid in such order as the contractor determines. If a claim of lien has been filed and recorded, then the owner must see that such materialman or laborer is satisfied out of the money paid by him to the contractor, or he will be held liable for the amount in the event, upon suit brought, it should be determined that the claim was valid. The owner is not in any event required to pay more than the contract price of the improvement to materialmen and laborers, but it is incumbent upon him to see that payments to the contractor are, to the full amount of the contract price, appropriated to materialmen and laborers, if there are valid claims to this extent.”
+4. Here the defendant admits that she has not paid out the entire amount of the contract price as the cost of completing the work was less than $21,000. Under the authority of E. Smith Heating & Air Conditioning, Inc. v. Biggers, 139 Ga. App. 216, 217 (1), supra, plaintiff is entitled to a lien for the balance due on the contract up to $21,000 but plaintiff cannot enforce its lien for the amount already "previously paid to the contractor” plus "the cost of completion.” The $13,500 advanced to the contractor was paid prior to the filing of the claim of lién. Accordingly, plaintiff is entitled to a lien against the property but not to the sum of $3,298.11 as awarded.
+Submitted October 31, 1979
+Decided January 8, 1980.
+John R. Turner, for appellant.
+R. Kenny Stone, for appellee.
+Judgment reversed.
+Banke and Birdsong, JJ., concur.
