@@ -1,0 +1,30 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "22267"
+decided: "1932-11-19"
+citations: ["46 Ga. App. 82"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Stephens and Sutton, JJ., concur."]
+parties: ["Fite v. Thweatt."]
+source_url: "https://static.case.law/ga-app/46/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1458035
+cites_cases: ["105 S. E. 650", "106 Ga. 422", "109 S. E. 676", "26 Ga. App. 133", "27 Ga. App. 686", "32 S. E. 343", "6 Ga. App. 9", "64 S. E. 116", "71 S. E. 691", "9 Ga. App. 371"]
+---
+
+# Fite v. Thweatt
+
+## Majority (Jenkins, P. J.)
+
+Jenkins, P. J.
+The plaintiff held two notes against the defendant, secured by security deed to a farm and to a ginnery. These properties were sold under a power of sale, and the proceeds applied on the notes. This is a suit for the combined deficiencies in the proceeds of the sale. The defendant filed an answer, which, as amended, set up three grounds of defense: 1. That certain payments had been made on the note, for which no credit had been given. The plaintiff, by amendment, allowed all the credits claimed, and therefore this ground of defense became eliminated. 2. That the suit was brought prematurely, in that, just prior to the year 1931 and before the defendant entered upon farming operations on the land mentioned, involving expenses and advances, he procured from the plaintiff’s authorized agent assurance that no action would be taken towards enforcing the obligations during the year 1931; that relying upon such assurance he did incur expenses and obligations, and that consequently the maturity of the notes was extended until the end of the year 1931. 3. That upon the commencement of the proceeding for the sale of the premises involved, during the year 1931, the defendant went to the plaintiff’s authorized agent and requested that the two properties involved be accepted for the debts which they secured, with the exception of a certain portion which he proposed be excepted and defendant be permitted to retain. It is alleged that plaintiff’s agent went with the defendant to look at the portion of the property which defendant asked to retain, and “later stated that this allowance was too much, and suggested that they postpone any definite agreement' as to the property to be deducted and allowed defendant in the settlement until after the sale. The plaintiff’s said agent stated that if defendant would allow the sale to proceed as advertised and not interfere with the sale in any way, said agent would make such arrangements as would satisfy the defendant after the sale. The plaintiff’s said agent knew that defendant understood and construed this agreement to mean that he would not be expected to make up or be responsible for any difference or deficiency between the price the property might bring at the sale and the debt.” The amendment goes on to show that by reason of such agreement the defendant did not enjoin the sale or attend the sale, and consequently made no effort to see that the property brought the amount represented by the debt. The court sustained a demurrer to the answer, and judgment was rendered in favor of the plaintiff for the balance due on the notes; and the defendant excepted. Beld:
+1. Irrespective of any question as to the defectiveness of defendant’s pleadings as to the second ground of defense with respect to just what cost, risk, or expense was incurred by the defendant by reason of the alleged extension of the notes, any unexcused failure of the defendant to prevent the sale would operate to eliminate his defense upon that ground. If, however, the failure of the defendant to enjoin the sale of the property was excused by any act or conduct on the part of the plaintiff, the rule just set forth would not obtain.
+2. Irrespective of whether the pleadings set forth with sufficient particularity just what cost, risk, and expense were incurred by the defendant in proceeding with his farming operations, relying upon the alleged extension, so as to render it good as against special demurrer (Ripley v. Eady, 106 Ga. 422, 424, 32 S. E. 343; McSwain v. Edge, 6 Ga. App. 9, 11, 64 S. E. 116; Wrightsville & Tennille R. Co. v. Vaughan, 9 Ga. App. 371 (2), 71 S. E. 691), it set forth sufficient facts to indicate that the defendant had relied upon such extension, and that it amounted to a bona fide consideration for the alleged agreement set forth in the third ground of defense. See, in this connection, LeBron v. Stewart, 26 Ga. App. 133 (2) (105 S. E. 650); Riley v. London Guaranty &c. Co., 27 Ga. App. 686 (109 S. E. 676).
+3. If, as set forth in substance by the amfended plea, the plaintiff had impliedly agreed at least to accept, in full extinguishment of the two notes, the property securing them, and the only question unsettled was what, if anything, the plaintiff would allow the defendant to retain as his own therefrom, the defendant had the right to rely upon such alleged assurance and permit the sale to proceed despite his contention that it was prematurely instituted, and without risk to himself in failing to attend the sale in order to make the property bring the amount of the indebtedness, on the theory that such an assurance amounted to a contract and agreement that the plaintiff would at the least accept the property in satisfaction of the amount owing under the two notes. Moreover, if the language employed in the defendant’s plea did not in and of itself import the meaning just indicated, it is further alleged by the plea that the plaintiff knew that the defendant placed such meaning on the contract. See Civil Code (1910), § 4267.
+Decided November 19, 1932.
+E. S. Ault, for plaintiff in error.
+John K. Davis, William H. Trawiclc, contra.
+4. Under the foregoing rulings, the court erred in striking the answer, and in thereafter permitting verdict and judgment to be entered in favor of the plaintiff. Judgment reversed.
+Stephens and Sutton, JJ., concur.
