@@ -1,0 +1,29 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "37167"
+decided: "1958-07-16"
+citations: ["98 Ga. App. 39"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Quillian and Nichols, JJ., concur."]
+parties: ["BRAMLETT v. HULSEY."]
+source_url: "https://static.case.law/ga-app/98/cases/0039-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1583594
+---
+
+# Bramlett v. Hulsey
+
+## Majority (Felton, Chief Judge.)
+
+Felton, Chief Judge.
+There is no merit in the exception to the denial of the motion for a new trial on the general grounds nor in the exception to the denial of the motion for a judgment notwithstanding the verdict. The defendant contends as to these matters that the plaintiff was not entitled to recover because she was an employee at the time of the occurrence and that she had assumed the risk of injury to lierself and was barred by her contributory negligence. The evidence does not show that the plaintiff was an employee of the defendant in standing upon the running board of the truck. She was not required to do it under the contract of employment to pick cotton even if transportation to and from the cotton field was included in the contract of employment. The plaintiff was not required under the terms of her' employment to accede to the request of the defendant to stand upon the running board of the truck. The most that can be said about it is that the plaintiff acted at the defendant’s request and, under the circumstances, was doing an act beneficial both to herself and to the defendant. It is true that the plaintiff stated that she knew that a “lunge” was necessary in order to get the truck out of the ditch, but we do not think that such knowledge would bar the plaintiff inasmuch as no warning was given to her as to the time when such “lunge” would take place. The plaintiff may have been guilty of some negligence even in complying with the request of the defendant, but this court cannot say as a matter of law that the plaintiff was more negligent than the defendant or that her negligence was so great as to bar her recovery.
+There is no merit in special ground 4 of the amended motion for new trial which assigns error on the denial of defendant’s motion for mistrial based on the ground that the plaintiff’s attorney elicited the fact that the defendant carried insurance. On oral argument of this case it was conceded by counsel for both sides that the jury was qualified with reference to insurance and in view of this fact and of the fact that the court instructed the jury to disregard the matter complained of, we do not see how the additional reference to insurance could have been harmful.
+There is no merit in special ground 5 of the amended motion for new trial which assigns error on the court’s charge in which he instructed the jury relative to the violation of a State statute and by defining negligence per se. The only point the plaintiff in error seeks to' make is that the evidence did not authorize the charges with reference to the violations of the statutes set forth in the petition for the reason that there was no evidence that the truck at the time of the alleged injuries was in the public road. The direct and circumstantial evidence authorized the finding that the truck was being operated in the public road at the time the plaintiff contends she was injui'ed.
+Special ground 6 of the amended motion for new trial is without merit for the same reason stated in the foregoing division. In addition there is no merit in the ground based on the contention that there was no evidence to show at what rate of speed the defendant’s vehicle was being driven at the time of the injury.
+Special ground 7 of the amended motion for-new trial complains of the following charge to the jury: “I charge you, gentlemen, that no person shall start a vehicle which is stopped, standing, or parked, unless and until such movement can be made with reasonable safety.” The complaint is that there was no evidence that the alleged “lunge” of the truck which allegedly caused the injury was made at a time when the truck was stopped, standing or parked, and authorized the jury to make a finding of fact not authorized by the evidence.
+With reference to when the truck lunged, the plaintiff testified in part: “Q. After you stood on the running board, would you describe for us what Mr. Bramlett did then? A. He just went around and got in the truck, and he just mashed on his gas, just made a kind of lunge, and we started to go up into the road. Q. What happened to you as he started the truck into motion? A. It just jerked my grip loose, I couldn’t hold, and I fell off. Q. Did Bramlett give you any warning that he was going to lunge the truck forward as you have stated? A. No, sir. Q. Did the truck begin its motion slowly, or did it suddenly move away from its position? A. He just kind of started off slow when he first started. Q. How did the motion continue after that? A. Then he just made a lunge there. Q. Did the motion of the truck change after he started easing it off? A. You see, he made that quick lunge and he went on up into the road.” The jury could have interpreted this testimony to mean that the truck moved slowly at first and then lunged and jerked the plaintiff’s grip loose from the truck and that as a result she fell; that this movement of the truck was all a part of starting. Starting a vehicle is not confined to one or two turns of the wheels. There was sufficient evidence to warrant the charge excepted to.
+The court did not err in denying the motion for new trial as amended and did not err in denying the motion for judgment notwithstanding the verdict.
+Judgment affirmed.
+Quillian and Nichols, JJ., concur.
