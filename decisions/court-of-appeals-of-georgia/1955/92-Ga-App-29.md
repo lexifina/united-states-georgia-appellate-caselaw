@@ -1,0 +1,28 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "35652"
+decided: "1955-05-03"
+citations: ["92 Ga. App. 29"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Quillian and Nichols, JJ., concur."]
+parties: ["RUMPH v. RISTER et al."]
+source_url: "https://static.case.law/ga-app/92/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1570224
+cites_cases: ["122 Ga. 458", "210 Ga. 679", "211 Ga. 312", "50 S. E. 402", "56 S. E. 2d 168", "80 Ga. App. 356", "82 S. E. 2d 508", "85 S. E. 2d 768"]
+---
+
+# Rumph v. Rister
+
+## Majority (Felton, C. J.)
+
+Felton, C. J.
+The fact that the petitioners in the court below paid the costs and marked the case dismissed on the back of the petition did not deprive the court of jurisdiction to pass on the question raised by the defendant’s pleading seeking to have the $800 tendered paid to him, since the pleadings were filed and nisi was issued thereon prior to the time of the effort to dismiss the case. The motion to dismiss the writ of error is denied.
+The transfer of this case to this court is conclusive as to the jurisdiction of this court. Rumph v. Rister, 211 Ga. 312 (85 S. E. 2d 768). Under the facts of this case, the fund of $800 tendered into court by the petitioners is considered to have been in the registry of the court just as much as if it had been deposited with the clerk. The attorneys for the petitioners were officers of the court and were directed to hold the money for the court. The order of court dismissing the case and ordering the money returned to the petitioners is the principal matter for consideration.
+The court did not err in dismissing the action and in permitting the petitioners to take down the money tendered into court. Whatever may be the rule as to the right of a party making a tender' into court to withdraw the tender under other circumstances, such a party does have the right of withdrawal where the money is tendered or deposited as a necessary incident to his obtaining affirmative equitable relief. 52 Am. Jur. 248, § 47; 26 R. C. L. 656. In this case it was necessary for the petitioners to put the defendant in the same position he was before the contract was entered into and to do this it was necessary for them to tender into court the amount paid on the purchase price by the defendant, since he had declined the actual tender by the petitioners. Code § 20-907; Lytle v. Scottish American Mortg. Co., 122 Ga. 458, 459 (10) (50 S. E. 402); Milam v. Gray, 80 Ga. App. 356 (3) (56 S. E. 2d 168). If the amendment of the petition after the Supreme Court decision did not meet the court’s decision, the action was in effect dismissed by the Supreme Court, in which event the right to withdraw the tender accrued to the benefit of petitioners, as the tender was part and parcel of the action. If the amendment aided the original petition and a cause of action for rescission was set forth, the petitioners had a right to voluntarily dismiss the action and take down the tender. If the second amendment to the petition set forth only a cause of action for damages and rental value, the tender was not essential to such a cause of action and it could be withdrawn, for the reason that it will be presumed, under the facts here, that the tender was made for the purposes of enforcing a rescission and not as a prerequisite to an action for damages.
+There is only one possible reason we can conceive of why the petitioners might not be permitted to withdraw the tender. These facts are not stated in the statement of the case, as we desired to treat this matter separately. There was a prayer for restraint and injunction against the defendant’s interfering with petitioners’ possession of the premises. The court granted such a restraining order in default of the posting of a bond by the defendant to cover damages which might be found against him. Being unable or unwilling to post the bond, the defendant surrendered possession of the premises to the petitioners. The defendant procured possession of the premises by the grace and leave of the petitioners before he executed the final papers covering the sale. He was not otherwise entitled to possession, and before he executed the papers the premises were demanded and he refused to deliver possession. The defendant made only one contention as to why he was justified in not signing the papers as insisted on by the petitioners and why he was justified in remaining in possession of the premises, and that contention was that the contract of sale provided that he owed only $3 interest on every instalment note rather than interest on the entire unpaid balances. In the Supreme Court ruling (Rumph v. Rister, 210 Ga. 679, 82 S. E. 2d 508), the court decided that question against the defendant, so he was not left with a leg to stand on so far as his only contention was concerned. The effect of the decision was that the petitioners’ action for rescission (and damages) was fatally defective, and that the defendant was not entitled to possession of the property and was not justified in his contention aforesaid. Under these circumstances, it cannot be. said that, since the petitioners obtained possession of the premises by virtue of the action, it would be inequitable and unjust to permit them to dismiss their action and withdraw the tender.
+The court did not err in dismissing the action on motion of the petitioners and in permitting them to withdraw the $800 tendered into court.
+Judgment affirmed.
+Quillian and Nichols, JJ., concur.
