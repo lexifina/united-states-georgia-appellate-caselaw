@@ -1,0 +1,25 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "2090"
+decided: "1909-12-10"
+citations: ["7 Ga. App. 180"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FINDLEY v. CENTRAL OF GEORGIA RAILWAY CO."]
+source_url: "https://static.case.law/ga-app/7/cases/0180-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 614031
+cites_cases: ["112 Ga. 368", "128 Ga. 606", "2 Ga.. App. 479", "4 Ga. App. 522", "5 Ga. App. 584", "50 S. E. 121", "55 S. E. 689", "57 S. E. 879", "61 S. E. 1133", "63 S. E. 650"]
+---
+
+# Findley v. Central of Georgia Railway Co.
+
+## Majority (Powell, J.)
+
+Powell, J.
+The petition alleged that the plaintiff was a passenger on the train of the defendant company; and when she arrived at her destination, a small station in Bulloch county, between Savannah and Dublin, and when the train had stopped for that station, she prepared to leave the train, and "your petitioner was stepping off the said train upon the ground in the act of alighting, when said train suddenly jerked forward, throwing petitioner from, the steps of said train upon the hard ground, then and there wounding her,” etc. The trial resulted in the direction of a verdict for the defendant. The motion to direct the verdict was based on tw.o grounds: that there was a variance between the petition and. the proof, and that the plaintiff was guilty of contributory negli- ’ gence.
+The direction of a verdict is not the proper disposition of the case where there is a variance between the petition and the proof; there should be a nonsuit. Proctor & Gamble Co. v. Blakely Oil Co., 128 Ga. 606 (57 S. E. 879); Caudell v. Southern Ry. Co., 2 Ga.. App. 479 (55 S. E. 689); Murphy v. Ga. Ry. & El. Co., 4 Ga. App. 522 (61 S. E. 1133); Gay v. Peak, 5 Ga. App. 584 (63 S. E. 650).
+Further, we do not see that there was a material variance.- It is said, that the petition alleges that she was jerked off the step of the car, while she testified that she jumped off. The facts as disclosed by the testimony (taking them favorably to the plaintiff, as we must do in reviewing nonsuit or direction of verdict for the defendant) are these: The plaintiff, a lady sixty years old, was descending the car steps, with her son in front of her and her daughter behind her; as she reached the bottom step, she perceived that the train, which had stopped, was beginning to move again. To quote from her testimony: “If this train was moving before I got out on the steps I did not know it — I did not feel any train move. . . The train \yas moving when I fell off. I don’t think it was moving until I got on the steps and I could not get back. When I got to the bottom step I felt it go forward, and I was so far gone I could not get back. I got myself in position where I had to jump off or fall off. .. . I put my right foot down, but it moved so fast there I had to jump as far as I could to get away from the train. The train moved just as I got on the steps.” In another place in the testimony she speaks of the train as giving that “kind of a jerk” which it generally does when it starts off, and of this as putting her in the falling attitude from which she relieved herself only by making a jump.
+An ordinary person seeing what happened, if the statement of the old lady is true, would most likely have described it by saying that the train suddenly started or jerked forward while she was alighting, and threw her to the ground. The fact that after the unexpected movement of the train had caused her to lose her equilibrium, and it was a question of whether she should fall on her head or her body, or her feet, she went through the motion of jumping so as to sustain the fall on her feet instead of elsewhere, does not make it any the less true that she was thrown off. If one will examine the long list of definitions and usages of the verb “throw,” as contained in the Century Dictionary, it will seem plain that there is little or no verbal inaccuracy in describing such a situation by saying that the old lady was “thrown off” by the sudden movement of the car. It is not required that the correspondence between the pleading and the proof shall be literal or to absolute verbal nicety; it is sufficient if there is a reasonable and substantial correspondence.
+To sustain the direction of the verdict on the theory that the plaintiff was guilty of contributory negligence in jumping, counsel for defendant in error cites Walker v. Ga. Ry. & El. Co., 112 Ga. 368 (50 S. E. 121). The two cases — that one and the one at bar —are wholly different. There, without emergency or other excuse, through mere temporary haste or convenience, the plaintiff, a man, jumped off a rapidly moving car. Here the plaintiff, an old woman, in order to avoid the more serious consequences of falling from the bottom step, being unable to get back up on the platform, attempted to protect herself by stepping forward from a very slowly moving car. It will not do to say that this conclusively shows a case of contributory negligence. Judgment reversed.
