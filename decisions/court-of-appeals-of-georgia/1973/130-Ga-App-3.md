@@ -1,0 +1,32 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "48638"
+decided: "1973-10-15"
+citations: ["130 Ga. App. 3"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Quillian J., concurs. Bell, C. J., concurs in the judgment only."]
+parties: ["SCHNEIDER v. THE STATE."]
+source_url: "https://static.case.law/ga-app/130/cases/0003-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 746391
+cites_cases: ["1 ALR3d 1205", "128 Ga. App. 157", "195 SE2d 772", "378 U. S. 368", "385 U. S. 538", "84 SC 1774", "87 SC 639"]
+---
+
+# Schneider v. State
+
+## Majority (Deen, Judge.)
+
+Deen, Judge.
+Where (1) the defendant in a criminal case contends that a confession sought to be introduced in evidence by the state was obtained as a result of coercion, and (2) the testimony on the point is in conflict, and (3) the judge leaves the question of voluntariness or coercion to the jury without making a preliminary finding that the confession was in fact voluntary, the defendant’s Fourteenth Amendment rights have been violated. Sims v. Georgia, 385 U. S. 538 (87 SC 639, 17 LE2d 593). In such event, the case must be returned to the trial court, and the trial judge must hold a hearing to determine whether the confession was voluntary; in the absence of such hearing, or in the event the judge finds that the confession was coerced, the verdict will be set aside. See Hilliard v. State, 128 Ga. App. 157 (8) (195 SE2d 772). That this was exactly the ruling in Jackson v. Denno, 378 U. S. 368 (84 SC 1774, 12 LE2d 908, 1 ALR3d 1205) is shown by the dissent of Justice Black at page 409, where he states: "The Court, instead of reversing for an entire new trial, gives New York a reasonable time for a judge to hold a new hearing, including the taking of new testimony, to determine whether the confession was voluntary . . . I. . . agreed with my Brother Clark that what Jackson is entitled to is a complete new trial.”
+2. It is to be observed that in both the Sims and Jackson cases there was some evidence which, at the time the confession was admitted in evidence, would have authorized the trial judge, had he exercised his discretion in that direction, to rule that the confession was coerced. In the present case, prior to the admission of the defendant’s confession in evidence, a detective testified that the defendant had voluntarily given him a "statement” which the defendant had himself written out on a typewriter available in the office. At this point the defendant’s counsel indicated he had a motion, the judge sent the jury outside; counsel moved for a mistrial on the ground the defendant’s Jackson v. Denno right had been violated, the judge stated that neither he nor the jury had been apprised of the contents of the "statement” at this point and the defendant could proceed with a Jackson v. Denno hearing in the absence of the jury if he wished to; the defendant offered nothing, and the court then recalled the jury, allowed the confession to be admitted in evidence, and later instructed them that they were to determine whether it had been voluntarily made, and, if so, what weight to ascribe to it, but if not they were to reject it.
+The defendant was convicted; a motion for new trial was presented, one of the grounds of which was that the court had not made an initial independent determination of voluntariness prior to admitting the confession (in effect, that he had followed the old New York rule which the Supreme Court ruled unconstitutional in Jackson v. Denno rather than the Massachusetts rule which it indicated constituted a sufficient protection of these fair trial rights) and the court then called for a new hearing on the question. Again the defendant failed to offer any evidence whatever that the confession had been coerced. The court then ruled that the confession was voluntary and denied the motion for new trial.
+3. In effect, the trial court at the hearing on the motion for new trial did exactly what this court in Hilliard v. State, 128 Ga. App. 157, supra, ruled would be necessary to prevent a reversal of the case. We need not, however, decide the effect of this untimely procedure, since no reversible error was committed. Prior to indicating that it had a confession, and prior to divulging its contents, the state did elicit testimony that it was in possession of a "statement” which was "voluntarily” given by the defendant. The jury was then excused, and the court did offer the defendant’s counsel a "Jackson v. Denno hearing,” in other words, the right of the defendant to offer testimony out of the presence of the jury which would give the court some basis for ruling one way or another. No such evidence was offered. It was thus established that there was no contention (other than the mere pleading of the motion to suppress) that it was not in fact voluntary. The court’s offer to receive evidence on this matter, and his ruling that the paper was admissible when no such evidence was forthcoming, amounts "with unmistakable clarity” (as stated in Sims v. Georgia, supra, page 544) to a showing that he had concluded the confession was voluntary. The distinction is that in the former cases there was conflicting evidence; in this case the opportunity was made available and no such evidence was offered, and the court as a matter of fact would have had nothing upon which to rest a contrary ruling.
+The rule may be stated as follows: Where the state seeks to offer a confession in evidence, the court must offer the defendant a hearing, out of the presence of the jury and before the confession is introduced or its contents made known, to show any facts which would contradict the state’s prima facie proof that it was voluntary. If such evidence is offered, the judge must rule whether he will refuse the confession, or whether he will admit it in evidence along with such evidence to the contrary as the defendant properly offers thus leaving the final questions of (a) lack of coercion and (b) credibility to them. Where the opportunity is offered and no evidence attacking the veracity of the confession is produced, it is properly admitted.
+Submitted October 1, 1973
+Decided October 15, 1973.
+Stanley P. Herndon, for appellant.
+Lewis R. Slaton, District Attorney, Richard E. Hicks, Morris H. Rosenberg, Carter Goode, for appellee.
+Judgment affirmed.
+Quillian J., concurs. Bell, C. J., concurs in the judgment only.
