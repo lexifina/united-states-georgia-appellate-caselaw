@@ -1,0 +1,33 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "36694"
+decided: "1957-06-17"
+citations: ["96 Ga. App. 84"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gardner, P. J., and Carlisle, J., concur."]
+parties: ["JOHNSON v. JOHNSON."]
+source_url: "https://static.case.law/ga-app/96/cases/0084-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1579434
+cites_cases: ["112 Ga. 111", "125 S. E. 885", "127 Ga. 633", "129 Ga. 50", "132 S. E. 85", "153 S. E. 203", "161 Ga. 867", "206 Ga. 505", "206 Ga. 588", "213 Ga. 28", "33 Ga. App. 259", "37 S. E. 132", "41 Ga. App. 394", "5 S. E. 2d 399", "56 S. E. 1011", "57 S. E. 2d 677", "57 S. E. 2d 821", "58 S. E. 640", "60 Ga. App. 889", "96 S. E. 2d 600"]
+---
+
+# Johnson v. Johnson
+
+## Majority (Townsend, J.)
+
+Townsend, J.
+1. (a) “To overcome the presumption of validity of the subsequent marriage, there must be plenary proof that neither party to the previous marriage had obtained a divorce, by failing to find any record of divorce in any counties of the jurisdiction where it should have been granted. But it is sufficient, in order to overcome the presumption indulged in favor of the second marriage, to show, by a general search of the court records of the State in which the spouse effecting the second marriage has established residence, that no> divorce has been granted.” Azar v. Thomas, 206 Ga. 588 (3) (57 S. E. 2d 821), and citations. “We again hold that the parties attacking the second marriage, which is presumed to be valid, had the burden of overcoming this presumption by disproving every reasonable possibility of its validity by clear, distinct, positive and satisfactory proof.” McCormick v. Denny, 213 Ga. 28 (96 S. E. 2d 600).
+(6) Where a ceremonial marriage is void on account of the disability of one of the parties to contract marriage, if, after such disability is removed, the parties continue to cohabit, holding themselves out to the world as husband and wife, they will be held to be properly married. Heflinger v. Heflinger, 161 Ga. 867 (132 S. E. 85); Harper v. A. & W. P. R. Co., 33 Ga. App. 259 (125 S. E. 885); White v. White, 41 Ga. App. 394 (153 S. E. 203); Chance v. Chance, 60 Ga. App. 889 (5 S. E. 2d 399).
+(c) Accordingly, where, as here, upon the death of the husband intestate a year’s support is set aside to one living with him as his wife after a ceremonial marriage contracted in 1944, and another contests the grant of year’s support, claiming to be the undivorced wife of the intestate under a ceremonial marriage contracted in 1943, where there is testimony that the second wife lived with her husband from the time of her marriage in 1944 until the date of his death, and that during a part of such time they left Clarke County and were gone for about a year, and where, according to the testimony of the plaintiff in error (the second wife) they lived in Decatur County for about six months, testimony of the defendant in error (the first wife) that she filed no action for divorce “after she left him in 1948” leaves open the possibility that defendant in error might have divorced her husband between 1943 and 1948 in some jurisdiction where he resided other than Clarke County, Georgia. The testimony of this witness was also such that the jury could have found her to be impeached, and disbelieved her testimony in whole or in part. It was accordingly error to direct a verdict in favor of the first wife, the possibility of the dissolution of the first marriage by divorce not having been negatived so as to disprove every reasonable possibility of the validity of the second.
+2. The marriage license introduced in evidence over objection contained no certification except the following: “State of Georgia, County of Candler. I hereby certify that the foregoing is a true and correct copy of a record on file in this office. Ned B. Warren, Ordinary”, together with the seal of office. A certificate by an ordinary does not render the copy admissible in evidence unless it is made affirmatively to appear that there is no clerk other than the ordinary, or, if the ordinary has a clerk, unless accompanied by the certificate of the clerk. Smallwood v. Kimball, 129 Ga. 50 (2) (58 S. E. 640); Sellers v. Page, 127 Ga. 633, 634 (3) (56 S. E. 1011); Lay v. Sheppard, 112 Ga. 111 (37 S. E. 132). While Justice Head in Powell v. Hansard, 206 Ga. 505 (57 S. E. 2d 677), speaking for himself alone, set forth good reasons why the failure to so certify should not render the evidence inadmissible, nevertheless, the fact that the court as a whole did not adopt this language, and that the Smallwood case was not disapproved, would seem to require the necessity of so certifying. Special ground 7 complaining of the introduction in evidence of the marriage license on the ground that it was not properly certified, should have been sustained.
+3. (a) The credibility of the testimony of the defendant in error, the first wife, was attacked both by attempting to disprove facts testified to by her, by offering proof of her general bad character, and by proof of previous contradictory statements. The defendant in error had testified that she was not presently living with a man by the name of James Zipper Thornton. It was accordingly error to refuse to allow a witness for the plaintiff in error to testify that she had been living with this man as husband and wife since 1954, both because such conduct would go to the credibility of the witness, if believed by the jury, and because it would tend to contradict her on an issue relevant to the case—her marital status. Special ground 9 of the amended motion should have been sustained.
+Decided June 17, 1957.
+Nicholas P. Chilivis, Raymond E. Lester, Gardner ■& Gaynor, for plaintiff in error.
+Jake B. Joel, contra.
+(b) Special ground 8 is not passed upon, as the case is to be tried again and the evidence on the question of whether or not the drinking habits of the defendant in error are relevant and material as bearing on the validity of the first marriage depends entirely upon whether or not it can be shown, as contended, that the defendant in error actually induced the marriage through fraud by contriving such a state of drunkenness in the deceased that he was unaware the marriage ceremony had been performed. Unless such foundation is properly laid, the testimony would be objectionable under Code § 38-202 as allowing evidence of the character of the appellee in other transactions not concerned with the issues being tried.
+The trial court erred in denying the motion for a new trial.
+Judgment reversed.
+Gardner, P. J., and Carlisle, J., concur.
