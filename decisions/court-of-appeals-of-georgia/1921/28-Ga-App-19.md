@@ -1,0 +1,27 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "12708"
+decided: "1921-12-14"
+citations: ["28 Ga. App. 19"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hagan Grocery Company et al. v. Grice, trustee, for use, etc."]
+source_url: "https://static.case.law/ga-app/28/cases/0019-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1410148
+---
+
+# Hagan Grocery Co. v. Grice
+
+## Majority (Hill, J.)
+
+Hill, J.
+1. The petition was not multifarious, nor was it defective for any other reason alleged in the demurrers. It appears from the petition that the commodity was sold to the.defendant corporations jointly, each acting through its president, who was the same person.
+2. While it is true that where the aggregate amount of an account is in dispute, but the debtor concedes a liability for a part thereof, and tenders that sum in payment, on condition that it shall be in full settlement, the creditor, by retaining and using the money, cheek, or other thing of value so tendered, extinguishes the whole account, yet ^the creditor’s acceptance of a draft for eighty per cent, of an amount claimed by him to be due for a carload of peanuts, with a statement from the debtor that the remaining twenty per cent, would be remitted as soon as received by the debtor from the person to whom the debtor had shipped the peanuts, would not result in extinguishment of the whole account.
+Decided December 14, 1921.
+Complaint; from Seminole superior court — Judge Worrill. June 24, 1921.
+Warren & Bryant, suing for the use of the Tennessee Chemical Company, allege in their petition that the defendants, the Hagan Grocery Company and the Decatur Brokerage Company, are indebted to the petitioners in the sum of $299.76; that Warren & Bryant were indebted to the Tennessee Chemical Company in the sum of $1,425.15, evidenced by a promissory note; that at the time of the execution of the note L. C. Brown was the duly authorized agent of the Tennessee Chemical Company and has since been its agent; that Warren & Bryant failed to pay the note when due, and that L. C. Brown, while negotiating with Warren & Bryant about its payment, was informed by them that they were the growers and owners of a large number of peanuts held on storage by them, which they desired to sell, and that they would allow the proceeds of the sale to go in liquidation of the note, and they authorized Brown to find a purchaser for the peanuts and sell them and appropriate the proceeds in liquidation of the note; that, in pursuance of such authority from Warren & Bryant and acting as the agent of the Tennessee Chemical Company, Brown offered the peanuts for sale to A. G. Hagan, the president and manager of the two defendant corporations, and thereupon Hagan offered to buy the peanuts, f. o. b. cars at Jakin, Georgia, and pay for them at the rate of $90 per ton “ after his inspection and loading on the cars;” that Brown reported to Warren & Bryant the sale of the peanuts at that rate and the sale was confirmed by them; that the defendants, acting through their manager Hagan, sent their inspector to Jakin for the purpose of inspecting and loading the peanuts, and the inspector did inspect and superintend the loading of the peanuts, and that the total value of these peanuts at tiie said rate was $1,499.35; that the peanuts were loaded in a named car and consigned to the order of the Decatur Brokerage Company, at Petersburg, Va.,” order notify the Barnhart Mercantile Company,” and the bill of lading was accordingly taken from the agent of the railroad company; that upon inspection and loading as aforesaid the defendants were due the plaintiffs $1,499.35, which sum was not then paid; that the defendant Hagan Grocery Company sent to Brown, agent as aforesaid of the Tennessee Chemical Company in the sale of the peanuts, for the benefit of Warren & Bryant, in payment of their note, a draft for $1,199.59, which they represented to be in settlement of eighty per cent, of the purchase-price of the car of peanuts, but that the defendants did not at that time pay, and have not since paid, the balance, or twenty per cent., of the purchase-price of the car of peanuts, amounting to $299.87, and they are still indebted to the plaintiff in that sum; that the proceeds of the draft for $1,199.59 were received by the Tennessee Chemical Company through its agent, Brown, and were applied as a credit upon the note of Warren & Bryant; that the balance due on the purchase-price of the car of peanuts is to be applied as a further credit upon the indebtedness; and that the defendants, in negotiating with Brown for the sale of the peanuts belonging to Warren & Bryant, knew that Brown was acting as agent of Warren & Bryant and of the Tennessee Chemical Company for the benefit of Warren & Bryant. Warren & Bryant were afterwards adjudicated bankrupts, and the petition was amended by adding the name of the trustee in bankruptcy as a party plaintiff.
+3. The evidence for the plaintiff contradicted the evidence for the defendants on all essential matter's at issue. There was evidence to sustain the verdict, and the court did not err in refusing to grant a new trial. Judgment affirmed. Jenhins, P. J., and Stephens, J., concur.
+John R. Wilson, Robin L. Cox, for plaintiffs in error.
+Hartsfield & Conger, contra.
