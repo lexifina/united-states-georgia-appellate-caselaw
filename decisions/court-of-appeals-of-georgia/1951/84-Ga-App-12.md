@@ -1,0 +1,28 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "33550"
+decided: "1951-05-23"
+citations: ["84 Ga. App. 12"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MacIntyre, P.J., and Gardner, J., concur."]
+parties: ["LEE v. THE STATE."]
+source_url: "https://static.case.law/ga-app/84/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1553543
+cites_cases: ["145 Ga. 78", "23 S. E. 2d, 730", "6 S. E. 2d, 736", "61 Ga. App. 379", "68 Ga. App. 652", "88 S. E. 559"]
+---
+
+# Lee v. State
+
+## Majority (Townsend, J.)
+
+Townsend, J.
+John Edgar Lee was indicted in the Superior Court of Jefferson County for the murder of one Nathaniel Sams. The defendant filed a special plea to the jurisdiction, contending that the homicide occurred in Washington County, Georgia, and a general plea of not guilty. Upon the trial of these issues the juries found against the plea to the jurisdiction and returned a verdict of guilty of voluntary manslaughter. Counsel for the defendant in his brief in this court specifically abandons all assignments of error except as to the charge of the court as follows: “I also charge you, gentlemen, that where an offense shall be committed on the boundary line of two counties it shall be considered and adjudged to have been committed in either county, and an indictment for such offense may be found and tried and conviction thereon may be had in either of said counties.”
+The first witness introduced by the State did not' know the location of the county line, but testified that the dining room of the house where the killing took place was located between the kitchen and the front room, on the left or west side of the house (toward Washington County). The second witness testified that the present building occupied the site of the original Tarver house, except on the front side, it not being as large as the Tarver house, and that when he had lived there he had always paid his taxes and voted in Jefferson County, and that he understood that the county line ran through an old store house beyond the Tarver home. A third witness testified that the present dwelling was on the site of the old house; that it was located about 20 yards on the Jefferson County side of the road (which curved at the house, the house being on the inside of the curve) and that the Jefferson County road department always worked the road up to the old store, which was 25 to 40 yards from it. A fourth witness testified that the house was about 75 feet on the Jefferson County side of the line. Two other witnesses testified to their' understanding that it was in Jefferson County, but were not sure where the line' ran. Letters of administration on the estate of A. E. Tarver were introduced, showing that his estate had been administered in Jefferson County. A witness for the defendant testified that the line ran through the old Tarver house, and that the present house, which was smaller, was built on the west, or Washington County, part of the site of the old house. A second witness, the County Commissioner of Washington County, testified that it was his understanding that the old Tarver house stood in Washington County, and that the road-working machines turned around approximately directly in front of the house. It also appeared that Tarver had served in the State legislature from Washington County.
+Upon conviction, the defendant filed motions for a new trial both on the plea and the final judgment, the two motions being later consolidated. The only assignment of error insisted on is the overruling of the motion for a new trial based on the plea to the jurisdiction.
+The whole of the evidence on the subject of venue authorized the jury to find that the dwelling house in which the killing took 'place was located in two counties, Washington and Jefferson. In Davis v. State, 61 Ga. App. 379 (6 S. E. 2d, 736), the defendants were convicted for the removal of the remains of a dead body from a grave. It appeared there that the cemetery was located in two counties; that certain witnesses placed the grave in issue in one county, others in another, and still others did not testify as to its location with regard to the line. The court there held: . the exact location of the county line with reference to the grave was in doubt, it was not improper for the court to charge that if [the jury] found from this evidence that the grave was on the county line, jurisdiction of the crime might be had in either county.” In headnote 5 of that case the court said: “Venue is a jurisdictional fact and must be proved as alleged in the indictment clearly and beyond a reasonable doubt; and where the evidence showed on the one hand that the crime was committed in Jeff Davis County, 40 to 50 feet over the line, and, on the other, in Appling County 30 or 35 feet over the line, other evidence being either negative or indefinite as to whether the grave was in Appling or Jeff Davis County or on the county line, it was not error for the court to charge additionally the law under Code § 27-1103, relative to the jurisdiction of either county upon the issue whether the crime was committed on the boundary line.” See also Roberts v. State, 145 Ga. 78 (88 S. E. 559); Ga. Power Co. v. Weaver, 68 Ga. App. 652 (23 S. E. 2d, 730).
+The contention of the defendant that there was no evidence here from which the jury could have found that the crime occurred on the county line is without merit in view of all the testimony on the subject of venue. The judgment of the trial court overruling the motion for a new trial is without error.
+Judgment affirmed.
+MacIntyre, P.J., and Gardner, J., concur.
