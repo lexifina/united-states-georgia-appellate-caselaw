@@ -1,0 +1,35 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "31684"
+decided: "1947-10-31"
+citations: ["76 Ga. App. 78"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Gardner and Townsend, JJ:, concur."]
+parties: ["SPIRIDES v. VICTORY LUMBER CO. INC."]
+source_url: "https://static.case.law/ga-app/76/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1537211
+cites_cases: ["119 Ga. 804", "120 Ga. 614", "124 Ga. 884", "142 S. E. 270", "166 Ga. 42", "47 S. E. 194", "48 S. E. 169", "5 S. E. 2d, 84", "53 S. E. 761", "60 Ga. App. 832"]
+---
+
+# Spirides v. Victory Lumber Co.
+
+## Majority (MacIntyre, P. J.)
+
+MacIntyre, P. J.
+In special ground one the defendant states: “The Court erred in charging the jury as follows: ‘Plaintiff brings this action and prays for a general judgment against said defendants for the amount due as aforesaid and for a special judgment establishing a lien on said real estate, and prays that process issue, requiring defendants to be and appear at the next term of this court to answer this complaint.’ Movant avers that said instruction was erroneous and injurious to him because same was contrary to law inasmuch as only a special judgment in rem can be had in this action against this movant.”
+In that portion of the charge to which the defendant objects, the trial judge was stating the contentions of the plaintiff by reading from the plaintiff’s petition. Later in his charge, the trial judge made it plain that as against the defendant Spirides the jury should find only in favor of or against the lien prayed for in the petition.
+The instruction complained of shows no error. While it is true that the purpose of a foreclosure suit is to establish a special lien against the property involved, and no general verdict and judgment can be obtained therein against the owner (Chambers Lumber Co. v. Gilmer, 60 Ga. App. 832, 5 S. E. 2d, 84), “the better practice in such cases is for the verdict to show a distinct finding by the jury that the plaintiff is entitled to a lien and to a given amount; but it has been held that where in such a proceeding the verdict was for the full amount claimed, it could have no other construction than that the jury intended to find in favor of the lien claimed.” Hawkins v. Chambliss, 120 Ga. 614, 617 (48 S. E. 169).
+At the conclusion of his charge, the trial judge instructed the jury as follows: “If you find for the plaintiff against the defendant, George L. Spirides, you would add ‘We also find in favor of the plaintiff against the defendant, George L. Spirides, in the sum of (blank—you naming the amount), and find in favor of the lien prayed for in the petition.’ ”
+When that portion of the charge objected to is considered with that quoted above, it amounts to an instruction that such, a finding as that indicated would be construed to mean a finding in favor of the lien claimed. “A finding in favor of the plaintiffs for a given sum, especially when that sum is the exact amount claimed, is equivalent to a finding in favor of the lien sought to be set up.” Eubanks v. West & Baggett, 119 Ga. 804 (47 S. E. 194).
+The trial judge instructed the jury as follows: “Now, gentlemen of the jury, in this case it is claimed and shown that a written contract was made, by which certain work was to be done by Lynch [the contractor] for Spirides [owner of the improved realty] in the construction of a garage apartment; the contract price named in the written contract was $3,200.00; but it is shown that as the work progressed, the plans were extended so as to include other construction; no other express contract was made further than that Lynch was ordered to go ahead with the work; but no contract price was set for this additional work, which was in connection with the original written contract.
+“[Now, gentlemen, as a rule parol evidence will not be admitted to vary the terms of a valid written contract, but where the parties have a valid written contract and they are working under that contract, and they both agree to extend that written contract, then, gentlemen of the jury, they may do it by a verbal agreement, but that verbal agreement will not hold unless the work is actually done. If you make a verbal agreement and go ahead and perform your verbal agreement, then you can recover either the contract price, if one is named in the verbal agreement, or the reasonable value of the work done under the verbal agreement; and this case has this feature in it.]”
+The defendant objects to that portion of the charge enclosed in brackets on the ground that there was no evidence to authorize the instruction. He contends that the evidence shows that the contractor did not complete his contract, and that the defendant employed someone else to complete the contract and finish the construction of the building.
+The lien of a materialman on real estate, arising under Code §§ 67-2001, 67-2002, attaches from the time the work under the contract is commenced or the material is furnished. Marbut-Williams Lumber Co. v. Dixie Electric Co., 166 Ga. 42 (2) (142 S. E. 270). In the instant case the evidence authorized the jury to find that the defendant entered into a contract with Lynch, a contractor, to build a garage apartment for the sum of $3,-200; that the plaintiff, materialman, furnished certain material for the improvements to Lynch; that the materials so furnished were used in making the improvements; that the lien was created and declared in accordance with the provisions of Code, § 67-2002; that as work progressed the defendant and Lynch varied the terms of the written contract so as to include additional construction; and that Lynch was ordered to do the additional work; that no price was agreed upon for the additional work; that Lynch began work pursuant to the varied terms of the written contract; and that the defendant caused Lynch to cease work and employed other workmen to complete the construction.
+We think that the instruction in question was a correct statement of the law and was properly applied to the facts in the instant case. Under Code § 67-2001, the owner is in no event liable for an amount in excess of the contract price, and if the contractor abandons his contract, the owner may have it completed and charge the necessary cost of completion against the contract price, before being liable either to the contractor or to the mar terialman. Prince v. Neal-Millard Co., 124 Ga. 884 (53 S. E. 761, 4 Ann. Cas. 615). In the case sub judice, however, because of the variation of the written agreement, it was for the jury to say what the contract price for the complete work was. The exception is without merit.
+Special ground three was neither argued nor insisted upon; it, therefore, has been treated as abandoned.
+The evidence authorized the verdict, and the trial judge did not err in overruling the defendant’s motion for new trial.
+Judgment affirmed.
+Gardner and Townsend, JJ:, concur.
