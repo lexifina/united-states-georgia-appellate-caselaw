@@ -1,0 +1,29 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "33105"
+decided: "1950-07-07"
+citations: ["82 Ga. App. 76"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Felton and Worrill, JJ., concur."]
+parties: ["Williams v. Edwards."]
+source_url: "https://static.case.law/ga-app/82/cases/0076-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1549408
+cites_cases: ["15 S. E. 2d, 825", "170 S. E. 312", "188 Ga. 138", "194 Ga. 395", "2 S. E. 2d, 916", "21 S. E. 2d, 643", "47 Ga. App. 309", "65 Ga. App. 279"]
+---
+
+# Williams v. Edwards
+
+## Majority (Sutton, C. J.)
+
+Sutton, C. J.
+This was an action in trover, brought by T. H. Williams against H. E. Edwards in the Civil Court of Fulton County, seeking to recover a diamond ring and a wrist watch, or the value thereof. Edwards answered and admitted that he was a resident of Fulton County and subject to the jurisdiction of the court, and denied all other allegations of the petition. For further plea and answer he alleged that as an accommodation to Williams he had placed the ring and watch in his safe at his grocery store, and that the store had been burglarized and the safe opened and the ring and watch removed thereform without fault on his part. The plaintiff moved to strike that portion of the plea and answer designated as a further plea and answer, and the trial judge overruled the motion. The case was tried without the intervention of a jury, and after hearing the evidence, including evidence in support of that part of the plea and answer which the plaintiff had moved to strike, judgment was rendered for the defendant. The plaintiff excepted to the overruling of his motion to strike and to the judgment for the defendant, as being contrary to law. In this court the defendant moved to dismiss the writ of error, asserting that the bill of exceptions fails to allege and the record fails to show that the ruling of which complaint is made necessarily controlled the judgment.
+“In any cáse where the judgment, decree, or verdict necessarily has been controlled by one or more rulings, orders, decisions, or charges of the court, and the losing party desires to except to such judgment, decree, or verdict, and to assign error on the ruling, order, decision, or charge of the court, it shall not be necessary to make a motion for new trial, nor file a brief of the evidence, but the party complaining shall be permitted to present a bill of exceptions containing only so much of the evidence or statement of facts as may be necessary to enable the appellate court to clearly understand the ruling, order, decision, or charge complained of.” Code, § 6-804. “Where the only judgment excepted to is the final judgment rendered by the court without a jury, the rule is. that a statement in the bill of exceptions that the plaintiff excepts to said judgment as contrary to law is not a valid assignment of error, will not be considered by this court, and the writ of error will be dismissed.” Carpenter v. State ex rel. Hains, 194 Ga. 395, 400 (21 S. E. 2d, 643), and cases cited therein. “Although the final judgment is excepted to on the general ground that it is contrary to law, if an examination of the record discloses that antecedent rulings duly excepted to in the bill of exceptions entered into and affected the final judgment, the bill of exceptions is sufficient to present to this court for decision the antecedent rulings excepted to and the final judgment in so far as it is affected by such antecedent rulings.” Carpenter v. State ex rel. Hains, supra. “In order for the court to be empowered to pass upon an assignment of error, where there has been a verdict and no motion for new trial, the antecedent ruling, under the terms of the Code, § 6-804, must have been one which necessarily controlled the verdict, judgment, or decree.” Federal Land Bank of Columbia v. United States Fidelity & Guaranty Co., 188 Ga. 138 (1) (2 S. E. 2d, 916). Also, see Carder v. Arundel Mortgage Co., 47 Ga. App. 309 (3) (170 S. E. 312); Childs v. Southern Ry. Co., 65 Ga. App. 279 (15 S. E. 2d, 825). If the trial judge had stricken that part of the plea and answer of the defendant designated as a further plea and answer, to which the motion to strike was directed, there still would have remained in the plea and answer *of the defendant a general denial of all of the material allegations of the petition, except that the defendant was a resident of Fulton County and subject to the jurisdiction of the court. Although it is stated in the bill of exceptions that evidence was adduced in support of that part of the plea and answer which the plaintiff desired stricken, on the issues made by the defendant without this part of his plea and answer judgment could have been rendered for the defendant. It is not alleged in the bill of exceptions that the final judgment was necessarily controlled by the antecedent ruling on which error is assigned, and there is nothing in the record before this court to indicate that the final judgment was necessarily controlled by the motion to strike the plea and answer of the defendant. In these circumstances the bill of exceptions contained no valid assignment of error.' However, it can here be stated that the portion of the plea and answer which the plaintiff desired stricken presented a meritorious defense, and the motion of the plaintiff to strike the same was properly overruled. In the present case, as stated in the Federal Land Bank case and the Childs case, supra: “It makes no practical differ-
+Decided July 7, 1950.
+ence whether, under this record, the proper judgment to be rendered is one of affirmance or dismissal. The result is the same.”
+Judgment affirmed.
+Felton and Worrill, JJ., concur.
+Milam & Smith, Robert G. Smith, James G. Lamar, for plaintiff.
+O. J. Coogler Jr., Newell Edenfield, for defendant.
