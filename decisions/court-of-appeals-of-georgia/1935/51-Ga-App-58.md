@@ -1,0 +1,30 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "24019, 24020"
+decided: "1935-04-08"
+citations: ["51 Ga. App. 58"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["MacIntyre and Guerry, JJ., concur."]
+parties: ["National Life & Accident Insurance Co. v. Lain; and vice versa."]
+source_url: "https://static.case.law/ga-app/51/cases/0058-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1471036
+cites_cases: ["117 Ga. 461", "12 Ga. App. 378", "134 S. E. 341", "137 Ga. 68", "148 S. E. 628", "167 S. E. 911", "17 Ga. App. 702", "179 S. E. 120", "180 Ga. 463", "35 Ga. App. 565", "39 Ga. 708", "40 Ga. App. 15", "43 S. E. 701", "46 Ga. App. 475", "47 Ga. 651", "49 Ga. 268", "52 Ga. 15", "53 Ga. 318", "62 Ga. 247", "71 Ga. 644", "72 S. E. 480", "74 Ga. 534", "77 S. E. 203", "87 S. E. 1093", "90 Ga. 656"]
+---
+
+# National Life & Accident Insurance v. Lain
+
+## Majority (Bkoxles, O. J.)
+
+Bkoxles, O. J.
+1. Under the terms of section 1 of the act of 1933 (Ga. L. 1933, p. 290), as to the municipal court of Atlanta, where a jury in that court has rendered a verdict in a case, or a judgment has been announced in a case tried without a jury, any party to the cause may make an oral motion for a new trial, '“where the amount involved, exclusive of interest, attorney’s fees, and costs, is less than three hundred dollars.” The words “attorney’s fees,” as here used, mean “attorney’s fees that are ancillary to the main relief sought in a suit of which the court has jurisdiction, and are not confined to ‘contractual attorney’s fees as provided for in a promissory note or other written contract.’” National Life & Accident Insurance Co. v. Lain, 180 Ga. 463 (179 S. E. 120). Under the foregoing ruling, the amount involved in this case, exclusive of interest, attorney’s fees, and costs, being less than three hundred dollars, the losing party properly made an oral motion for a new trial; and there is no merit in the motion of the defendant in error to dismiss the main bill of exceptions, or in the cross-bill of exceptions sued out by her.
+2. '“Where the insurer, by his custom and course of dealing with the insured, in receiving, without objection, premiums or assessments past due, when he could have insisted upon a forfeiture, has induced the belief on the part of the insured that premiums or assessments can be paid within a reasonable time after they mature, the insurer can not claim a forfeiture because, at the time of the death of the insured, premiums or assessments were due by him which, had he lived, it is reasonable to suppose would have been accepted upon the same terms as those upon which other deferred payments had been received.’ Bankers Health & Life Ins. Co. v. Givvins, 12 Ga. App. 378. (77 S. E. 203); Cotten States Life Ins. Co. v. Lester, 62 Ga. 247 (35 Am. R. 122); Moman v. Bankers Health & Life Ins. Co., 35 Ga. App. 565 (2) (134 S. E. 341).” Carolina Life Ins. Co. v. Moultrie, 40 Ga. App. 15 (2) (148 S. E. 628). Under this ruling and the facts of the instant case, the jury were authorized to find that the policy of insurance had not lapsed or become void; and the refusal of the court to instruct the jury as a matter of law that the policy had lapsed was not error.
+3. “Where evidence is admitted without objection, although there be no allegation in the declaration authorizing it, the court may properly charge the jury as to its legal effect, and where a party permits evidence to go to the jury without objection, and the jury find on such evidence, the losing party is not entitled to a new trial on the ground that the evidence does not correspond with the declaration, if the declaration could, by amendment, have been made to cover the evidence. Georgia Railroad v. Lawrence, 74 Ga. 534; Central Ry. Co. v. Attaway, 90 Ga. 656-659. ‘Although the pleadings may not present the whole issue, yet if it be fully made by the evidence without objection, it is too late, after verdict for the losing party, to make that the ground of a motion for a new trial.’ Howard v. Barrett, 52 Ga. 15. See also Seabrook v. Brady, 47 Ga. 651, 659; Savannah, Fla. & Western Ry. Co. v. Barber, 71 Ga. 644, 648; Savannah &c. Ry. v. Grogan, 117 Ga. 461 (43 S. E. 701); Haiman v. Moses, 39 Ga. 708; Field v. Martin, 49 Ga. 268, 271; M. E. Church v. Dudley Co., 137 Ga. 68 (6), 69 (72 S. E. 480); Artope v. Goodall, 53 Ga. 318, 323. These rulings are based upon the principle that if objection were made to the testimony upon the ground that it was not authorized by the pleadings, the pleadings might have been so amended as to authorize the introduction of the testimony.” Gainesville & N. W. R. Co. v. Galloway, 17 Ga. App. 702 (4) (87 S. E. 1093); Columbia Fire Insurance Co. v. Tatum, 46 Ga. App. 475 (4) (167 S. E. 911). In the instant ease (a suit on a policy of life-insurance) the plaintiff pleaded that all the premiums due under the terms of the policy had been paid in full, and she did not plead a waiver by the insurance compauy of such. terms. On tlie trial tlie evidence failed to show payment of the premiums as alleged, but it did disclose such a course of dealing by the Insurance company, in respect to receiving the premiums after they were due, as authorized the jury to find that the provisions of the policy requiring the payment of premiums within a specified time had been waived by the company; and the evidence showing such a waiver was admitted without objection. A verdict in favor of the plaintiff was returned. Under the aboveJstated facts and the ruling in the Galloway case, supra, the court did not err in instructing the jury on the question of waiver; and the defendant is not entitled to a new trial on the ground that the evidence does not correspond with the declaration.
+Decided April 8, 1935.
+Hendrix & Buchanan, for plaintiff in error (insurer).
+A. Walton Nall, E. B. Lovell, contra.
+4. Tlie verdict was authorized by the evidence, and the refusal to grant a new trial was not error.
+Judgment affinned on both bills of exceptions.
+MacIntyre and Guerry, JJ., concur.
