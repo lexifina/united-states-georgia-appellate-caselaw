@@ -1,0 +1,35 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "68525"
+decided: "1984-09-05"
+citations: ["172 Ga. App. 3", "321 S.E.2d 769"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Quillian, P. J., and Birdsong, J., concur."]
+parties: ["BENJAMIN v. THE STATE."]
+source_url: "https://static.case.law/ga-app/172/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 623340
+cites_cases: ["139 Ga. App. 119", "149 Ga. App. 528", "155 Ga. App. 423", "157 Ga. App. 564", "157 Ga. App. 732", "158 Ga. App. 21", "165 Ga. App. 437", "165 Ga. App. 94", "166 Ga. App. 212", "168 Ga. App. 555", "227 SE2d 844", "236 SE2d 83", "239 Ga. 108", "241 Ga. 49", "243 SE2d 496", "254 SE2d 747", "270 SE2d 825", "278 SE2d 145", "278 SE2d 490", "279 SE2d 289", "299 SE2d 162", "301 SE2d 498", "303 SE2d 543", "309 SE2d 867", "365 U. S. 610", "439 U. S. 14", "81 SC 776", "99 SC 235"]
+---
+
+# Benjamin v. State
+
+## Majority (Carley, Judge.)
+
+Carley, Judge.
+Appellant was tried before a jury and convicted of simple battery, rape, burglary, and two counts of robbery by use of force. He appeals from the judgments of conviction and sentences entered on the guilty verdicts.
+1. Appellant enumerates as error the denial of his motion to suppress certain evidence seized pursuant to a warrantless search of his bedroom. He contends that his. landlord had no authority to consent to a search of his bedroom for which he paid rent as a tenant. See generally Chapman v. United States, 365 U. S. 610 (81 SC 776, 5 LE2d 828) (1961).
+At the pretrial hearing on the motion to suppress, Detective Haisten testified that she went to the home of appellant’s co-indictee, Glenn Montgomery, in order to inform Montgomery’s parents that Montgomery was in police custody. Montgomery’s parents, Mr. and Mrs. Pittman, gave the police permission to search their entire house. Detective Haisten testified that the Pittmans informed her that the house belonged to them and that neither appellant nor Montgomery paid rent for living with them or was employed. Haisten further testified that while appellant was not the Pittmans’ natural child, he was a foster child whom they had raised. During the course of their search of the house pursuant to the Pittmans’ consent, the police entered the bedroom occupied by appellant. Appellant was asleep in the bedroom and was wearing a watch that fit the description of an item stolen during the commission of the crimes for which appellant was subsequently charged. Appellant admitted in his testimony at the hearing that he was more or less a guest in the Pittmans’ home, and that, while he had paid some rent in the past, he was not employed or paying rent at the time of the search.
+There was sufficient evidence to authorize a finding that the Pitt-mans were not appellant’s landlords, but were the heads of the household in which he lived. Accordingly, the issue of the validity of the Pittmans’ consent to the search is controlled adversely to appellant’s contentions by Montgomery v. State, 155 Ga. App. 423, 424 (1) (270 SE2d 825) (1980), wherein this court affirmed the conviction of his coindictee. “ ‘[T]he voluntary consent of the head of a household to the search of premises owned or controlled by such head of the household is sufficient to authorize a search of the premises without a search warrant, and such search does, not violate the constitutional prohibition against unreasonable searches and seizures.’ [Cits.]” Montgomery v. State, supra at 424. See generally Witt v. State, 157 Ga. App. 564 (1a) (278 SE2d 145) (1981).
+2. Appellant enumerates as error the admission into evidence of the consent-to-search form. At the suppression hearing, appellant made only a best evidence objection. On appeal, he contends for the first time that the evidence was hearsay, irrelevant, and prejudicial. Appellant may not raise a ground of objection on appeal which was not first urged below. Jackson v. State, 165 Ga. App. 437 (301 SE2d 498) (1983); Argonaut Ins. Co. v. Head, 149 Ga. App. 528 (254 SE2d 747) (1979).
+Appellant further enumerates as error the admission of certain evidence to which no timely objection was raised in the trial court. “In order to raise on appeal contentions concerning admissibility of evidence ‘the specific ground of objection must be made at the time the evidence is offered, and a failure to do so will be considered as a waiver. All evidence is admitted as a matter of course unless a valid ground of objection is interposed.’ [Cits.]” Sutphin v. McDaniel, 157 Ga. App. 732 (1) (278 SE2d 490) (1981). See also Reynolds v. State, 168 Ga. App. 555, 556 (2) (309 SE2d 867) (1983); Miller v. State, 158 Ga. App. 21 (279 SE2d 289) (1981).
+3. It is urged that the trial court erred in admitting evidence regarding the presence, at the scene of the crime, of the fingerprints of appellant’s co-indictee. Appellant’s counsel objected to the evidence on the ground of relevancy. “Any evidence is relevant which logically tends to prove or disprove any material fact which is at issue in the case, and every act or circumstance serving to elucidate or throw light upon a material issue or issues is relevant. [Cit.] Even where the evidence is of questionable relevancy or competency, it is the rule in this state that it should be admitted, leaving its weight for the determination of the jury. [Cits.]” Brandon v. State, 165 Ga. App. 94, 95 (299 SE2d 162) (1983). See also Alexander v. State, 239 Ga. 108, 110 (236 SE2d 83) (1977). We find that evidence of the presence of appellant’s co-indictee at the scene of the crime was relevant to the issues at trial. Moreover, at trial, appellant testified that he and his co-indictee committed the crimes for which he was being tried, except that he did not participate in any rape. In light of this fact, even if it was erroneous to admit evidence of the co-indictee’s fingerprints, it was not harmful. See generally Delvers v. State, 139 Ga. App. 119, 122 (4) (227 SE2d 844) (1976).
+4. Asserting that his confession was not freely and voluntarily given, but was induced by hope of benefit, appellant enumerates as error the admission of his confession into evidence.
+At the Jackson-Denno hearing on the voluntariness of appellant’s confession, Detective Haisten testified that she had told appellant that she would advise the court if he cooperated. In Presnell v. State, 241 Ga. 49, 55 (5) (243 SE2d 496) (1978), rev’d on other grounds, 439 U. S. 14 (99 SC 235, 58 LE2d 207) (1978), the Supreme Court held that an officer’s agreement “to tell the. judge of [a defendant’s] cooperation, did not constitute the kind of ‘hope of benefit’ which is contemplated by [OCGA § 24-3-50].” The trial court did not err in admitting the confession. See also Rounds v. State, 166 Ga. App. 212, 213 (2) (303 SE2d 543) (1983).
+Decided September 5, 1984.
+Guerry R. Thornton, Jr., for appellant.
+Spencer Lawton, Jr., District Attorney, David T. Lock, Assistant District Attorney, for appellee.
+Judgment affirmed.
+Quillian, P. J., and Birdsong, J., concur.
