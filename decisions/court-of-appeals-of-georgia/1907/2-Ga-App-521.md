@@ -1,0 +1,38 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "404"
+decided: "1907-10-03"
+citations: ["2 Ga. App. 521"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BOWEN v. WAXELBAUM & BROTHER."]
+source_url: "https://static.case.law/ga-app/2/cases/0521-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1253900
+cites_cases: ["118 Ga. 213", "5 Ga. 472", "81 Ga. 808"]
+---
+
+# Bowen v. Waxelbaum & Brother
+
+## Majority (Hill, C. J.)
+
+Hill, C. J.
+This was a suit on a promissory note made by the defendant under seal, and payable to the order of the plaintiffs. The defendant filed the following answer:
+"1. Defendant admits the execution of the note sued on, and that plaintiff is the legal owner and holder of the same.
+“2. Defendant alleges that on June 19th, 1905, there was held at Savannah, Georgia, a meeting of defendant’s creditors. That plaintiff was present at said meeting, and at that time defendant owed plaintiff $202.00 on an open account. Defendant shows that at the date of said meeting he was insolvent; that at said meeting he made his creditors a proposition to pay fifty cents on the dollar, in full settlement of what he owed them, and advised said creditors that unless some compromise as that was. made, that he, defendant, would be forced into a court of bankruptcy.
+“3. Defendant showed that in consideration of his not going into bankruptcy, and the further consideration of his insolvency, that plaintiff agreed to accept $101.00 in settlement of the $202.00 which defendant then owed plaintiff.
+“4. Defendant shows * that after the above terms had been agreed upon between him and plaintiff, that plaintiff told defendant that he would fill out a note for $202.00, and desired defendant to sign said note, but that immediately upon his signing the same, that he, plaintiff, would turn over said note to J. W. Olliff for defendant. Plaintiff claimed that he would abide by his former • agreement to take $101.00 in settlement of his former claim, but said that he only wanted the note to show what amount had been compromised, and that he would then and there deliver said note to the defendant or to J. W. Olliff for defendant.
+“5. Defendant, relying on the statement of the plaintiff that he would turn said note over to J. W. Olliff, signed said note.
+“'’6. Defendant shows that after he signed the note sued on, that plaintiff, in violation of his' contract, refused to deliver to defendant or to J. W. Olliff said note, or to accept $101.00 in settlement of his claim, as he agreed to do before and at the time of signing the same.
+“7. Defendant alleges that said note was procured by fraud; that the deception used and the misrepresentations made were used and made for the purpose of cheating defendant, and1 that the same deceived, misled, and actually defrauded defendant. That he would not have signed said note except upon the agreement of plaintiff to accept the $101.00 in settlement of what defendant owed plaintiff, and his agreement to deliver said note to defendant then and there.
+“8. Defendant shows that at the time said note was signed he was ready to perform his part of the contract with plaintiff; that he was ready then to pay plaintiff the $101.00 in settlement of plaintiff’s claim against defendant; that he offered to pay plaintiff said $101.00 before'the filing of this suit, and that he now tenders the $101.00 into court.”
+This plea was amended by adding the following:
+“Defendant shows that the note sued on was gotten possession of by the plaintiff through fraud, and the signing of the note was induced by the fraud of the plaintiffs. Said fraud consisting as follows: The plaintiff told defendant to sign tihe note for the full amount of the account for $202.00, and that the plaintiffs would deliver the note for defendant to J. W. Olliff and accept fifty per cent, of the same in settlement of the note. Defendant shows that the omission to recite in the note the fact that it would be settled for fifty per cent..of its face value was due to the fraud of the plaintiffs as above set out. Defendant shows that at the time said note was executed he was only duo the plaintiffs $101.00, and would not have executed the note but for the fraud of the plaintiff as heretofore .set out, to wit, that he would turn the note over to J. W. Olliff for defendant, and accept $101.00 in settlement of same.”
+Defendant also amended by denying the plaintiffs’ allegation relative to the claim of attorney’s fees, and alleged that the notice required by law. before suit for attorney’s fees, contracted to be paid in notes, was not given.
+On the trial the plaintiffs demurred to the plea and answer, except as to paragraph 4, and as to the paragraph in reference to attorneys’ fees; the court sustained the demurrer, and error is assigned to this judgment. The court thereupon directed a verdict for the plaintiffs for the principal and interest sued for, and submitted to the jury the issue of fact made relating to attorney’s fees, which issue of fact the jury found in favor of the plaintiffs. The defendant also filed a motion for a new trial, alleging error in the judgment sustaining the demurrer to his answer and pleas, and in directing a verdict for the plaintiffs, and on the general grounds; which motion was overruled, and the defendant excepted.
+The defendant’s plea is that the note is void, because fraudulently obtained; and it charges the fraud to consist in certain promises made by the plaintiffs to induce him to give the note. The plea admits that at tire time he gave the note he owed the plaintiffs on account the exact amount of the note, and the plea fails to show how the defendant was injured or damaged by his written promise to pay what he in fact owed. The defendant was under no duty to execute the note, but he was under a duty to pay the debt; and unless his written promise deprived him of some legal right, or in some way injured him, he has no right to complain. He does not allege how the giving of the note injured or damaged him. Admitting that the plaintiffs did make the promises set out in the plea, they constituted no fraud in any legal or equitable sense. A sufficient defense can not be predicated upon fraud, unless such fraud results in some injury. Both fraud and injury must exist, to invalidate a written contract. The principle •of damnum absque injuria applies. Austell v. Rice, 5 Ga. 472; Strickland v. Parlin & Orendorf Company, 118 Ga. 213 (4).
+The facts alleged in the answer are not sufficient to show accord and satisfaction. Most favorably considered for the defendant, these facts simply show a promise or agreement by his creditor to accept an amount less than his debt. This agreement was not executed by the payment of the money, or the giving of additional security, or some other new consideration. Civil Code, §3735.
+The answer was also in direct conflict with the elemental principle of law that the terms of a written contract can not be varied by a contemporaneous parol agreement. The note was for $202, and an alleged agreement with the plaintiffs .to accept less could not be shown. Civil Code, § 3675, par. 1; Patterson v. Ramspeck, 81 Ga. 808.
+After the plea was stricken, the case was undefended except as to the issue relating to the attorney’s fees. The court thereupon properly directed a verdict in favor of the plaintiffs for the principal and interest of the note, and submitted to the jury the issue as to the attorney’s fees. The verdict in favor of the plaintiffs' on this issue is fully supported by the evidence.
+Judgment affirmed.
