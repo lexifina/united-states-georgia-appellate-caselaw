@@ -1,0 +1,38 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "31496"
+decided: "1947-02-06"
+citations: ["75 Ga. App. 71"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Pwriter, J., concurs."]
+parties: ["HEARD, guardian, v. HEARD."]
+source_url: "https://static.case.law/ga-app/75/cases/0071-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1535142
+cites_cases: ["103 S. E. 194", "132 Ga. 51", "138 Ga. 282", "157 S. E. 214", "16 S. E. 349", "25 Ga. App. 342", "42 Ga. App. 580", "63 S. E. 823", "64 Ga. 430", "75 S. E. 354", "90 Ga. 581"]
+---
+
+# Heard v. Heard
+
+## Majority (Sutton, P. J.)
+
+Sutton, P. J.
+(After stating the foregoing facts.)
+The petition of the plaintiff which sought to have additional parts of the record in the court below certified and transmitted to this court, as provided by the Code, § 6-810, was overruled by the trial judge, and no exception was taken to that judgment. Whether or not the trial judge erred in overruling this petition will not be considered by this court, since there is no assignment of error on such judgment.
+After the case was brought to this court, the plaintiff filed a motion here, in the nature of a suggestion of a diminution of the record, to have the cross-action and answer filed by the defendant in the court below transmitted to this court, and asking that the writ of error be then dismissed for the reason that it was not a final judgment. “A suggestion of a diminution of the record must describe or set out the missing record to such an extent that counsel for the opposing party may agree thereto and demand that the case proceed. A mere statement that there was a motion for a new trial and a brief of the evidence, which the clerk had failed to send up, was not sufficient.” Brown v. Lathrop & Co., 64 Ga. 430. The suggestion of a diminution of the record in the present ease is defective, in that it was not framed to permit the facts allegedly left out of the record to be admitted by the defendant and the case proceed, which is always the right of the opposite party under the provisions of the Code, § 6-812. The suggestion of a diminution of the record is, therefore, overruled, and the plaintiff’s motion to dismiss the writ of error is denied.
+The defendant contends that the petition failed to set out a cause of action because the allegations thereof are too vague and indefinite to show any contract between the plaintiff and his father. The petition alleges in paragraph 4: “That the said H. C. Heard upon coming to plaintiff’s home agreed to pay plaintiff a reasonable sum in return for plaintiff’s promise to look after and' care for him to the best of plaintiff’s ability during his stay at plaintiff’s home. It was agreed between the parties that the plaintiff would be paid for whatever services he rendered the said H. C. Heard upon the basis of the value of said services.” The petition further alleges that certain specified services were performed by the plaintiff and accepted by his father under said agreement, and that these services were of the reasonable value of $3200.
+In the present case, the petition alleges that the plaintiff agreed to perform certain .services in caring for and looking after his father, and that his father agreed to pay the plaintiff the reasonable value of the services rendered under the agreement between them; that the plaintiff performed certain specified services for his father under their agreement; that the father accepted these services and paid for those rendered prior to March, 1945, but that he has failed to pay for those rendered since that date, which were of the reasonable value of $3200. We think the allegations of the petition sufficient to show a contract between the plaintiff and his father, whereby the plaintiff could recover under the terms of the contract the reasonable value of the services rendered by him under the contract and accepted by his father. See Hudson v. Hudson, 90 Ga. 581 (16 S. E. 349); Jackson v. Buice, 132 Ga. 51 (63 S. E. 823). Also, in line with the principle here involved, see Restatement of the Law of Contracts, vol. 1, 44, § 33; McLendon v. Moore, 42 Ga. App. 580 (1) (157 S. E. 214); Buick Motor Co. v. Thompson, 138 Ga. 282 (2) (75 S. E. 354).
+The court did not err in overruling the general demurrer to the petition.
+The special demurrer to paragraph 4 of the petition, that the allegations of the same were too vague and indefinite to show any contract between the parties, was without merit for the reasons above set out, and the court did not err in overruling this ‘ground.
+The petition was not subject to demurrer on the ground that it was multifarious and duplicitous, in that it sought “the recovery of a specified amount upon an alleged specific agreement and for the value of services in one and the same petition and in one and the same count.” The action was upon the contract between the plaintiff and his father, in which contract the compensation provided for the plaintiff was the reasonable value of the services performed by the plaintiff and accepted by his father. The fact that the plaintiff alleged that the reasonable value of these services was $3200 did not make the action one on a contract to pay this specific sum to the plaintiff as compensation for his services, but the action was on the contract to pay the plaintiff the reasonable value of the services performed by him and accepted by his father, which services the plaintiff alleged were reasonably worth $3200. Rustin v. Norman, 25 Ga. App. 342 (103 S. E. 194). The judge did not err in overruling ground 3 of the demurrer.
+Nor was the petition subject to demurrer on the ground that it sought “the recovery of a specified amount upon an alleged contract, and the contract offered no basis for the recovery of the amount sued for or for any other amount.” Under the express provisions of the contract between the plaintiff and his father, the plaintiff was to receive as compensation for the services Tendered under the contract the reasonable value of such services. The petition alleged what services had been performed and the amount which the plaintiff contended was the reasonable value of such services. The plaintiff could recover upon a quantum meruit the reasonable value of his services, the quantum meruit not being the basis of his right to recover, but the measure of the amount that he was entitled to receive under the provisions of the contract with his father. Hudson v. Hudson, supra. The basis of compensation fixed by the contract was sufficiently definite to authorize a recovery for the reasonable value of the services performed by the plaintiff and accepted by his father under the agreement between them. The court did not err in overruling ground 4 of the demurrer.
+The petition set out a cause of action, and the trial judge did not err in overruling the demurrers urged against it.
+Judgment affirmed.
+Pwriter, J., concurs.
+
+## Concurrence (Felton, J.,)
+
+Felton, J.,
+concurring specially. I think that the petition sets forth a canse of action for services rendered and accepted up to the time when the ward was adjudicated to be incompetent. The basis of recovery is the acceptance of the services rendered under the agreement, and an incompetent, after adjudication, could not be bound by an acceptance which he could not responsibly make. The contract was unilateral, since the ward w;as not obligated to accept any services, and he was liable only for services accepted by him when ho was mentally competent to accept them.
