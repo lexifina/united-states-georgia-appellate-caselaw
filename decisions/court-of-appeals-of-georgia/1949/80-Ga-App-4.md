@@ -1,0 +1,29 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "32585"
+decided: "1949-09-10"
+citations: ["80 Ga. App. 4"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sutton, C. J., and Worrill, J., concur."]
+parties: ["MAYO et al. v. LYNES et al."]
+source_url: "https://static.case.law/ga-app/80/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1545255
+cites_cases: ["113 S. E. 95", "134 S. E. 130", "142 Ga. 12", "149 S. E. 180", "153 S. E. 777", "168 Ga. 759", "169 S. E. 732", "22 S. E. 2d, 614", "28 Ga. App. 651", "28 S. E. 2d, 319", "35 Ga. App. 517", "41 Ga. App. 542", "41 S. E. 2d, 560", "47 Ga. App. 194", "47 S. E. 2d, 112", "68 Ga. App. 218", "70 Ga. App. 268", "74 Ga. App. 829", "76 Ga. App. 807", "82 S. E. 225"]
+---
+
+# Mayo v. Lynes
+
+## Majority (Felton, J.)
+
+Felton, J.
+The defendants’ first contention is that the petition was fatally defective in that there is no allegation that the plaintiffs had complied with the license law as required by Code § 84-1413, which states: “No person, firm or corporation shall have the right to enforce in any court any claim for commissions, profits, option profits, or fees for any business done as real-estate broker or salesman without having previously obtained the license required under the terms of this Chapter.” We agree with this contention. In the case of Bernstein v. Peters, 68 Ga. App. 218 (22 S. E. 2d, 614), where a wholesale liquor concern was suing to recover for certain intoxicating liquors sold, this court held that a general demurrer. should have been sustained when the petition alleged that the plaintiffs were holders of a liquor license, but failed to show that at the time of the sale of the liquor a license had been acquired. The court in that case quoted from 37 C. J. 261, § 142, in respect to licenses: “It is incumbent on a person whose right to recover on a contract is generally dependent upon his having been licensed to plead and prove, as a part of his cause of action, that he had fully complied with the requirements of the license law; or else to plead and prove that, under the circumstances, the requirement was not applicable and he was not required to take out a license or pay a license tax.” See also Meinhard v. Stillwell Realty Co., 47 Ga. App. 194 (169 S. E. 732). The plaintiffs answer this contention by saying that, since this is an action for a breach of contract rather than for a recovery of commissions earned, no express allegation of compliance with Code § 84-1413 is necessary. This argument is without merit. A contract between an unlicensed real-estate broker who comes under the provisions of Code § 84-1413 and an owner of property whereby the broker agrees to sell same, is void and unenforceable (Padgett v. Silver Lake Park Corp., 168 Ga. 759, 149 S. E. 180), and any action brought by the broker whether for commissions earned or for breach of contract would necessarily fail. The plaintiffs having failed to specifically plead that they had complied with the license law rendered the petition fatally defective, and the trial court erred in overruling the general demurrer thereto.
+It is contended by the defendants in error that a provision in the contract attached to the petition pertaining to “other licensed broker” amounts to an allegation that the plaintiff was a licensed broker. Whether the plaintiff was a licensed broker is not a matter of contract and an agreement that he was one would not make him one. The.petition, plus the contract, alleges no more than that the parties agreed that the plaintiff was a licensed broker, or that the plaintiff represented that he was, and the defendants assumed the representation to be true. The provision in the contract was no more than a self-serving declaration and, together with the petition, did not amount to an affirmative allegation that the plaintiff was a licensed broker.
+The plaintiffs contend that the question passed upon in the preceding division of this opinion was not raised in the lower court, and, therefore, should not be considered by this court when raised for the first time here. This contention is without merit for the reason that a general demurrer necessarily raised the question of whether a cause of action was set forth and whether this particular point was argued in the lower court, is immaterial since any point necessary to determine the sufficiency of the cause of action was raised by general demurrer and is properly before this court. Moody v. Foster, 74 Ga. App. 829 (3) (41 S. E. 2d, 560).
+The defendants’ second contention is that this listing contract is unilateral and without consideration, and, therefore, unenforceable. For authority the defendants cite: Ocean Lake River Fish Co. v. Dotson, 70 Ga. App. 268 (28 S. E. 2d, 319); Garfunkel v. Byck, 28 Ga. App. 651 (113 S. E. 95); Barrington v. Dunwody, 35 Ga. App. 517 (134 S. E. 130); Brent v. Robins, 41 Ga. App. 542 (153 S. E. 777). We are of the opinion that the facts in the case at bar are substantially the same as those in Thompson v. Hudson, 76 Ga. App. 807 (47 S. E. 2d, 112), citing Hill v. Horsley, 142 Ga. 12 (82 S. E. 225), and the ruling therein is controlling on this question. This contention is also without merit.
+In view of the ruling in the third division of this opinion it is not necessary to decide the defendants’ contention that there was a substantial variance between the sale contract as made and the listing contract under which the plaintiffs claim their commission, as the action is not one to recover commissions.
+Since the plaintiffs failed to allege that they had complied with the license law pertaining to real-estate brokers, the court erred in overruling the general demurrer.
+Judgment reversed.
+Sutton, C. J., and Worrill, J., concur.
