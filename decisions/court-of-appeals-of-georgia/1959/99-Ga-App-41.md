@@ -1,0 +1,32 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "37450"
+decided: "1959-02-02"
+citations: ["99 Ga. App. 41"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Felton, C. J'., and Nichols, J.,'concur."]
+parties: ["SAMPLES v. LIBERTY MUTUAL INSURANCE COMPANY et al."]
+source_url: "https://static.case.law/ga-app/99/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1585494
+cites_cases: ["197 S. E. 647", "212 Ga. 275", "3 S. E. 2d 846", "58 Ga. App. 111", "60 Ga. App. 410", "78 S. E. 2d 557", "89 Ga. App. 57", "92 S. E. 2d 103", "93 S. E. 2d 390", "93 S. E. 2d 771", "94 Ga. App. 107", "94 Ga. App. 50", "94 Ga. App. 507", "95 Ga. App. 225", "95 S. E. 2d 35", "97 S. E. 2d 553"]
+---
+
+# Samples v. Liberty Mutual Insurance
+
+## Majority (Quillian, Judge.)
+
+Quillian, Judge.
+1. It has long been axiomatic that for an accidental injury to be compensable under the terms of the Workmen’s Compensation Act, it is encumbent upon the injured employee, where his claim for compensation is controverted by the employer, to establish that the accidental injury sustained “arose out of and in the course of his employment,” and
+2. The terms “arose out of” and “in the course of” the employment are not synonymous. Both must concur, and this concurrence must be established by adequate proof, to render the injury compensable. Francis v. Liberty Mutual Ins. Co., 95 Ga. App. 225, 226 (97 S. E. 2d 553); Weathers v. Jones, 94 Ga. App. 50 (93 S. E. 2d 390); Ladson Motor Co. v. Croft, 212 Ga. 275 (92 S. E. 2d 103).
+3. It is likewise axiomatic that where there is any evidence to sustain the findings of fact by a deputy director, a director, or the Workmen’s Compensation Board, such findings and the award based thereon will not be disturbed by the courts. Davis v. American Mutual Liability Ins. Co., 89 Ga. App. 57, 59 (78 S. E. 2d 557), and cit.; Delta C. & 8. Airlines v. Perry, 94 Ga. App. 107 (93 S. E. 2d 771); Smith v. United States Fidelity c& Co., 94 Ga. App. 507 (95 S. E. 2d 35).
+4. Under an application of the, foregoing principles of law to the evidence adduced upon the hearing and the finding of fact made by the deputy director, the superior court did not err in affirming the award denying compensation on the ground that the accidental injury sustained by the claimant did not arise in the course of his employment.
+5. From the evidence the deputy director was authorized to find that: the claimant had been in the general employ of A. C. Miller & Company intermittently since 1945; at the time he was injured on Tuesday, November 26, 1957, he had been back in their employ five or six months as a welder in the body building department, working normally from 8 a. m. to 4:30 p. m. on an hourly basis on the street floor of the premises; on.the day on which he was injured, the claimant discussed with the foreman of the metal-trim-glass department, Mr. P. G. Roberts, the possibility of his doing overtime or extra work after hours in the latter department and it was agreed between them that the claimant would work on Thanksgiving, November 28, 1957, specifically, and at other times also when there was extra work to be done in Mr. Roberts’ department; in that department employees do not work upon an hourly basis, but are paid on a piece-work basis; that is to say, each piece of work is specifically assigned by ■the foreman and the worker is paid a certain percentage of the total cost of each particular job; while the evidence was equivocal as to whether it was understood between the claimant and the foreman that the claimant would work on November 26, 1957, the date of his injury, it appeared without dispute that the claimant left the premises at approximately 5 p. m., saying that he might be back in a minute; Mr. Roberts left the premises shortly after the claimant and did not return that night; the claimant returned at approximately 7 p. m. and went to the metal-trim-glass department on the second floor of the premises where he engaged in conversation for thirty or forty minutes with two- employees of that department who.ware working after hours; as Mr. Roberts had departed for the day, the claimant never had any piece-work job assigned to him; one of the two employees working in the department was sanding a fender of an automobile; the claimant offered to go to his own department and get a small pneumatic sander for him which he used in his work; the employee doing the sanding stated that he, was almost finished with the job and would not need the claimant’s sander; notwithstanding this refusal of his sander, the claimant went to the basement of the premises to turn on the air by which the small sander was operated; he went to the basement by way of the stairs, but was intending to return to the second floor by way of the freight elevator, customarily used in moving trucks and automobiles from one floor to the other in the building; the claimant pulled the requisite cable, causing the elevator to descend into the basement; as he endeavored to enter the elevator, his foot slipped and was caught under .the elevator and crushed; after rii-any days-of agony in the hospital, the claimant was compelled to have his leg amputated approximately eight inches below--the knee. The deputy director was also authorized to find that for whatever reason the claimant entered the basement, and- this point'was in dispute under the evidence, it was personal to himself as was his presence in the building at that time. ■ '
+Decided February 2, 1959.
+J. Hugh Rogers, Ward Matthews, for plaintiff in error.
+Greene, Neely, Buckley & DeRieux, Burt DeRieux, James H. Moore, contra. ’ ...
+6. The facts of this case do not bring it within that class of cases exemplified by Glens Falls Indem. Co. v. Sockwell, 58 Ga. App. 111 (197 S. E. 647), involving an employee’s deviation from his employment and his injury while returning thereto-. The claimant here was not employed at the time he entered the basement. Nor does this case come within that class of cases exemplified by Continental Cas. Co. v. Weems, 60 Ga. App. 410 (3 S. E. 2d 846), where an employee receives injuries while doing an act, in the course of his general employment, for the benefit of his employer, which act, although not specifically authorized, is not specifically forbidden;
+Judgment affirmed.
+Felton, C. J'., and Nichols, J.,'concur.
