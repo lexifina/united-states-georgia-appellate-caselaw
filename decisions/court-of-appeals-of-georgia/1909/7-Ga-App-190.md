@@ -1,0 +1,28 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "2194"
+decided: "1909-12-10"
+citations: ["7 Ga. App. 190"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Bussell J., dissents from the rulings in the third and fourth divisions of the decision."]
+parties: ["VENABLE v. CITY OF ATLANTA."]
+source_url: "https://static.case.law/ga-app/7/cases/0190-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 614003
+cites_cases: ["124 Ga. 710", "52 S. E. 751", "72 Ga. 319"]
+---
+
+# Venable v. City of Atlanta
+
+## Majority (Hill, C. J.)
+
+Hill, C. J.
+The plaintiff in error was convicted in the recorder’s court of the City of Atlanta of a violation of the municipal ordinance which forbids keeping on hand, for the purpose of illegal sale, spirituous liquors. He petitioned the superior court for a writ of certiorari, and the writ was granted. On the trial of the certiorari case the judge of the superior court overruled and dismissed the certiorari; and the bill of exceptions assigns error on this judgment. We will consider the questions made in their order.
+1. When the case was called for trial before the recorder, plaintiff in error made a motion to quash the summons, because it was not issued as provided by law, in that the clerk of the city council did not issue and sign it as required by the ordinance. The ordinance in question requires that a person charged with an offense against an ordinance of the city shall be informed, by a summons in writing, served on him, of the nature and cause of the accusation. In this case the summons served upon the defendant was a printed form, with the name of the clerk printed therein. The purpose of the ordinance is to give official notice to a person charged with an offense against the city, of the nature and character of the charge against him. A printed form of summons answers his purpose just as well as ,a written form; and it can not be contended that the plaintiff in error was'in any manner hurt by the fact that the summons served upon him and his counsel was printed, rather than written. The objection to the form of the summons is, in our opinion, purely technical and without substantial merit. In Pearson v. Wimbish, 124 Ga. 710 (52 S. E. 751), it is expressly held that in a recorder’s court a written accusation or statement in writing of the charge is not required, but all that is required is the appearance of the person, and that he shall be informed of the charge and shall be given an opportunity to defend. While the summons in a municipal court answers the same purpose as an accusation or indictment in a State court, it is not required that it shall state the offense with equal strictness as to form or substance.
+2. It is next insisted that the summons should have been quashed because the city failed to furnish, on written demand of the defendant, a list of the witnesses on whose testimony the charge against him was founded. In support of this contention it is stated that §1773 of the city code provides that the recorder’s court “shall be controlled by the rules of the superior court, as far as they are applicable to recorder’s courts and a sound construction of the charter and ordinances of the city.” The only provision on this subject is that contained in paragraph 5 of the bill of rights, in article 1 of the constitution of the State (Civil Code of 1895, §5702); and it has been expressly held by the Supreme Court in the case of Hill v. Mayor of Dalton, 72 Ga. 319, that this provision is not applicable to trials in the police court, first, because in the police court the offense is against the city, and not against the State; and secondly, “because such or equivalent provisions in the constitution of the United States and all the constitutions of this State have never been held to apply to police of cities and towns, and arrests and trial, with fine and imprisonment therein, under ordinances thereof.”
+3. Error is assigned upon the refusal of the recorder to continue the case in order to give the defendant an opportunity to subpoena witnesses to impeach a particular witness against him. He claimed that he did not know that this witness would testify for the city against him, and that he had had no opportunity to subpoena witnesses to impeach him, and that he could secure such witnesses if giyen time. In opposition to this motion it was shown by the city that as a matter of fact the plaintiff did know, several days before his trial, that this witness would appear against him in the case. Under these facts, this court will not interfere with the discretion of the trial court in refusing to postpone the case for the purpose of allowing opportunity to secure impeaching testimony.
+4. Several objections are urged against the ruling of the recorder in admitting certain testimony against the defendant, it being insisted that the testimony thus admitted over his objection was in some cases wholly irrelevant, and in other cases hearsay. We think that somewhat greater latitude should be allowed to municipal courts as to the admissibility of testimony than that which governs under rules of evidence on trials before juries in State courts. Irrespective of the testimony objected to in this case, however, the evidence not objected to clearly and strongly established the fact of the defendant’s guilt, and we are satisfied that the judgment of the superior court, in overruling and dismissing the certiorari, should be sustained.
+Judgment affirmed.
+Bussell J., dissents from the rulings in the third and fourth divisions of the decision.
