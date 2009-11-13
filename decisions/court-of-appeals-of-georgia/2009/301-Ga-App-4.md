@@ -1,0 +1,43 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "A09A1088"
+decided: "2009-11-13"
+citations: ["301 Ga. App. 4", "686 S.E.2d 839"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Miller, C. J., and Barnes, J., concur."]
+parties: ["DAVIS et al. v. OVERALL."]
+source_url: "https://static.case.law/ga-app/301/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12164245
+cites_cases: ["115 Ga. 885", "125 SE 195", "159 Ga. 136", "177 Ga. App. 493", "199 Ga. 150", "207 Ga. 576", "226 Ga. App. 459", "243 Ga. App. 526", "272 Ga. 118", "285 Ga. App. 421", "287 Ga. App. 810", "33 SE2d 441", "42 SE 277", "63 SE2d 386", "65 SE2d 38", "83 Ga. App. 810"]
+---
+
+# Davis v. Overall
+
+## Majority (ANDREWS, Presiding Judge.)
+
+ANDREWS, Presiding Judge.
+Lamar Davis and Howard Farmer sued Richard Overall for damages in a dispute over a family cemetery located on Overall’s land. Davis and Farmer contended that Overall had interfered with the family’s easement across Overall’s land to and from the cemetery and had trespassed and created a continuing nuisance within the cemetery. The trial court granted Davis and Farmer’s request for a permanent easement within the cemetery’s boundaries and a right of ingress and egress to and from the cemetery. The court granted Overall’s motion for summary judgment on Davis and Farmer’s other claims, including claims of nuisance, trespass, punitive damages, declaratory judgment, injunctive relief, and attorney fees. After reviewing the record, we conclude that the trial court erred in granting Overall’s motion for summary judgment on Davis and Farmer’s claims of nuisance, trespass and declaratory judgment and we reverse on those claims.
+Summary judgment is proper when there is no genuine issue of material fact and the movant is entitled to judgment as a matter of law. OCGA § 9-11-56 (c). This Court applies a de novo standard of review to an appeal from a grant of summary judgment and we view the evidence in the light most favorable to the nonmovant. Matjoulis v. Integon Gen. Ins. Corp., 226 Ga. App. 459 (486 SE2d 684) (1997).
+So viewed, the record shows that Davis, Farmer, and other heirs have continuously maintained the Davis-Busha cemetery since the burials of the six family members interred there. According to Davis, there were never any problems with accessing the cemetery until the property on which the cemetery was located was sold to Overall in 2007.
+Upon learning that the land had been sold, Davis called Overall to discuss the cemetery. Overall told Davis that he knew nothing about the cemetery and also told him that he ‘ ‘was forbidden to come upon the property.”
+Davis called a lawyer who wrote Overall a letter explaining that the heirs had a right to travel across his land to get to and from the cemetery and a right to maintain the cemetery. At some point after receiving the letter, Overall put building materials and other “junk” immediately adjacent to and partially upon the cemetery.
+Davis and Farmer then filed the instant suit. Two months later, Overall’s attorney told Davis and Farmer that Overall had either removed or was in the process of removing the obstructions around and on the cemetery and that the heirs would be allowed to visit the cemetery. Davis and Farmer claimed, however, that there was a continuing nuisance and trespass because Overall keeps goats and large dogs which roam freely across the cemetery and which are intimidating to visitors.
+1. The trial court erred in granting Overall’s motion for summary judgment on Davis and Farmer’s claims for nuisance and trespass.
+When a family burial plot is established, it creates an easement against the fee, and while the naked legal title will pass, it passes subject to the easement created. . . . The easement and rights created thereunder survive until the plot is abandoned either by the person establishing the plot or his heirs, or by removal of the bodies by the person granted statutory authority.
+(Punctuation omitted; emphasis in original.) Walker v. Ga. Power Co., 177 Ga. App. 493, 495 (339 SE2d 728) (1986). Accordingly, Davis and Farmer, as heirs of the person who established the family cemetery, “own an easement to enter, care for and maintain the burial plots, of freedom from damage or disturbance, and to use and enjoy the property.” Id. at 496.
+Here, Davis and Farmer have submitted evidence that Overall piled junk in and around the cemetery and also that there are goats and dogs roaming through the cemetery and interfering with their right to freely access the cemetery, to be free from damage or disturbance, and to use and enjoy the property. Overall argues that the debris has been removed, but “[o]ne who is the owner of the easement of burial in a cemetery is entitled to recover damages from any one who wrongfully interferes with such right.” Phinizy v. Gardner, 159 Ga. 136, 136 (125 SE 195) (1924). “The law infers some damage from the invasion of a property right; and if no evidence is given of any particular amount of loss, it declares the right by awarding what it terms ‘nominal damages.’ ” Williams v. Harris, 207 Ga. 576, 579 (2) (63 SE2d 386) (1951).
+When a deprivation of use and enjoyment has occurred, a plaintiff may recover both nominal damages and whatever the jury determines “the defendant ought to pay, in view of the discomfort and annoyance to which the plaintiff and his family have been subjected by the nuisance.” Swift v. Broyles, 115 Ga. 885, 888 (2) (42 SE 277) (1902).
+Stanfield v. Waste Mgmt. of Ga., 287 Ga. App. 810, 812 (652 SE2d 815) (2007). See also Baumann v. Snider, 243 Ga. App. 526, 528 (532 SE2d 468) (2000) (in a nuisance action, there may also be a recovery for damages to the person such as discomfort, loss of peace of mind, unhappiness and annoyance).
+2. In addition, because there are damages flowing from the interference with a property right, this case does not fall under OCGA § 51-12-6, as contended by Overall; therefore, Davis and Farmer may plead a claim for punitive damages. See West View Corp. v. Alexander, 83 Ga. App. 810 (65 SE2d 38) (1951), in which the court held that an action for trespass would lie in favor of the owner of a burial easement after defendant stripped the family graves of ivy and flowers. The court further held that “[s]uch an action lies for the actual damage inflicted plus punitive damages allowable.” Id. at 813. Likewise, in Hale v. Hale, 199 Ga. 150 (33 SE2d 441) (1945), defendant buried someone who was not a family member in plaintiffs cemetery lot. The court held that this was a trespass and the widow was entitled to a charge on exemplary damages. Id. at 155.
+3. It follows that the trial court also erred in granting summary judgment to Overall on Davis and Farmer’s claim for attorney fees under OCGA § 13-6-11, because that issue is for the jury. See Tyler v. Lincoln, 272 Ga. 118, 121 (2) (527 SE2d 180) (2000) (“statute authorizes an attorney fee award even when nominal damages are recovered”).
+Decided November 13, 2009.
+Alton M. Adams, for appellants.
+Oliver & Weidner, William R. Oliver, for appellee.
+4. The trial court also erred in granting Overall’s motion for summary judgment on Davis and Farmer’s claim for declaratory judgment. We conclude that “to the extent it is necessary to establish the boundaries of the cemetery and the extent of plaintiffs’ easement as between the parties, a declaratory judgment action would lie for such a purpose.” Ceasar v. The Shelton Land Co., 285 Ga. App. 421, 424 (4) (646 SE2d 689) (2007).
+5. With regard to Davis and Farmer’s claim that they were entitled to an injunction, we conclude that the trial court was correct in holding that, as to the claims before it on summary judgment, there was no basis upon which to grant an injunction because the court held that the heirs were entitled to a right of ingress and egress to and from the cemetery, and Overall had acknowledged this right. We note, however, that the trial court stated in its order that plaintiffs could be entitled to injunctive relief or damages, including punitive damages, on the pending claims of oil spilled on the graves and goats roaming through the cemetery. Accordingly, the issue of whether Davis and Farmer are entitled to equitable relief is still before the trial court.
+Judgment reversed.
+Miller, C. J., and Barnes, J., concur.
+There is a third amended complaint which alleges that Overall poured motor oil and/or diesel fuel on the graves in the cemetery. That claim was not part of the motion for summary judgment and is still pending in the trial court.
