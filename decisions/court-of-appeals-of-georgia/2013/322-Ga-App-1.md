@@ -1,0 +1,39 @@
+---
+court: "Court of Appeals of Georgia"
+docket: "A13A0504"
+decided: "2013-05-23"
+citations: ["322 Ga. App. 1", "743 S.E.2d 563"]
+reporter: "ga-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Barnes, P. J., and Ray, J., concur."]
+parties: ["ADKINSON v. THE STATE."]
+source_url: "https://static.case.law/ga-app/322/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3805343
+cites_cases: ["247 Ga. App. 512", "269 Ga. 258", "293 Ga. App. 220", "299 Ga. App. 664", "316 Ga. App. 213", "392 U. S. 1"]
+---
+
+# Adkinson v. State
+
+## Majority (Miller, Judge.)
+
+Miller, Judge.
+After Andrew Jackson Adkinson was charged with possession of cocaine (OCGA § 16-13-30 (a)), possession of marijuana less than an ounce (OCGA § 16-13-2 (b)), giving false information to a police officer (OCGA § 16-10-25), and driving with a suspended license (OCGA § 40-5-121 (a)), he moved to suppress evidence obtained as a result of a police traffic stop of his vehicle. The trial court denied Adkinson’s motion, and this Court granted Adkinson’s application for interlocutory appeal. On appeal, Adkinson contends that the officer lacked a reasonable articulable suspicion to conduct the traffic stop. We reverse because the officer did not have a particularized and objective basis to suspect Adkinson of wrongdoing.
+In reviewing the grant or denial of a motion to suppress, we construe the evidence in a light most favorable to upholding the trial court’s findings and judgment. When the trial court’s findings are based upon conflicting evidence, we will not disturb the lower court’s ruling if there is any evidence to support its findings, and we accept that court’s credibility assessments unless clearly erroneous. The trial court’s application of law to undisputed facts, however, is subject to de novo review.
+Sommese v. State, 299 Ga. App. 664, 665 (683 SE2d 642) (2009).
+So viewed, the evidence shows that on May 11, 2012, a Fulton County police officer was conducting a business check at a motel located off Fulton Industrial Boulevard. The motel was located in an area known for heavy drug activity. While the officer was at the motel, the officer observed Adkinson park his vehicle in the motel parking lot, get out, and look around as he walked to the motel’s stairwell. After Adkinson climbed the stairs, the officer lost sight of Adkinson. About two to three minutes later, the officer saw Adkinson descending the stairwell and return to his vehicle. As Adkinson drove away, the officer stopped Adkinson’s vehicle. According to the officer, he stopped Adkinson because the motel was located in a high drug area and Adkinson’s actions — visiting the motel for a few minutes — were consistent with someone buying drugs. The officer admitted that he did not see Adkinson purchase any drugs, enter a room where a transaction could have occurred, or commit any traffic violation.
+During the stop, the officer asked for Adkinson’s identification. Adkinson stated that he did not have any identification and gave the name of “Derek” Adkinson. The officer learned that Derek Adkinson’s license had been suspended, and asked Adkinson to step out of the vehicle. As Adkinson complied, the officer observed a small bag of crack cocaine on the driver’s seat. During a subsequent search, the officer found that Adkinson did have his license, his real name was Andrew Adkinson, his license had been suspended, and there was a warrant for his arrest. During a subsequent search of the vehicle, the officers also discovered a small amount of marijuana.
+After Adkinson was charged with drug and traffic offenses, he filed a motion to suppress. Following a hearing, the trial court denied Adkinson’s motion, concluding that the officer was justified in stopping Adkinson’s vehicle because the officer had a reasonable articulable suspicion that Adkinson was engaged in criminal activity.
+On appeal, Adkinson contends that the trial court erred in denying his motion to suppress because the officer did not have a reasonable articulable suspicion for conducting the traffic stop. We agree.
+Although an officer may conduct a brief investigative stop of a vehicle, such a stop must be justified by specific, articulable facts sufficient to give rise to a reasonable suspicion of criminal conduct. Investigative stops of vehicles are analogous to Terry[]-stops and are invalid if based upon only unparticularized suspicion or hunch. An investigatory stop must be justified by some objective manifestation that the person stopped is, or is about to be, engaged in criminal activity. This suspicion need not meet the standard of probable cause, but must be more than mere caprice or a hunch or an inclination.
+(Punctuation and footnote omitted.) Blakely v. State, 316 Ga. App. 213, 215 (729 SE2d 434) (2012).
+Here, the officer did not have specific articulable facts sufficient to give rise to a reasonable suspicion of criminal activity. Although the officer believed that Adkinson was involved in a criminal activity because he briefly visited a motel located in a high drug area, and his brief visit was consistent with drug activity,
+a person’s mere presence in a high crime area does not give rise to reasonable suspicion of criminal activity, even if police observe conduct which they believe consistent with a general pattern of such activity.
+(Citation and punctuation omitted.) State v. Hopper, 293 Ga. App. 220, 223 (666 SE2d 735) (2008) (briefly visiting a suspected drug house, by itself, was insufficient to establish a particularized suspicion of wrongdoing); see also Hughes v. State, 269 Ga. 258, 261 (1) (497 SE2d 790) (1998) (white male driving slowly around high crime area at night, picking up a black male, and returning the black male to his street-side location was insufficient to support stop). The officer testified that Adkinson was suspicious because he was looking around while he walked towards the motel stairwell and was unfazed when he noticed the officer’s patrol car. However, the officer did not observe Adkinson attempt to avoid police detection or act in any erratic manner. Additionally, the officer did not see Adkinson engage in any drug transaction at the motel, talk to anyone who was a known drug dealer, or commit a traffic violation as he left the motel. Furthermore, there is no evidence that Adkinson was known to police officers, or that the officers were looking for someone who matched Adkinson’s description. The officer inferred that because Adkinson fit a “pattern” of behavior by briefly stopping at a motel in a high drug area, Adkinson likely bought drugs inside. In other words, the stop was not based upon a particularized suspicion; rather, it was based upon Adkinson’s conformity to a general pattern of behavior. See Hopper, supra, 293 Ga. App. at 222. Although Adkinson’s behavior might have justified closer observation, the officer lacked sufficient information to believe that Adkinson, in particular, was engaged in illegal activity so as to provide a reasonable, articulable suspicion to justify the stop. See Hopper, supra, 293 Ga. App. at 222; Duke v. State, 247 Ga. App. 512, 514 (544 SE2d 201) (2001) (no objective basis for suspecting defendant of criminal activity where the defendant parked his van in an apartment complex parking lot, the officer lost sight of the defendant for about two minutes when the defendant went down the stairs, and the defendant left in his van). Consequently, the trial court erred in denying Adkinson’s motion to suppress.
+Decided May 23, 2013.
+Debbie-Ann R. Harris, for appellant.
+Paul L. Howard, Jr., District Attorney, Peggy R. Katz, Assistant District Attorney, for appellee.
+Judgment reversed.
+Barnes, P. J., and Ray, J., concur.
+Terry v. Ohio, 392 U. S. 1 (88 SCt 1868, 20 LE2d 889) (1968).
